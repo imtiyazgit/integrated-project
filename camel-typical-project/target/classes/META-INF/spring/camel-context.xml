@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Configures the Camel Context-->
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd">
+
+
+    <import resource="beans.xml"/>
+
+    <camelContext xmlns="http://camel.apache.org/schema/spring" handleFault="true">
+        <!--<route>
+            <from uri="file:src/data?noop=true"/>
+            <process ref="processorEx"/>
+            <to uri="jms:incomingOrders"/>
+        </route>-->
+        <packageScan>
+            <package>com.imtiyaz.examples</package>
+        </packageScan>
+
+        <!--<onException>         
+            <exception>java.io.IOException</exception>
+                     
+            <exception>java.sql.SQLException</exception>
+                     
+            <exception>javax.jms.JmsException</exception>
+            <redeliveryPolicy maximumRedeliveries="5" redeliveryDelay="3000"/>     
+        </onException>-->
+
+        <errorHandler id="myErrorHandler" type="DefaultErrorHandler">
+            <redeliveryPolicy asyncDelayedRedelivery="true" maximumRedeliveries="3" retryAttemptedLogLevel="WARN"
+                              backOffMultiplier="2" useExponentialBackOff="true"/>
+        </errorHandler>
+
+    </camelContext>
+
+
+
+</beans>

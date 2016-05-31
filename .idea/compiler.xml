@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for camel-typical-project" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="camel-typical-project" />
+      </profile>
+      <profile default="false" name="Annotation profile for jmx-basic" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="jmx-basic" />
+      </profile>
+      <profile default="false" name="Annotation profile for camel-tests" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="camel-tests" />
+      </profile>
+      <profile default="false" name="Annotation profile for Product-backend" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Product-backend" />
+      </profile>
+      <profile default="false" name="Annotation profile for Order-backend" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Order-backend" />
+      </profile>
+      <profile default="false" name="Annotation profile for Customer-backend" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Customer-backend" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-example" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="camel-tests" target="1.7" />
+      <module name="camel-typical-project" target="1.7" />
+      <module name="Customer-backend" target="1.7" />
+      <module name="jmx-basic" target="1.7" />
+      <module name="mockito-basic" target="1.6" />
+      <module name="Order-backend" target="1.7" />
+      <module name="parent" target="1.6" />
+      <module name="Product-backend" target="1.7" />
+      <module name="spring-basic" target="1.6" />
+      <module name="spring-boot-microservices" target="1.6" />
+      <module name="spring-example" target="1.7" />
+      <module name="spring-web" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

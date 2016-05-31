@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/Customer-backend/Customer-backend.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/Customer-backend/Customer-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/Order-backend/Order-backend.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/Order-backend/Order-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camel-tests/camel-tests.iml" filepath="$PROJECT_DIR$/camel-tests/camel-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camel-typical-project/camel-typical-project.iml" filepath="$PROJECT_DIR$/camel-typical-project/camel-typical-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmx-basic/jmx-basic.iml" filepath="$PROJECT_DIR$/jmx-basic/jmx-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockito-basic/mockito-basic.iml" filepath="$PROJECT_DIR$/mockito-basic/mockito-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-basic/spring-basic.iml" filepath="$PROJECT_DIR$/spring-basic/spring-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/spring-boot-microservices.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/spring-boot-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-example/spring-example.iml" filepath="$PROJECT_DIR$/spring-example/spring-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-web/spring-web.iml" filepath="$PROJECT_DIR$/spring-web/spring-web.iml" />
+    </modules>
+  </component>
+</project>

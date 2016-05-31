@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        p{
+            color:red;
+        }
+    </style>
+</head>
+<body>
+<p id="p1"></p>
+<button onclick="displayMessage()">Display</button>
+<!-- Always use script as part of body to make page more responsive-->
+<script>
+    "use strict"; // To avoid variable hosting
+    function Account(name, balance) {
+        this.name = name;
+        this.balance = balance;
+    }
+    function displayMessage() {
+        try {
+            // variable hoisting. Declaring the variable at the end of function/some where
+            my_account = new Account("Imtiyaz", "184");
+            document.getElementById("p1").innerHTML = my_account.name + "  is holding" + my_account.balance;
+        } catch (err) {
+        } finally {}
+        var my_account;
+    }
+</script>
+</body>
+</html>
