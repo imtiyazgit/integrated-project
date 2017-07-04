@@ -2,219 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/imtiyaz/examples/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/microservices/rest/Customer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test1/Denominations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Docker-examples/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_51.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_oauth_core_oauth_20100527.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_oauth_core_oauth_provider_20100527.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_broker_5_10_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_camel_5_11_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_10_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_jms_pool_5_10_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_openwire_legacy_5_10_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_pool_5_11_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_spring_5_11_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_cxf_2_15_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_cxf_transport_2_15_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_ftp_2_15_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_hawtdb_2_15_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_jdbc_2_15_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_jpa_2_15_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_mina_2_15_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_quartz_2_15_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_scala_2_15_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_camel_camel_stream_2_15_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_core_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_soap_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_jaxb_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_features_clustering_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxrs_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxws_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_simple_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_client_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_security_oauth_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_addr_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_policy_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_wsdl_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_0_1B_spec_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_mina_mina_core_1_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_neethi_neethi_3_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_spring_3_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtdb_hawtdb_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_1_8_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/algos/string/StringRemoveDups.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-example/src/main/java/com/test/Test.puml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test1/XmlOperations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/spring-basic (1).iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/resources/test1.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spring-web/src/main/java/com/mkyong/servlet3/MyWebInitializer.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/camel-typical-project/src/main/java/com/imtiyaz/examples/OrderFailedException.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/imtiyaz/examples/OrderFailedException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/camel-typical-project/src/main/java/com/imtiyaz/examples/ProcessorExample.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/imtiyaz/examples/ProcessorExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/basic1/CharToInteger.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basic1/CharToInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/basic1/IncrementDecrementStuff.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basic1/IncrementDecrementStuff.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/basic1/IntegerToString.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basic1/IntegerToString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/basic1/StringChangeCase.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/basic1/StringChangeCase.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/basic1/StringToInteger.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basic1/StringToInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/basic1/classloader/ClassLoaderDelegationVisibilityUniqueness.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basic1/classloader/ClassLoaderDelegationVisibilityUniqueness.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/basic1/classloader/CustomClassLoaderTest.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basic1/classloader/CustomClassLoaderTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/basic1/classloader/DummyClass.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basic1/classloader/DummyClass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/basics/TestTwoThreads.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basics/TestTwoThreads.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/basics/ThreadLocalExample.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basics/ThreadLocalExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/basics/ThreadLocalForDateFormat.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basics/ThreadLocalForDateFormat.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/basics/ThreadsSeqExecutionWithoutJoin.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basics/ThreadsSeqExecutionWithoutJoin.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/basics/UncaughtExceptionFromThread.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/basics/UncaughtExceptionFromThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/deadlock/DeadLockExample.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/deadlock/DeadLockExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/deadlock/ThreadDeadLock.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/deadlock/ThreadDeadLock.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/synchronizers/CDLStartThreadsAtSameTime.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/synchronizers/CDLStartThreadsAtSameTime.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/synchronizers/CountDownLatchTest.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/synchronizers/CountDownLatchTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/synchronizers/CyclicBarrierExample.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/synchronizers/CyclicBarrierExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/threadpool/ExecutorServiceExample.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/threadpool/ExecutorServiceExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/concurrency/threadpool/SimpleThreadPool.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/concurrency/threadpool/SimpleThreadPool.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/hashing/MutableHashSetProblem.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/hashing/MutableHashSetProblem.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/lambda/Apple.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/lambda/Apple.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/lambda/LambdaTest1.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/lambda/LambdaTest1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/lambda/LambdaTest2.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/lambda/LambdaTest2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/lambda/LambdaTest3.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/lambda/LambdaTest3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/lambda/LambdaTest4.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/lambda/LambdaTest4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/withoutbuiltinfunctions/StringReverseUsingIteration.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/withoutbuiltinfunctions/StringReverseUsingIteration.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core-java/src/com/withoutbuiltinfunctions/StringReverseUsingRecursion.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/withoutbuiltinfunctions/StringReverseUsingRecursion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jmx-basic/src/main/java/com/imtiyaz/examples/Hello.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/imtiyaz/examples/Hello.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jmx-basic/src/main/java/com/imtiyaz/examples/SimpleAgent.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/imtiyaz/examples/SimpleAgent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-basic/src/main/java/com/imtiyaz/examples/User.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/imtiyaz/examples/User.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-microservices/Customer-backend/src/main/java/com/microservices/Application.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/microservices/Application.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-microservices/Customer-backend/src/main/java/com/microservices/rest/CustomerRest.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/microservices/rest/CustomerRest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/spring-boot-microservices/Product-backend/src/main/java/com/microservices/ApplicationConfig.java" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/microservices/ApplicationConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-basic/target/classes/com/imtiyaz/examples/Address.class" afterPath="$PROJECT_DIR$/spring-basic/target/classes/com/imtiyaz/examples/Address.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmx-basic/target/test-classes/com/imtiyaz/examples/AppTest.class" afterPath="$PROJECT_DIR$/jmx-basic/target/test-classes/com/imtiyaz/examples/AppTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-basic/target/test-classes/com/imtiyaz/examples/AppTest.class" afterPath="$PROJECT_DIR$/spring-basic/target/test-classes/com/imtiyaz/examples/AppTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/Athlet.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/Athlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/BeanLogger.class" afterPath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/BeanLogger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/tree/BinaryTree.class" afterPath="$PROJECT_DIR$/target/classes/algos/tree/BinaryTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/sort/BubbleSort.class" afterPath="$PROJECT_DIR$/target/classes/algos/sort/BubbleSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/CDLStartThreadsAtSameTime.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/CDLStartThreadsAtSameTime.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/CamelFileToJms$1.class" afterPath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/CamelFileToJms$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/CamelFileToJms.class" afterPath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/CamelFileToJms.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/basic1/CharToInteger.class" afterPath="$PROJECT_DIR$/target/classes/com/basic1/CharToInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/basic1/classloader/ClassLoaderDelegationVisibilityUniqueness.class" afterPath="$PROJECT_DIR$/target/classes/com/basic1/classloader/ClassLoaderDelegationVisibilityUniqueness.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/CountDownLatchTest.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/CountDownLatchTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/sort/CountingSorter.class" afterPath="$PROJECT_DIR$/target/classes/algos/sort/CountingSorter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/basic1/classloader/CustomClassLoader.class" afterPath="$PROJECT_DIR$/target/classes/com/basic1/classloader/CustomClassLoader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/basic1/classloader/CustomClassLoaderTest.class" afterPath="$PROJECT_DIR$/target/classes/com/basic1/classloader/CustomClassLoaderTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/CyclicBarrierExample$1.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/CyclicBarrierExample$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/CyclicBarrierExample.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/CyclicBarrierExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/deadlock/DeadLockExample.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/deadlock/DeadLockExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/number/DivMulBy2.class" afterPath="$PROJECT_DIR$/target/classes/algos/number/DivMulBy2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/basic1/classloader/DummyClass.class" afterPath="$PROJECT_DIR$/target/classes/com/basic1/classloader/DummyClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/ExecutorServiceExample$1.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/ExecutorServiceExample$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/ExecutorServiceExample$2.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/ExecutorServiceExample$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/ExecutorServiceExample.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/ExecutorServiceExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/ExtraDuplicate.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/ExtraDuplicate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/FileCopierWithCamel$1.class" afterPath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/FileCopierWithCamel$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/FileCopierWithCamel.class" afterPath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/FileCopierWithCamel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-basic/target/classes/FileCopyTest.class" afterPath="$PROJECT_DIR$/spring-basic/target/classes/FileCopyTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/FindDuplicatesInArray.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/FindDuplicatesInArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/FindSmallestGreatestInArr.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/FindSmallestGreatestInArr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/FindTopTwoNumbers.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/FindTopTwoNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-basic/target/classes/com/imtiyaz/examples/HelloApp.class" afterPath="$PROJECT_DIR$/spring-basic/target/classes/com/imtiyaz/examples/HelloApp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-example/target/classes/com/test/HelloApp.class" afterPath="$PROJECT_DIR$/spring-example/target/classes/com/test/HelloApp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-basic/target/classes/com/imtiyaz/examples/HelloAspect.class" afterPath="$PROJECT_DIR$/spring-basic/target/classes/com/imtiyaz/examples/HelloAspect.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmx-basic/target/classes/com/imtiyaz/examples/HelloMBean.class" afterPath="$PROJECT_DIR$/jmx-basic/target/classes/com/imtiyaz/examples/HelloMBean.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-basic/target/classes/com/imtiyaz/examples/HelloService.class" afterPath="$PROJECT_DIR$/spring-basic/target/classes/com/imtiyaz/examples/HelloService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/basic1/IncrementDecrementStuff.class" afterPath="$PROJECT_DIR$/target/classes/com/basic1/IncrementDecrementStuff.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/sort/InsertionSort.class" afterPath="$PROJECT_DIR$/target/classes/algos/sort/InsertionSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/basic1/IntegerToString.class" afterPath="$PROJECT_DIR$/target/classes/com/basic1/IntegerToString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/IntersectionOfThreeSortedArrays.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/IntersectionOfThreeSortedArrays.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/IntersectionOfTwoSortedArrays.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/IntersectionOfTwoSortedArrays.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/JoinTask.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/JoinTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/KthSmallestElement.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/KthSmallestElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/linkedlist/LinkedList.class" afterPath="$PROJECT_DIR$/target/classes/algos/linkedlist/LinkedList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/MergeTwoSortedArraysIntoOne.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/MergeTwoSortedArraysIntoOne.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/MissingDuplicate.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/MissingDuplicate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/MissingNumber.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/MissingNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/MoveZerosToEnd.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/MoveZerosToEnd.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hashing/MutableHashSetProblem.class" afterPath="$PROJECT_DIR$/target/classes/com/hashing/MutableHashSetProblem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/MyAthlet.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/MyAthlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/MyThread.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/MyThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/deadlock/MyThread.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/deadlock/MyThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/MyThread.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/MyThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/linkedlist/Node.class" afterPath="$PROJECT_DIR$/target/classes/algos/linkedlist/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/tree/Node.class" afterPath="$PROJECT_DIR$/target/classes/algos/tree/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/ObjectFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/synchronizers/ObjectFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/string/PalindromeString.class" afterPath="$PROJECT_DIR$/target/classes/algos/string/PalindromeString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-example/target/classes/com/test/Person.class" afterPath="$PROJECT_DIR$/spring-example/target/classes/com/test/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hashing/PhoneNumber.class" afterPath="$PROJECT_DIR$/target/classes/com/hashing/PhoneNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/sort/QuickSort.class" afterPath="$PROJECT_DIR$/target/classes/algos/sort/QuickSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/Rearrange.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/Rearrange.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/RemoveDuplicatesFromSortedArray.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/RemoveDuplicatesFromSortedArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/RemoveDuplicatesFromUnSortedArray.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/RemoveDuplicatesFromUnSortedArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/sort/SelectionSort.class" afterPath="$PROJECT_DIR$/target/classes/algos/sort/SelectionSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/SharedTask.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/SharedTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/sort/ShellSorter.class" afterPath="$PROJECT_DIR$/target/classes/algos/sort/ShellSorter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/SimpleThreadPool.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/SimpleThreadPool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/SmallestPartitioning.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/SmallestPartitioning.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-basic/target/classes/com/imtiyaz/examples/SpringConfig2.class" afterPath="$PROJECT_DIR$/spring-basic/target/classes/com/imtiyaz/examples/SpringConfig2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-example/target/classes/com/test/SpringConfig2.class" afterPath="$PROJECT_DIR$/spring-example/target/classes/com/test/SpringConfig2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/basic1/StringChangeCase.class" afterPath="$PROJECT_DIR$/target/classes/com/basic1/StringChangeCase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/string/StringPermutations.class" afterPath="$PROJECT_DIR$/target/classes/algos/string/StringPermutations.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/withoutbuiltinfunctions/StringReverseUsingIteration.class" afterPath="$PROJECT_DIR$/target/classes/com/withoutbuiltinfunctions/StringReverseUsingIteration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/withoutbuiltinfunctions/StringReverseUsingRecursion.class" afterPath="$PROJECT_DIR$/target/classes/com/withoutbuiltinfunctions/StringReverseUsingRecursion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/basic1/StringToInteger.class" afterPath="$PROJECT_DIR$/target/classes/com/basic1/StringToInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/number/Swap.class" afterPath="$PROJECT_DIR$/target/classes/algos/number/Swap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/deadlock/SyncThread.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/deadlock/SyncThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/TEst.class" afterPath="$PROJECT_DIR$/camel-tests/target/classes/com/imtiyaz/examples/TEst.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/Task1.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/Task1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/Task2.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/Task2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/Task3.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/Task3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/number/TestEvenOdd.class" afterPath="$PROJECT_DIR$/target/classes/algos/number/TestEvenOdd.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/TestTwoThreads$Thread1.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/TestTwoThreads$Thread1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/TestTwoThreads$Thread2.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/TestTwoThreads$Thread2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/TestTwoThreads.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/TestTwoThreads.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/deadlock/ThreadDeadLock.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/deadlock/ThreadDeadLock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadLocalExample.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadLocalExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadLocalForDateFormat$1.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadLocalForDateFormat$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadLocalForDateFormat.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadLocalForDateFormat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadsSeqExecutionWithoutJoin$1.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadsSeqExecutionWithoutJoin$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadsSeqExecutionWithoutJoin$2.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadsSeqExecutionWithoutJoin$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadsSeqExecutionWithoutJoin$3.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadsSeqExecutionWithoutJoin$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadsSeqExecutionWithoutJoin.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/ThreadsSeqExecutionWithoutJoin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/basics/UncaughtExceptionFromThread.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/basics/UncaughtExceptionFromThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/array/UnionOfSortedArrays.class" afterPath="$PROJECT_DIR$/target/classes/algos/array/UnionOfSortedArrays.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/WorkerThread.class" afterPath="$PROJECT_DIR$/target/classes/com/concurrency/threadpool/WorkerThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/algos/linkedlist/YProblem.class" afterPath="$PROJECT_DIR$/target/classes/algos/linkedlist/YProblem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-microservices/Customer-backend/Customer-backend.iml" afterPath="$PROJECT_DIR$/spring-boot-microservices/Customer-backend/Customer-backend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-microservices/Order-backend/Order-backend.iml" afterPath="$PROJECT_DIR$/spring-boot-microservices/Order-backend/Order-backend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" afterPath="$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camel-tests/camel-tests.iml" afterPath="$PROJECT_DIR$/camel-tests/camel-tests.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core-java/core-java.iml" afterPath="$PROJECT_DIR$/core-java/core-java.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmx-basic/jmx-basic.iml" afterPath="$PROJECT_DIR$/jmx-basic/jmx-basic.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/DentalPlan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Dependent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Employer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/HealthPlan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/InsuranceProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/PlanType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Subscriber.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parent.iml" afterPath="$PROJECT_DIR$/parent.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-basic/target/classes/result.properties" afterPath="$PROJECT_DIR$/spring-basic/target/classes/result.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-example/spring-example.iml" afterPath="$PROJECT_DIR$/spring-example/spring-example.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="parent.iws" />
@@ -249,54 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Hello.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/imtiyaz/examples/Hello.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleAgent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/imtiyaz/examples/SimpleAgent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/imtiyaz/examples/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Denominations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test1/Denominations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#336#352#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XmlOperations.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="XmlOperations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test1/XmlOperations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0510949">
-              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -304,42 +56,126 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test1.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core-java/src/main/resources/test1.xml">
+      <file leaf-file-name="Subscriber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Subscriber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsuranceProvider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/InsuranceProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding>
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DentalPlan.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/DentalPlan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3558394">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-basic/src/main/java/com/imtiyaz/examples/Address.java">
+      <file leaf-file-name="HealthPlan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/HealthPlan.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlanType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/PlanType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/imtiyaz/examples/Address.java">
+      <file leaf-file-name="Dependent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Dependent.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpringWebConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/com/mkyong/config/SpringWebConfig.java">
+      <file leaf-file-name="Employer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Employer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -350,6 +186,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
+        <option value="UML Class" />
       </list>
     </option>
   </component>
@@ -377,6 +215,12 @@
         <option value="$PROJECT_DIR$/core-java/src/main/resources/test1.xml" />
         <option value="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test1/XmlOperations.java" />
         <option value="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test1/Denominations.java" />
+        <option value="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Subscriber.java" />
+        <option value="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/DentalPlan.java" />
+        <option value="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Dependent.java" />
+        <option value="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Employer.java" />
+        <option value="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/HealthPlan.java" />
+        <option value="$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/InsuranceProvider.java" />
       </list>
     </option>
   </component>
@@ -454,320 +298,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mkyong" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mkyong" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot-microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot-microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Customer-backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot-microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Customer-backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-boot-microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Customer-backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntegratedProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="core-java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -791,10 +321,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -858,7 +384,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test1" />
+              <option name="myItemId" value="labs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntegratedProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -867,12 +431,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="recentsLimit" value="5" />
     <property name="com.intellij.ide.scratch.NewScratchFileAction" value="JAVA" />
     <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1102,6 +670,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="" />
@@ -1109,40 +680,62 @@
       <option name="number" value="Default" />
       <updated>1499192526279</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added accion test1">
+      <created>1499198609165</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1499198609165</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="977" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32945284" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32945284" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32945284" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993015" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993015" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Added accion test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added accion test1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1168,11 +761,250 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test1/XmlOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Subscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/InsuranceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/DentalPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/HealthPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/PlanType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Dependent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Employer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test1/XmlOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Subscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/InsuranceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/DentalPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/HealthPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/PlanType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Dependent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Employer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1180,7 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="106" column="19" selection-start-line="19" selection-start-column="4" selection-end-line="106" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1188,9 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1198,7 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1206,9 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1216,7 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1240,7 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1248,9 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1258,7 +1077,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1266,7 +1084,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1274,7 +1091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1282,7 +1098,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1290,7 +1105,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1298,7 +1112,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1306,7 +1119,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1314,7 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1331,13 +1142,264 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test1/XmlOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0510949">
-          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Dependent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Employer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/HealthPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/InsuranceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/PlanType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/Subscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/accion/labs/test2/DentalPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3558394">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>camel-tests</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile1" value="file://$PROJECT_DIR$/../Test.suml" />
+      <option name="knownFile2" value="file://$PROJECT_DIR$/../Test2.suml" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../JyotiTest1.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
   </component>
 </project>
