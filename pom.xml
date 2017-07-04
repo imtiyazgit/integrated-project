@@ -36,6 +36,7 @@
   </developers>
 
   <modules>
+    <module>core-java</module>
     <module>spring-basic</module>
     <module>spring-web</module>
     <module>camel-tests</module>
@@ -83,8 +84,8 @@
           <artifactId>maven-compiler-plugin</artifactId>
           <version>2.5</version>
           <configuration>
-            <source>1.7</source>
-            <target>1.7</target>
+            <source>1.8</source>
+            <target>1.8</target>
             <maxmem>256M</maxmem>
             <showDeprecation>true</showDeprecation>
           </configuration>

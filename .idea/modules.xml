@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/camel-tests/camel-tests.iml" filepath="$PROJECT_DIR$/camel-tests/camel-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/camel-typical-project/camel-typical-project.iml" filepath="$PROJECT_DIR$/camel-typical-project/camel-typical-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java/core-java.iml" filepath="$PROJECT_DIR$/core-java/core-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/jmx-basic/jmx-basic.iml" filepath="$PROJECT_DIR$/jmx-basic/jmx-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/mockito-basic/mockito-basic.iml" filepath="$PROJECT_DIR$/mockito-basic/mockito-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
