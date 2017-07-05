@@ -18,35 +18,44 @@ import java.util.Optional;
 public class XmlOperations {
 
     public static void main(String[] args) {
+        new XmlOperations().execute("core-java/src/main/resources/test1.xml");
+    }
+
+    public void execute(String file) {
         try {
-            File fXmlFile = new File("core-java/src/main/resources/test1.xml");
-            DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-            DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-            Document doc = dBuilder.parse(fXmlFile);
-            doc.getDocumentElement().normalize();
-            NodeList nList = doc.getElementsByTagName("transaction");
+            XmlOperations xmlOperations = new XmlOperations();
+            NodeList nList = xmlOperations.readXmlNodes(file);
             for (int temp = 0; temp < nList.getLength(); temp++) {
                 Node nNode = nList.item(temp);
                 if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                     Element eElement = (Element) nNode;
-                    printItemInfo(eElement.getAttribute("item"), eElement.getAttribute("amount"));
+                    String result = printItemInfo(eElement.getAttribute("item"), eElement.getAttribute("amount"));
+                    System.out.println(result);
                 }
             }
         } catch (Exception e) {
             e.printStackTrace();
         }
-
     }
 
-    private static void printItemInfo(String item, String amount) throws IOException {
-        int amt = 0;
+    public NodeList readXmlNodes(String file) throws Exception {
+        File fXmlFile = new File(file);
+        DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+        DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+        Document doc = dBuilder.parse(fXmlFile);
+        doc.getDocumentElement().normalize();
+        return doc.getElementsByTagName("transaction");
+    }
+
+    public String printItemInfo(String item, String amount) throws IOException {
+        int amt;
         if (amount.endsWith("$")) {
             amt = Integer.parseInt(amount.substring(0, amount.length() - 1)) * 100;
         } else {
             amt = Integer.parseInt(amount.substring(0, amount.length() - 1));
         }
         String denom = Denominations.find(Optional.of(amt));
-        System.out.println(item + " " + denom);
+        return item + " " + denom;
     }
 
 
