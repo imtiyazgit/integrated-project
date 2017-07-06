@@ -10,6 +10,7 @@ import org.w3c.dom.Element;
 
 import java.io.File;
 import java.io.IOException;
+import java.math.BigDecimal;
 import java.util.Optional;
 
 /**
@@ -50,12 +51,21 @@ public class XmlOperations {
     public String printItemInfo(String item, String amount) throws IOException {
         int amt;
         if (amount.endsWith("$")) {
-            amt = Integer.parseInt(amount.substring(0, amount.length() - 1)) * 100;
+            amt = convertFromDollarToCents(amount.substring(0, amount.length() - 1));
         } else {
             amt = Integer.parseInt(amount.substring(0, amount.length() - 1));
         }
         String denom = Denominations.find(Optional.of(amt));
         return item + " " + denom;
+    }
+
+    public int convertFromDollarToCents(String amt) {
+        BigDecimal dollars = new BigDecimal(amt);
+        if(dollars.scale()>2)
+        {
+            throw new IllegalArgumentException();
+        }
+        return dollars.multiply(new BigDecimal(100)).intValue();
     }
 
 

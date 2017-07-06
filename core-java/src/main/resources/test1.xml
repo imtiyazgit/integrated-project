@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <transactions>
     <transaction item="Coffee" amount="5c"/>
-    <transaction item="Green Tea" amount="34$"/>
+    <transaction item="Green Tea" amount="343.25$"/>
     <transaction item="Mocha" amount="45$"/>
 </transactions>
