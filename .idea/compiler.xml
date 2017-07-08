@@ -73,6 +73,13 @@
         <processorPath useClasspath="true" />
         <module name="camel-typical-project" />
       </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="node-ex" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="camel-tests" target="1.8" />
@@ -81,6 +88,7 @@
       <module name="Customer-backend" target="1.8" />
       <module name="jmx-basic" target="1.8" />
       <module name="mockito-basic" target="1.6" />
+      <module name="node-ex" target="1.5" />
       <module name="Order-backend" target="1.8" />
       <module name="parent" target="1.6" />
       <module name="Product-backend" target="1.8" />

@@ -45,6 +45,7 @@
     <module>mockito-basic</module>
     <module>spring-boot-microservices</module>
     <module>spring-example</module>
+    <module>node-ex</module>
 
   </modules>
 
