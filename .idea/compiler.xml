@@ -17,21 +17,82 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+      <profile default="false" name="Annotation profile for camel-tests" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="camel-tests" />
+      </profile>
+      <profile default="false" name="Annotation profile for angular-ex" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="angular-ex" />
-        <module name="camel-tests" />
-        <module name="camel-typical-project" />
-        <module name="core-java" />
-        <module name="Customer-backend" />
-        <module name="jmx-basic" />
-        <module name="node-ex" />
-        <module name="Order-backend" />
+      </profile>
+      <profile default="false" name="Annotation profile for Product-backend" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
         <module name="Product-backend" />
+      </profile>
+      <profile default="false" name="Annotation profile for Order-backend" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Order-backend" />
+      </profile>
+      <profile default="false" name="Annotation profile for Customer-backend" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Customer-backend" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-example" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
         <module name="spring-example" />
+      </profile>
+      <profile default="false" name="Annotation profile for node-ex" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="node-ex" />
+      </profile>
+      <profile default="false" name="Annotation profile for core-java" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="core-java" />
+      </profile>
+      <profile default="false" name="Annotation profile for jmx-basic" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="jmx-basic" />
+      </profile>
+      <profile default="false" name="Annotation profile for camel-typical-project" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="camel-typical-project" />
+      </profile>
+      <profile default="false" name="Annotation profile for earthquakes-catalog" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="earthquakes-catalog" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -40,6 +101,7 @@
       <module name="camel-typical-project" target="1.7" />
       <module name="core-java" target="1.8" />
       <module name="Customer-backend" target="1.8" />
+      <module name="earthquakes-catalog" target="1.8" />
       <module name="jmx-basic" target="1.8" />
       <module name="mockito-basic" target="1.6" />
       <module name="node-ex" target="1.8" />
