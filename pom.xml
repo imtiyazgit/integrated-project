@@ -36,6 +36,7 @@
   </developers>
 
   <modules>
+    <module>algorithms</module>
     <module>core-java</module>
     <module>spring-basic</module>
     <module>spring-web</module>

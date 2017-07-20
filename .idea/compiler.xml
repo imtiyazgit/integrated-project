@@ -94,9 +94,17 @@
         <processorPath useClasspath="true" />
         <module name="earthquakes-catalog" />
       </profile>
+      <profile default="false" name="Annotation profile for angular-ex (1)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="angular-ex (1)" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="angular-ex" target="1.8" />
+      <module name="angular-ex (1)" target="1.8" />
       <module name="camel-tests" target="1.8" />
       <module name="camel-typical-project" target="1.7" />
       <module name="core-java" target="1.8" />
