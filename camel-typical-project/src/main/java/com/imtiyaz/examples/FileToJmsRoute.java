@@ -18,7 +18,7 @@ public class FileToJmsRoute extends RouteBuilder {
         onException(OrderFailedException.class).maximumRedeliveries(5);*/
 
         from("file:src/data?noop=true").
-                process(new ProcessorExample()).
+                //process(new ProcessorExample()).
                 bean(BeanLogger.class). // This is a bean from package scan
                 beanRef("anotherBean", "sayHello"). // This is a spring bean from xml
                 log("Received body before sending to queue {body}").

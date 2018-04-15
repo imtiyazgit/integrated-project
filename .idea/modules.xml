@@ -13,8 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/earthquakes-catalog/earthquakes-catalog.iml" filepath="$PROJECT_DIR$/earthquakes-catalog/earthquakes-catalog.iml" />
       <module fileurl="file://$PROJECT_DIR$/jmx-basic/jmx-basic.iml" filepath="$PROJECT_DIR$/jmx-basic/jmx-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/mockito-basic/mockito-basic.iml" filepath="$PROJECT_DIR$/mockito-basic/mockito-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moxy-ex/moxy-ex.iml" filepath="$PROJECT_DIR$/moxy-ex/moxy-ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/node-ex/node-ex.iml" filepath="$PROJECT_DIR$/node-ex/node-ex.iml" />
-      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-basic/spring-basic.iml" filepath="$PROJECT_DIR$/spring-basic/spring-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/spring-boot-microservices.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/spring-boot-microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-example/spring-example.iml" filepath="$PROJECT_DIR$/spring-example/spring-example.iml" />
