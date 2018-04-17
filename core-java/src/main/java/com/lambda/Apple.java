@@ -1,4 +1,4 @@
-package main.java.com.lambda;
+package com.lambda;
 
 /**
  * Created by imtiyaz on 30/05/16.

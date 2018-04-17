@@ -1,4 +1,4 @@
-package main.java.com.lambda;
+package com.lambda;
 
 import java.util.ArrayList;
 import java.util.Arrays;
