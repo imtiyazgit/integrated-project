@@ -10,12 +10,21 @@ public class SquareOfEachNumber {
 
         integerList.stream().map(i -> i*i).forEach(System.out::println);*/
 
-        List<Integer> list1 = Arrays.asList(1, 2, 3);
+        /*List<Integer> list1 = Arrays.asList(1, 2, 3);
         List<Integer> list2 = Arrays.asList(3, 4);
 
         List<int[]> result = list1.stream().flatMap(
                 i -> list2.stream().map(j-> new int[]{i,j})
         ).collect(Collectors.toList());
+
+        result.stream().map(arr-> Arrays.toString(arr)).forEach(System.out::println);*/
+
+        List<Integer> list1 = Arrays.asList(1, 2, 3);
+        List<Integer> list2 = Arrays.asList(3, 4);
+
+        List<int[]> result = list1.stream().flatMap(
+                i -> list2.stream().map(j-> new int[]{i,j})
+        ).filter(arr -> (arr[0] + arr[1]) % 3 == 0).collect(Collectors.toList());
 
         result.stream().map(arr-> Arrays.toString(arr)).forEach(System.out::println);
 
