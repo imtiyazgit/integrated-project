@@ -31,32 +31,12 @@ public class StreamFirstExample {
 
         System.out.println(dishNames);
 
+        System.out.println("No of elements in list "+dishes.stream().count());
+
+        System.out.println("Print each eleemnt of list usings streams");
+
+        dishes.stream().map(Dish::getName).forEach(System.out::println);
     }
 }
 
 
-class Dish {
-    private String name;
-    private int calories;
-
-    public Dish(String name, int calories) {
-        this.name = name;
-        this.calories = calories;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public int getCalories() {
-        return calories;
-    }
-
-    public void setCalories(int calories) {
-        this.calories = calories;
-    }
-}
