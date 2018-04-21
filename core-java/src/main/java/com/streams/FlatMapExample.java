@@ -15,5 +15,15 @@ public class FlatMapExample {
                 .flatMap(Arrays::stream)
                 .distinct()
                 .forEach(System.out::println);
+
+
+        List<Integer[]> listOfIntArr = Arrays.asList(
+                new Integer[] {1,2},
+                new Integer[] {3,4}
+            );
+
+        // i want to print array elements
+
+        listOfIntArr.stream().flatMap(Arrays::stream).forEach(System.out::println);
     }
 }
