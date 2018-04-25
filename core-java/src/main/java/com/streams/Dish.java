@@ -24,4 +24,12 @@ class Dish {
     public void setCalories(int calories) {
         this.calories = calories;
     }
+
+    @Override
+    public String toString() {
+        return "Dish{" +
+                "name='" + name + '\'' +
+                ", calories=" + calories +
+                '}';
+    }
 }
