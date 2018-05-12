@@ -18,6 +18,7 @@
         <module name="node-ex" />
         <module name="Order-backend" />
         <module name="Product-backend" />
+        <module name="rxjavaexamples" />
         <module name="spring-example" />
       </profile>
     </annotationProcessing>
@@ -34,8 +35,8 @@
       <module name="moxy-ex" target="1.7" />
       <module name="node-ex" target="1.8" />
       <module name="Order-backend" target="1.8" />
-      <module name="parent" target="1.6" />
       <module name="Product-backend" target="1.8" />
+      <module name="rxjavaexamples" target="1.8" />
       <module name="spring-basic" target="1.6" />
       <module name="spring-boot-microservices" target="1.6" />
       <module name="spring-example" target="1.8" />
