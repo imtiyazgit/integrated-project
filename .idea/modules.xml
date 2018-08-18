@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/Customer-backend/Customer-backend.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/Customer-backend/Customer-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/Order-backend/Order-backend.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/Order-backend/Order-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allexamples/allexamples.iml" filepath="$PROJECT_DIR$/allexamples/allexamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/angular-ex/angular-ex.iml" filepath="$PROJECT_DIR$/angular-ex/angular-ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithms/angular-ex (1).iml" filepath="$PROJECT_DIR$/algorithms/angular-ex (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/angularpractice/angularpractice.iml" filepath="$PROJECT_DIR$/angularpractice/angularpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/camel-tests/camel-tests.iml" filepath="$PROJECT_DIR$/camel-tests/camel-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/camel-typical-project/camel-typical-project.iml" filepath="$PROJECT_DIR$/camel-typical-project/camel-typical-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/core-java/core-java.iml" filepath="$PROJECT_DIR$/core-java/core-java.iml" />

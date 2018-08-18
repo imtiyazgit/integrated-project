@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="allexamples" />
         <module name="angular-ex" />
         <module name="angular-ex (1)" />
+        <module name="angularpractice" />
         <module name="camel-tests" />
         <module name="camel-typical-project" />
         <module name="core-java" />
@@ -23,8 +25,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="allexamples" target="1.7" />
       <module name="angular-ex" target="1.8" />
       <module name="angular-ex (1)" target="1.8" />
+      <module name="angularpractice" target="1.7" />
       <module name="camel-tests" target="1.8" />
       <module name="camel-typical-project" target="1.7" />
       <module name="core-java" target="1.8" />
@@ -36,7 +40,7 @@
       <module name="node-ex" target="1.8" />
       <module name="Order-backend" target="1.8" />
       <module name="Product-backend" target="1.8" />
-      <module name="rxjavaexamples" target="1.8" />
+      <module name="rxjavaexamples" target="1.7" />
       <module name="spring-basic" target="1.6" />
       <module name="spring-boot-microservices" target="1.6" />
       <module name="spring-example" target="1.8" />
