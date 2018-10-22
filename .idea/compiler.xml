@@ -35,6 +35,8 @@
       <module name="Customer-backend" target="1.8" />
       <module name="earthquakes-catalog" target="1.8" />
       <module name="jmx-basic" target="1.8" />
+      <module name="kubernetes-practice_main" target="1.8" />
+      <module name="kubernetes-practice_test" target="1.8" />
       <module name="mockito-basic" target="1.6" />
       <module name="moxy-ex" target="1.7" />
       <module name="node-ex" target="1.8" />
