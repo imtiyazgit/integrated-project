@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: immu-kubia-manual
+spec:
+  containers:
+    - image : imtiyaz208/immu-kubia
+      name: immu-kubia-container
+      ports:
+        - containerPort: 8080
+          protocol: TCP
