@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex1/pod-example.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex2/immu-kubia-pod-with-label.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex3/immu-kubia-pod-only-on-gpu-labelled-node.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex4/custom-namespace.yaml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" afterPath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" />
     </list>
@@ -96,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch2/ex1/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -106,17 +106,37 @@
         <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex1/pod-example.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="immu-kubia-pod-with-label.yaml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="immu-kubia-pod-with-label.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex2/immu-kubia-pod-with-label.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="immu-kubia-pod-only-on-gpu-labelled-node.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex3/immu-kubia-pod-only-on-gpu-labelled-node.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom-namespace.yaml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex4/custom-namespace.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -143,26 +163,6 @@
                 <element signature="e#33990#33991#0" expanded="true" />
                 <element signature="e#34045#34046#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryOperator.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/function/BinaryOperator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BiFunction.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -480,8 +480,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/core-java/src/main/java/com/annotation/Test.java" />
-        <option value="$PROJECT_DIR$/core-java/src/main/java/com/annotation/RunTests.java" />
         <option value="$PROJECT_DIR$/core-java/src/main/java/com/annotation/Client.java" />
         <option value="$PROJECT_DIR$/core-java/src/main/java/com/lambda/LambdaTest1.java" />
         <option value="$PROJECT_DIR$/core-java/src/main/java/com/lambda/Apple.java" />
@@ -531,6 +529,8 @@
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch2/ex1/Dockerfile" />
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex1/pod-example.yaml" />
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex2/immu-kubia-pod-with-label.yaml" />
+        <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex3/immu-kubia-pod-only-on-gpu-labelled-node.yaml" />
+        <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex4/custom-namespace.yaml" />
       </list>
     </option>
   </component>
@@ -602,14 +602,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kubernetes-practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ch3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1171,7 +1163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540230205044</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Mods">
+      <created>1540236393811</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1540236393811</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1369,14 +1368,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/streams/trader/Trader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java" />
     <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/streams/ReduceEx.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1681,7 +1672,7 @@
     <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch2/ex1/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1689,7 +1680,7 @@
     <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex1/pod-example.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -1697,7 +1688,23 @@
     <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex2/immu-kubia-pod-with-label.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex3/immu-kubia-pod-only-on-gpu-labelled-node.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex4/custom-namespace.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding />
         </state>
       </provider>

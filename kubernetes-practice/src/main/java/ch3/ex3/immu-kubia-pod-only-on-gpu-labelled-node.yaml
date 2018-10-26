@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: immu-kubia-gpu-node
+  labels:
+    gpuEnabled: "true"
+spec:
+  nodeSelector:
+    gpu: "true"
+  containers:
+    - image: imtiyaz208/immu-kubia
+      name: immu-kubia-gpu-container
+      ports:
+        - containerPort: 8080
+          protocol: TCP
