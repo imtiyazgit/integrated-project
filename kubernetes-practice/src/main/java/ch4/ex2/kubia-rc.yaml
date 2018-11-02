@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: ReplicationController
+metadata:
+  name: immu-kubia-rc
+spec:
+  replicas: 3
+  selector:
+    app: immu-kubia
+  template:
+    metadata:
+      labels:
+        app: immu-kubia
+    spec:
+      containers:
+        - name: immu-kubia-container
+          image: imtiyaz208/immu-kubia
+          ports:
+            - containerPort: 8080
+
