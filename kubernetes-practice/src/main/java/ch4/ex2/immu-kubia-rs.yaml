@@ -1,0 +1,19 @@
+apiVersion: apps/v1beta2
+kind: ReplicaSet
+metadata:
+  name: immu-kubia-rs
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: immu-kubia
+  template:
+    metadata:
+      labels:
+        app: immu-kubia
+    spec:
+      containers:
+        - name: immu-kubia-container
+          image: imtiyaz208/immu-kubia
+          ports:
+            - containerPort: 8080
