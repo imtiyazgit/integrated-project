@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: immu-kubia-node-port-service
+spec:
+  type: NodePort
+  ports:
+    - port: 80
+      targetPort: 8080
+      nodePort: 30123
+  selector:
+    app: immu-kubia
