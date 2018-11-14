@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ex1/immu-kubia-load-balancer.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ssl/immu-kubia-ingress.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ssl/tls.cert" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ssl/tls.key" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" afterPath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" />
     </list>
@@ -79,11 +81,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="immu-kubia-load-balancer.yaml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="immu-kubia-load-balancer.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ex1/immu-kubia-load-balancer.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="immu-kubia-ingress.yaml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ssl/immu-kubia-ingress.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -402,7 +414,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/core-java/src/main/java/com/lambda/LambdaWithFinal.java" />
         <option value="$PROJECT_DIR$/core-java/src/main/java/com/lambda/ConstructorReferences.java" />
         <option value="$PROJECT_DIR$/core-java/src/main/java/com/lambda/MethodReferences.java" />
         <option value="$PROJECT_DIR$/core-java/src/main/java/com/lambda/FunctionCompose.java" />
@@ -453,6 +464,7 @@
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ex1/immu-kubia-service.yaml" />
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ex1/immu-kubia-node-port-service.yaml" />
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ex1/immu-kubia-load-balancer.yaml" />
+        <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ex1/immu-kubia-ingress.yaml" />
       </list>
     </option>
   </component>
@@ -483,7 +495,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -498,7 +510,42 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="parent" type="58d84e3e:PackageViewProjectNode" />
+              <item name="kubernetes-practice" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="parent" type="58d84e3e:PackageViewProjectNode" />
+              <item name="kubernetes-practice" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="kubernetes-practice_main" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="parent" type="58d84e3e:PackageViewProjectNode" />
+              <item name="kubernetes-practice" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="kubernetes-practice_main" type="616d4139:PackageViewModuleNode" />
+              <item name="ch5" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="parent" type="58d84e3e:PackageViewProjectNode" />
+              <item name="kubernetes-practice" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="kubernetes-practice_main" type="616d4139:PackageViewModuleNode" />
+              <item name="ch5" type="1f31426a:PackageElementNode" />
+              <item name="ex1" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="parent" type="58d84e3e:PackageViewProjectNode" />
+              <item name="kubernetes-practice" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="kubernetes-practice_main" type="616d4139:PackageViewModuleNode" />
+              <item name="ch5" type="1f31426a:PackageElementNode" />
+              <item name="ssl" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -578,11 +625,11 @@
       <recent name="com.microservices.rest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ssl" />
       <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ex1" />
       <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch4/ex2" />
       <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch2/ex1" />
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
-      <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1138,12 +1185,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542227425345</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Mods">
+      <created>1542229247055</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1542229247055</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="793" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1153,7 +1206,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32246798" sideWeight="0.51277953" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12804006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33136967" sideWeight="0.4914803" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32296297" sideWeight="0.48722044" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32296297" sideWeight="0.48722044" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25925925" sideWeight="0.49213162" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1337,13 +1390,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/streams/NumericStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/streams/FlatMapExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1677,6 +1723,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ssl/immu-kubia-ingress.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding />
         </state>
       </provider>
