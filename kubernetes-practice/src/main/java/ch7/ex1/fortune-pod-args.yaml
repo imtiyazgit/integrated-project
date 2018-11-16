@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: fortune-args
+spec:
+  containers:
+  - image: imtiyaz208/fortune:args
+    env:
+    - name: INTERVAL
+      value: "30"
+    - name: REFERENCE
+      value: "$(INTERVAL)COPY"
+    name: html-generator
