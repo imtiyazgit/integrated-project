@@ -4,10 +4,10 @@ metadata:
   name: fortune-args
 spec:
   containers:
-  - image: imtiyaz208/fortune:args
+  - image: imtiyaz208/args-example
     env:
     - name: INTERVAL
-      value: "30"
+      value: "70"
     - name: REFERENCE
-      value: "$(INTERVAL)COPY"
+      value: "REFVALUE"
     name: html-generator

@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-using-configmap
+spec:
+  containers:
+  - image: imtiyaz208/args-example
+    name: pod-con
+    env:
+      - name: INTERVAL
+        valueFrom:
+          configMapKeyRef:
+            name: fortune-config
+            key: sleep-interval

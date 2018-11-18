@@ -1,5 +1,6 @@
 #!/bin/bash
 trap "exit" SIGINT
+echo "hello $(REFERENCE).. WELCOME"
 echo Configured to generate new fortune every $INTERVAL seconds mkdir -p /var/htdocs
 while :
 do
