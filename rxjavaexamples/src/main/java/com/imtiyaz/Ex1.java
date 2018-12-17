@@ -7,7 +7,7 @@ public class Ex1 {
     public static void main(String[] args) {
 
 
-        Observable<String> observable = Observable.just("hello");
+        /*Observable<String> observable = Observable.just("hello");
         observable.subscribe(str-> System.out.println(str));
 
         //----
@@ -35,7 +35,7 @@ public class Ex1 {
         }).cache();
 
         ob1.subscribe(i-> System.out.println(i));
-        ob1.subscribe(j-> System.out.println(j));
+        ob1.subscribe(j-> System.out.println(j));*/
 
 
 

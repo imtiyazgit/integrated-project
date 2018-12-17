@@ -13,7 +13,7 @@ public class Ex3 {
 
     public static Observable<Integer> delayed(Integer item) {
         // delayed observable every 10 sec
-        return  Observable.unsafeCreate(subscriber -> {
+        /*return  Observable.unsafeCreate(subscriber -> {
                     Thread thread = new Thread(() -> {
                         sleep(10, SECONDS);
                         while (!subscriber.isUnsubscribed()) {
@@ -26,17 +26,18 @@ public class Ex3 {
 
                     subscriber.add(Subscriptions.create(thread::interrupt));
                 }
-        );
+        );*/
+        return null;
     }
 
     public static void main(String[] args) throws InterruptedException {
 
 
-        Subscription subscription = delayed(55).subscribe(integer -> System.out.println(integer));
+        /*Subscription subscription = delayed(55).subscribe(integer -> System.out.println(integer));
 
         Thread.sleep(2000);
 
-        subscription.unsubscribe();
+        subscription.unsubscribe();*/
     }
 
     public static void sleep(int timeout, TimeUnit timeUnit) {

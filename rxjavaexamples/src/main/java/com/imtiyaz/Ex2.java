@@ -5,7 +5,7 @@ import rx.Subscription;
 
 public class Ex2 {
     public static void main(String[] args) throws Throwable {
-        // infinite stream
+        /*// infinite stream
         Observable<Integer> observable = Observable.unsafeCreate(subscriber -> {
             Runnable r = () -> {
                 int start = 10;
@@ -22,7 +22,7 @@ public class Ex2 {
 
         Thread.sleep(60);
 
-        subscription.unsubscribe();
+        subscription.unsubscribe();*/
 
     }
 }
