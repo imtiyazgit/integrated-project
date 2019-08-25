@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/NFactorialUsingRecursion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/TowerOfHanoi.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java9examples/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java9examples/src/main/java/com/examples/java9/App.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java9examples/src/main/java/com/examples/java9/CustomAnnotation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java9examples/src/main/java/com/examples/java9/Ex1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java9examples/src/test/java/com/examples/java9/AppTest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" afterPath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" />
     </list>
@@ -84,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NFactorialUsingRecursion.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NFactorialUsingRecursion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/NFactorialUsingRecursion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -93,6 +81,16 @@
                 <element signature="e#256#257#0" expanded="true" />
                 <element signature="e#327#328#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckGivenArraysIsInSortedOrder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/CheckGivenArraysIsInSortedOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="67" lean-forward="true" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -168,16 +166,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConstructorProperties.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/beans/ConstructorProperties.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -501,7 +489,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex1/pod-example.yaml" />
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex2/immu-kubia-pod-with-label.yaml" />
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex3/immu-kubia-pod-only-on-gpu-labelled-node.yaml" />
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch3/ex4/custom-namespace.yaml" />
@@ -552,6 +539,7 @@
         <option value="$PROJECT_DIR$/java9examples/src/main/java/com/examples/java9/Ex1.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/TowerOfHanoi.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/NFactorialUsingRecursion.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/CheckGivenArraysIsInSortedOrder.java" />
       </list>
     </option>
   </component>
@@ -637,6 +625,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algos" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algos" type="462c0819:PsiDirectoryNode" />
               <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -698,21 +695,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NFactorialUsingRecursion">
+  <component name="RunManager" selected="Application.CheckGivenArraysIsInSortedOrder">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="CipherExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckGivenArraysIsInSortedOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ch1.*" />
+          <option name="PATTERN" value="algos.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ch1.CipherExample" />
+      <option name="MAIN_CLASS_NAME" value="algos.recursion.CheckGivenArraysIsInSortedOrder" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -721,7 +718,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-crypto" />
+      <module name="angular-ex (1)" />
       <envs />
     </configuration>
     <configuration name="ClientSignatureVerifying" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -978,19 +975,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CipherExample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.EncryptFilesUsingCipher" />
-      <item index="2" class="java.lang.String" itemvalue="Application.KeyStoreExample" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Ex1" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NFactorialUsingRecursion" />
+      <item index="0" class="java.lang.String" itemvalue="Application.EncryptFilesUsingCipher" />
+      <item index="1" class="java.lang.String" itemvalue="Application.KeyStoreExample" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Ex1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NFactorialUsingRecursion" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CheckGivenArraysIsInSortedOrder" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.NFactorialUsingRecursion" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Ex1" />
-        <item index="2" class="java.lang.String" itemvalue="Application.KeyStoreExample" />
-        <item index="3" class="java.lang.String" itemvalue="Application.EncryptFilesUsingCipher" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CipherExample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CheckGivenArraysIsInSortedOrder" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NFactorialUsingRecursion" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Ex1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.KeyStoreExample" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EncryptFilesUsingCipher" />
       </list>
     </recent_temporary>
   </component>
@@ -1302,11 +1299,19 @@
       <option name="project" value="LOCAL" />
       <updated>1545066837949</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Mods">
+      <created>1566759478770</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1566759478770</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="793" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1316,8 +1321,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32246798" sideWeight="0.51277953" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12779553" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32" sideWeight="0.48722044" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.4914803" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32" sideWeight="0.48722044" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288889" sideWeight="0.4914803" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66783625" sideWeight="0.49213162" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1329,7 +1334,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39649123" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39555556" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1504,8 +1509,14 @@
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/CheckGivenArraysIsInSortedOrder.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="27" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1523,13 +1534,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch9/ex2/kubia-deployment-v1.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kubernetes-practice/src/main/java/ch9/ex3/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1896,6 +1900,14 @@
             <element signature="e#256#257#0" expanded="true" />
             <element signature="e#327#328#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/CheckGivenArraysIsInSortedOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="67" lean-forward="true" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
