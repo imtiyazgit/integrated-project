@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/allexamples/pom.xml" />
         <option value="$PROJECT_DIR$/angularpractice/pom.xml" />
         <option value="$PROJECT_DIR$/javacrypto/pom.xml" />
+        <option value="$PROJECT_DIR$/java9examples/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -20,7 +21,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/classes" />
   </component>
 </project>
