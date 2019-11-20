@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "name": "node-ex",
   "devDependencies": {
-    "angular": "1.5.8",
+    "angular": "1.7.9",
     "jquery": "3.1.0"
   },
   "dependencies": {
