@@ -85,3 +85,11 @@ t
 Djava9examples/src/main/java/com/examples/java9/CustomAnnotation.java,0/a/0acfefa7d256de21a6c9911d26da95dc1e2c7427
 g
 7java9examples/src/main/java/com/examples/java9/Ex1.java,d/9/d99a34f7626d27cdcb54597b655b6dc7c70ea263
+j
+:algorithms/src/main/java/algos/recursion/TowerOfHanoi.java,5/3/531875e987fca7b107a3ba7f25f118262f8b50ef
+v
+Falgorithms/src/main/java/algos/recursion/NFactorialUsingRecursion.java,2/2/22e994c42a8f4700602dcd453ff22d0569a169f6
+}
+Malgorithms/src/main/java/algos/recursion/CheckGivenArraysIsInSortedOrder.java,6/0/608099ea60c76eefa78ce1eec21108a9fe535895
+€
+Palgorithms/src/main/java/algos/recursion/SumOfDigitsOfANumberUsingRecursion.java,e/9/e9eb4f390b218d16e4547a8d695242e5df61c1da
