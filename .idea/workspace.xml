@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/nthtolast/NthToLastLinkedList.java" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/nthtolast/NthToLastLinkedList.java" />
       <change beforePath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" afterPath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" />
     </list>
     <ignored path="parent.iws" />
@@ -71,11 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NthToLastLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NthToLastLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/nthtolast/NthToLastLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="130" column="54" lean-forward="false" selection-start-line="130" selection-start-column="54" selection-end-line="130" selection-end-column="54" />
+            <state relative-caret-position="474">
+              <caret line="92" column="41" lean-forward="true" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
               <folding>
                 <element signature="e#108#109#0" expanded="true" />
                 <element signature="e#142#143#0" expanded="true" />
@@ -92,6 +91,16 @@
                 <element signature="e#915#916#0" expanded="true" />
                 <element signature="e#944#945#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmallestChangeCoinSystem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/SmallestChangeCoinSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -434,7 +443,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch4/ex2/immu-kubia-rs.yaml" />
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch4/ex2/immu-kubia-daemonSet.yaml" />
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch4/ex3/single-run-batch-job-resource.yaml" />
         <option value="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ex1/immu-kubia-service.yaml" />
@@ -485,6 +493,7 @@
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/FindDuplicatesInArray.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/string/FirstRecurringCharacter.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/nthtolast/NthToLastLinkedList.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/SmallestChangeCoinSystem.java" />
       </list>
     </option>
   </component>
@@ -572,38 +581,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algos" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algos" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-              <item name="ex1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algos" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-              <item name="nthtolast" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algos" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-              <item name="nthtolast" type="462c0819:PsiDirectoryNode" />
-              <item name="NthToLastLinkedList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -662,7 +640,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NthToLastLinkedList">
+  <component name="RunManager" selected="Application.SmallestChangeCoinSystem">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -764,14 +742,14 @@
       <module name="angular-ex (1)" />
       <envs />
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SmallestChangeCoinSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="algos.array.*" />
+          <option name="PATTERN" value="algos.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.array.RemoveDuplicatesFromSortedArray" />
+      <option name="MAIN_CLASS_NAME" value="algos.recursion.SmallestChangeCoinSystem" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -942,19 +920,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LinkedList" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FindDuplicatesInArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FirstRecurringCharacter" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NthToLastLinkedList" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LinkedList" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FindDuplicatesInArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FirstRecurringCharacter" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NthToLastLinkedList" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SmallestChangeCoinSystem" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.NthToLastLinkedList" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LinkedList" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FirstRecurringCharacter" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FindDuplicatesInArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SmallestChangeCoinSystem" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NthToLastLinkedList" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LinkedList" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FirstRecurringCharacter" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FindDuplicatesInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -1301,7 +1279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576882464314</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Mods">
+      <created>1576889268879</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1576889268879</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1316,12 +1301,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32246798" sideWeight="0.51277953" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12779553" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5251462" sideWeight="0.4914803" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5251462" sideWeight="0.4914803" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25146198" sideWeight="0.48722044" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66783625" sideWeight="0.49213162" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22364217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22364217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1535,7 +1520,7 @@
           <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="39" />
+      <option name="time" value="40" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1558,13 +1543,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javacrypto/src/main/java/ch1/KeyStoreDefault.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javacrypto/src/main/java/ch1/ListAllProviders.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1948,8 +1926,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/nthtolast/NthToLastLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="130" column="54" lean-forward="false" selection-start-line="130" selection-start-column="54" selection-end-line="130" selection-end-column="54" />
+        <state relative-caret-position="474">
+          <caret line="92" column="41" lean-forward="true" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
           <folding>
             <element signature="e#108#109#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
@@ -1966,6 +1944,14 @@
             <element signature="e#915#916#0" expanded="true" />
             <element signature="e#944#945#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/recursion/SmallestChangeCoinSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
