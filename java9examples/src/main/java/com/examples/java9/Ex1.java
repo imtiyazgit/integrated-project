@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 @CustomAnnotation(description = "This class gets annotations and prints")
 public class Ex1 {
-    public static void main(String[] args) throws Exception {
+    /*public static void main(String[] args) throws Exception {
         Class clazz = Class.forName("com.examples.java9.Ex1");
 
         Module module = clazz.getModule();
@@ -25,5 +25,5 @@ public class Ex1 {
 
         System.out.println(annotations);
 
-    }
+    }*/
 }

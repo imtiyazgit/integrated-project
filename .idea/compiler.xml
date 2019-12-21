@@ -26,7 +26,7 @@
         <module name="spring-example" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="9">
+    <bytecodeTargetLevel target="1.8">
       <module name="allexamples" target="1.7" />
       <module name="angular-ex" target="1.8" />
       <module name="angular-ex (1)" target="1.8" />
@@ -37,7 +37,7 @@
       <module name="Customer-backend" target="1.8" />
       <module name="earthquakes-catalog" target="1.8" />
       <module name="java-crypto" target="1.8" />
-      <module name="java9examples" target="9" />
+      <module name="java9examples" target="1.8" />
       <module name="jmx-basic" target="1.8" />
       <module name="kubernetes-practice_main" target="1.8" />
       <module name="kubernetes-practice_test" target="1.8" />
