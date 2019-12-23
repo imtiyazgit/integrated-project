@@ -1,6 +1,8 @@
 package algos.string;
 
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 
 // http://www.journaldev.com/526/java-program-to-find-all-permutations-of-a-string
@@ -40,4 +42,27 @@ public class StringPermutations {
         //System.out.println("\nPermutations for " + s2 + " are: \n" + permutationFinder(s2));
     }
 
+}
+
+class PermutationTest {
+
+    private static void permutations(String prefix, String suffix, List<String> results) {
+        if (suffix.length() == 0) {
+            results.add(prefix);
+        } else {
+           for (int i=0; i < suffix.length(); i++) {
+               permutations(prefix + suffix.charAt(i), suffix.substring(0,i) + suffix.substring(i+1, suffix.length()), results);
+           }
+        }
+    }
+
+    public static List<String> permutations(String s) {
+        List<String> results = new ArrayList<>();
+        permutations("", s, results);
+        return results;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(permutations("abc"));
+    }
 }
