@@ -1,4 +1,4 @@
-package algos.linkedlist;
+package algos.linkedlist.splitintohalf;
 
 public class SplitIntoHalf {
 

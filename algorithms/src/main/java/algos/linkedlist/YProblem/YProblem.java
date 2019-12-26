@@ -1,4 +1,4 @@
-package algos.linkedlist;
+package algos.linkedlist.YProblem;
 
 class Node {
     public int item;
