@@ -47,10 +47,32 @@ public class OneMissingNumber {
         return result;
     }
 
+
+    private static int findMissingNumberUsingXor(int[] arr) {
+        // This arr is missing one element. So, when calculating ideal sum or total xor MUST USE arr.length+1
+
+        int idealXorSum = 0;
+        int arrXorSum = 0;
+
+        for (int i = 1; i <= arr.length+1; i++) { // Ideal sum, start from 1 to arr.length+1 as one number is missing
+            // Using only indexes here for ideal sum calculation. Thats why start from 1
+            idealXorSum = idealXorSum ^ i;
+        }
+
+        for(int i:arr) {
+            // Use actual elements and find sum
+            arrXorSum = arrXorSum ^ i;
+        }
+
+        return idealXorSum ^ arrXorSum;
+
+    }
+
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5, 7,8};
         System.out.println(findMissingNumberUsingSummation(arr));
         System.out.println(findMissingNumberUsingBooleanArray(arr));
         System.out.println(findMissingNumberIfArraySorted(arr));
+        System.out.println(findMissingNumberUsingXor(arr));
     }
 }

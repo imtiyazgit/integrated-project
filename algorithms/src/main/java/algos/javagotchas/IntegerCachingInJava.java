@@ -1,4 +1,4 @@
-package algos.trickyprogramming;
+package algos.javagotchas;
 
 public class IntegerCachingInJava {
     public static void main(String[] arr){

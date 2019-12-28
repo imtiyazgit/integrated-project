@@ -9,5 +9,8 @@ public class XorStriking {
         // boolean dieselXorManual = (car.isDiesel() && !car.isManual()) || (!car.isDiesel() && car.isManual());
 
         // boolean dieselXorManual = car.isDiesel() ^ car.isManual();
+
+        System.out.println(2^3);
+        //System.out.println();
     }
 }
