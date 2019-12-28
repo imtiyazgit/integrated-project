@@ -1,8 +1,20 @@
-package algos.array;
+package algos.array.missingnumbers;
 
 // Find Missing Number on Integer Array of 1 to 100
 // Missing number = n (n+1)/2 - totalSumOfArray
-public class MissingNumber {
+public class OneMissingNumber {
+
+    public static int findMissingNumberIfArraySorted(int[] arr) {
+
+        for (int i = 0; i < arr.length-1; i++) {
+            int cur = arr[i];
+            int next = arr[i+1];
+            if(cur != next -1) {
+                return cur + 1;
+            }
+        }
+        return -1;
+    }
 
     public static int findMissingNumberUsingSummation(int[] arr) {
         int length=arr.length+1; // One number is missing. Thats why add +1 here
@@ -39,5 +51,6 @@ public class MissingNumber {
         int[] arr = {1, 2, 3, 4, 5, 7,8};
         System.out.println(findMissingNumberUsingSummation(arr));
         System.out.println(findMissingNumberUsingBooleanArray(arr));
+        System.out.println(findMissingNumberIfArraySorted(arr));
     }
 }
