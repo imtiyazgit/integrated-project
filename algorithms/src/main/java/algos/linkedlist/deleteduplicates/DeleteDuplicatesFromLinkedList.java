@@ -67,7 +67,7 @@ public class DeleteDuplicatesFromLinkedList {
 
 
     // 1 2 3 2 4
-    private static void deleteDuplicates(Node node) {
+    private static void deleteDuplicatesUsingAdditionalSpace(Node node) {
 
         if (node == null) {
             throw new IllegalArgumentException("Linked list is empty!");
@@ -90,7 +90,24 @@ public class DeleteDuplicatesFromLinkedList {
             node = node.next;
         }
 
+    }
 
+    // 1 2 2 3
+    private static void deleteDuplicatesWithoutUsingSetButWithTwoLoops(Node node) {
+
+        while (node != null) {
+            Node curr = node;
+
+            while (curr.next != null) {
+                if (curr.next.getData() == node.getData()) {
+                    curr.next = curr.next.next;
+                } else {
+                    curr = curr.next;
+                }
+            }
+
+            node = node.next;
+        }
 
     }
 
@@ -100,12 +117,14 @@ public class DeleteDuplicatesFromLinkedList {
         linkedList.insert(1);
         linkedList.insert(2);
         linkedList.insert(3);
+        linkedList.insert(2);
         linkedList.insert(4);
-        linkedList.insert(3);
 
         System.out.println(linkedList);
 
-        deleteDuplicates(linkedList.header);
+        //deleteDuplicatesUsingAdditionalSpace(linkedList.header);
+
+        deleteDuplicatesWithoutUsingSetButWithTwoLoops(linkedList.header);
 
         System.out.println(linkedList);
     }
