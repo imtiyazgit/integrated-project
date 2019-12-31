@@ -4,6 +4,37 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * ThreeSum:
+
+ Problem: Given an array of integers, find any 3 numbers which adds upto zero.
+ E.g.
+ {-4, -1, -1, 0, 1, 2}
+ Results:
+ [-1, -1, 2]
+ [-1, 0, 1]
+
+
+ QuestionsToAsk:
+ Can the array contain duplicates?
+ Is the array sorted?
+
+
+ Approach:
+ BruteForce approach: You can have 3 loops one pointing to the first index, second loop pointing to the j=i+1 and third loop pointing to k=j+1 and summing up which equals to zero then add that array to the list.
+ TimeComplexity: O(n3) as there are 3 loops
+
+ O(n2) approach:
+ First sort the array
+ Now have the first pointer to the first element
+ Now have a second loop which starts from start = i+1 to end= array.length-1
+ // {-4, -1, -1, 0, 1, 2}
+ ^   ^                 ^
+ If sum of start+end i.e. -1+2=-1 is less than zero, increase start. Because you want more, so shift right on axis. I.e .increasing.
+ If sum of start+end i.e. -1+2=1 is greater than zero, then decrease end.
+ If sum==0, then take arr[i], arr[start], arr[end] and add to List<int[]>
+ You will aslo see a commented out code below i.e. actually increasing the start if the next element is same. Same for end if the before element is same, then decrease the index more
+ */
 public class ThreeSumLeadingToZero {
 
     // {-4, -1, -1, 0, 1, 2}
