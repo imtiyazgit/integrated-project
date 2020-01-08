@@ -1,4 +1,4 @@
-package algos.array;
+package algos.array.mergearrays;
 
 import java.util.Arrays;
 
@@ -12,9 +12,9 @@ import java.util.Arrays;
  * Once all such comparisons are done, left over elements just add to the result.
  */
 
-public class MergeTwoSortedArraysIntoOne {
+public class MergeTwoSortedArraysIntoOneWithAdditionalSpace {
     public static void main(String[] args) {
-        int[] arr1 = {1,4,6};
+        int[] arr1 = {1,4,6,7,8,9};
         int[] arr2 = {2,3,5};
         int[] result = merge(arr1, arr2);
         System.out.println(Arrays.toString(result));
