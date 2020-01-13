@@ -36,6 +36,7 @@ class Node {
 
 class BST {
 
+
     public Node insertUsingRecursive(Node root, int data) {
         if (root == null) {
             root = new Node(data);
@@ -49,6 +50,11 @@ class BST {
         return root;
     }
 
+    /**
+     *
+     * TimeComplexity: O(n) if the tree is a skew tree
+     * SpaceComplexity: O(n) for recursive stack
+     */
     public Node findUsingRecursive(Node root, int data) {
         if(root == null) {
             return null;
@@ -59,6 +65,32 @@ class BST {
         }
 
         return root;
+    }
+
+
+    /**
+     *
+     * TimeComplexity: O(n) if the tree is a skew tree
+     * SpaceComplexity: O(1)
+     */
+    public Node findUsingIterative(Node root, int data) {
+        if (root == null) {
+            return null;
+        }
+
+        while(root != null) {
+            if (data == root.data) {
+                return root;
+            }
+
+            if(data < root.data) {
+                root = root.left;
+            } else if(data > root.data) {
+                root = root.right;
+            }
+        }
+
+        return null;
     }
 }
 
@@ -81,6 +113,12 @@ public class BSTFindaNode {
 
         node = bst.findUsingRecursive(root, 67);
         System.out.println(node); // should be null
+
+        node = bst.findUsingIterative(root, 4);
+        System.out.println(node);
+
+        node = bst.findUsingIterative(root, 67);
+        System.out.println(node);
 
 
     }

@@ -163,8 +163,6 @@ w
 Galgorithms/src/main/java/algos/javagotchas/OverloadTrickyQuestion1.java,a/0/a050b7095487c0758a82cac0609b8aee46379d5b
 w
 Galgorithms/src/main/java/algos/javagotchas/OverloadTrickyQuestion2.java,a/c/acd9a1475c7831fbc400040f82c5bde8bf240e0b
-c
-3algorithms/src/main/java/algos/tree/BinaryTree.java,6/c/6c17c8376fc6b94549f57feb8a58ff20b3123b00
 k
 ;algorithms/src/main/java/algos/string/StringUniqueTest.java,b/2/b20f48238cd2cd1172519e420962f84c0a7f89f8
 m
