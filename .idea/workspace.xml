@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/deleteanode/DeleteANode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/traversal/TreeTraversals.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindMissingDuplicate.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/segregatezerosandones/ZerosToLeftAndOnesToRight.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" afterPath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" />
     </list>
@@ -118,7 +118,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeTraversals.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TreeTraversals.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/traversal/TreeTraversals.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="265">
@@ -138,6 +138,28 @@
                 <element signature="e#456#457#0" expanded="true" />
                 <element signature="e#496#497#0" expanded="true" />
                 <element signature="e#530#531#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZerosToLeftAndOnesToRight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/segregatezerosandones/ZerosToLeftAndOnesToRight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindMissingDuplicate.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindMissingDuplicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -210,18 +232,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindFirstDuplicateOccurrence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindFirstDuplicateOccurrence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="52" column="47" lean-forward="false" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="NoOfEvenAndOddDigitsInANumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/number/noofdigitsinainteger/NoOfEvenAndOddDigitsInANumber.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -237,16 +247,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
               <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7680">
-              <caret line="554" column="13" lean-forward="false" selection-start-line="554" selection-start-column="13" selection-end-line="554" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -574,8 +574,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/number/DoubleInfinityException.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/number/Swap.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/number/prime/CheckIfNumberIsPrime.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/number/palindrome/CheckIfNumberIsPalindrome.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/number/factorial/FindFactorialOfANumber.java" />
@@ -625,6 +623,8 @@
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/findmaxnode/FindMaxNode.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/deleteanode/DeleteANode.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/traversal/TreeTraversals.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/segregatezerosandones/ZerosToLeftAndOnesToRight.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindMissingDuplicate.java" />
       </list>
     </option>
   </component>
@@ -710,28 +710,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algos" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algos" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="traversal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algos" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="traversal" type="462c0819:PsiDirectoryNode" />
-              <item name="TreeTraversals.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -795,50 +774,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreeTraversals">
+  <component name="RunManager" selected="Application.FindMissingDuplicate">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="BSTFindaNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algos.tree.findanode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.tree.findanode.BSTFindaNode" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="angular-ex (1)" />
-      <envs />
-    </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algos.number.calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.number.calculator.Calculator" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="angular-ex (1)" />
-      <envs />
     </configuration>
     <configuration name="ClientSignatureVerifying" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -897,6 +838,25 @@
       <module name="angular-ex (1)" />
       <envs />
     </configuration>
+    <configuration name="FindMissingDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algos.array.duplicates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algos.array.duplicates.FindMissingDuplicate" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="angular-ex (1)" />
+      <envs />
+    </configuration>
     <configuration name="TreeTraversals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -905,6 +865,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="algos.tree.traversal.TreeTraversals" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="angular-ex (1)" />
+      <envs />
+    </configuration>
+    <configuration name="ZerosToLeftAndOnesToRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algos.array.segregatezerosandones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algos.array.segregatezerosandones.ZerosToLeftAndOnesToRight" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1075,19 +1054,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Calculator" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BSTFindaNode" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FindMaxNode" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DeleteANode" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TreeTraversals" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FindMaxNode" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DeleteANode" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TreeTraversals" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ZerosToLeftAndOnesToRight" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FindMissingDuplicate" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TreeTraversals" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DeleteANode" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FindMaxNode" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BSTFindaNode" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Calculator" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FindMissingDuplicate" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ZerosToLeftAndOnesToRight" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TreeTraversals" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DeleteANode" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FindMaxNode" />
       </list>
     </recent_temporary>
   </component>
@@ -1104,13 +1083,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Mods">
-      <created>1540236393811</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1540236393811</updated>
     </task>
     <task id="LOCAL-00030" summary="Mods">
       <created>1540576830237</created>
@@ -1448,7 +1420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578941211293</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Mods">
+      <created>1579536185451</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1579536185452</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1794,8 +1773,14 @@
           <properties />
           <option name="timeStamp" value="118" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindMissingDuplicate.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="119" />
+      <option name="time" value="121" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1853,21 +1838,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/number/factorial/FindFactorialOfANumberUsingRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/number/armstrong/IsNumberArmstrong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/number/reverse/ReverseANumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -2161,7 +2131,7 @@
         <state relative-caret-position="765">
           <caret line="52" column="47" lean-forward="false" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2304,6 +2274,24 @@
             <element signature="e#456#457#0" expanded="true" />
             <element signature="e#496#497#0" expanded="true" />
             <element signature="e#530#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/segregatezerosandones/ZerosToLeftAndOnesToRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindMissingDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
