@@ -1,4 +1,4 @@
-package algos.array;
+package algos.array.duplicates;
 
 // Find duplicate number from the array. Exact one duplicate
 // Duplicate = arraySum - n(n+1)/2
