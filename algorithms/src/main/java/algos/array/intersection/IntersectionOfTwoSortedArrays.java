@@ -4,7 +4,29 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Find common elements or intersection of two arrays
+ *
+ */
 public class IntersectionOfTwoSortedArrays {
+
+    /**
+     * TimeComplexity: O(n2)
+     * You are not making use of the fact that the arrays are sorted.
+     */
+    private static Integer[] intersectionUsingTwoLoops(int[] a, int[] b) {
+
+        List<Integer> results = new ArrayList<>();
+        for (int i = 0; i < a.length; i++) {
+            for (int j = 0; j < b.length ; j++) {
+                if (a[i] == b[j]) {
+                    results.add(a[i]);
+                }
+            }
+        }
+
+        return results.toArray(new Integer[results.size()]);
+    }
 
     /**
      *
@@ -17,11 +39,14 @@ public class IntersectionOfTwoSortedArrays {
 
         int aIndex=0, bIndex =0;
 
+        // intersection means, element should be present in all arrays. so use and condition
         while(aIndex < a.length && bIndex < b.length) {
 
             if(a[aIndex] == b[bIndex] ) {
                 results.add(a[aIndex]);
+                // Once intersection found, increase both counters
                 aIndex++;
+                bIndex++;
                 continue;
             } else if(a[aIndex] < b[bIndex]) {
                 aIndex++;
@@ -38,6 +63,7 @@ public class IntersectionOfTwoSortedArrays {
         int[] arr1 = {1, 3, 4, 5, 7};
         int[] arr2 = {2, 3, 5, 6};
 
+        System.out.println(Arrays.toString(intersectionUsingTwoLoops(arr1, arr2)));
         System.out.println(Arrays.toString(intersection(arr1, arr2)));
     }
 
