@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfThreeSortedArrays.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionOfTwoSortedArrays.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/IntersectionOfThreeSortedArrays.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfTwoSortedArrays.java" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfTwoSortedArrays.java" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/UnionOfSortedArrays.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfThreeSortedArrays.java" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/IntersectionOfThreeSortedArrays.java" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfTwoSortedArrays.java" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/IntersectionOfTwoSortedArrays.java" />
       <change beforePath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" afterPath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" />
     </list>
     <ignored path="parent.iws" />
@@ -76,8 +77,8 @@
       <file leaf-file-name="FindMissingDuplicate.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindMissingDuplicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,12 +86,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KthSmallestElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/KthSmallestElement.java">
+      <file leaf-file-name="UnionOfTwoSortedArrays.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionOfTwoSortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="735">
+              <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+              <folding>
+                <element signature="e#10065#10066#0" expanded="true" />
+                <element signature="e#10148#10149#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,6 +133,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="MoveZerosToEnd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/MoveZerosToEnd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="FindTopTwoNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/smallestandlargest/FindTopTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,10 +154,10 @@
         </entry>
       </file>
       <file leaf-file-name="IntersectionOfTwoSortedArrays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfTwoSortedArrays.java">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/IntersectionOfTwoSortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="41" column="92" lean-forward="true" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
+            <state relative-caret-position="456">
+              <caret line="63" column="34" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="63" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,33 +165,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntersectionOfThreeSortedArrays.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfThreeSortedArrays.java">
+      <file leaf-file-name="IntersectionOfThreeSortedArrays.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/IntersectionOfThreeSortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="355">
               <caret line="78" column="32" lean-forward="true" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Set.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Set.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="189" column="12" lean-forward="false" selection-start-line="189" selection-start-column="12" selection-end-line="189" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PairSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/pairsum/PairSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="101" column="33" lean-forward="true" selection-start-line="101" selection-start-column="33" selection-end-line="101" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -495,7 +499,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/trickyprogramming/CharacterContenation.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/trickyprogramming/JavaAllowedIdentifiers.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/trickyprogramming/IntegerCachingInJava.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/MissingNumber.java" />
@@ -546,6 +549,7 @@
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/smallestandlargest/FindTopTwoNumbers.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfTwoSortedArrays.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfThreeSortedArrays.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionOfTwoSortedArrays.java" />
       </list>
     </option>
   </component>
@@ -645,7 +649,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algos" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="intersection" type="462c0819:PsiDirectoryNode" />
+              <item name="intersectionandunion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -705,7 +709,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IntersectionOfThreeSortedArrays">
+  <component name="RunManager" selected="Application.UnionOfTwoSortedArrays">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -753,11 +757,11 @@
     <configuration name="IntersectionOfThreeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="algos.array.intersection.*" />
+          <option name="PATTERN" value="algos.array.intersectionandunion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.array.intersection.IntersectionOfThreeSortedArrays" />
+      <option name="MAIN_CLASS_NAME" value="algos.array.intersectionandunion.IntersectionOfThreeSortedArrays" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -772,11 +776,11 @@
     <configuration name="IntersectionOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="algos.array.intersection.*" />
+          <option name="PATTERN" value="algos.array.intersectionandunion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.array.intersection.IntersectionOfTwoSortedArrays" />
+      <option name="MAIN_CLASS_NAME" value="algos.array.intersectionandunion.IntersectionOfTwoSortedArrays" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -788,14 +792,14 @@
       <module name="angular-ex (1)" />
       <envs />
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="UnionOfSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="algos.array.duplicates.*" />
+          <option name="PATTERN" value="algos.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.array.duplicates.RemoveDuplicatesFromSortedArray" />
+      <option name="MAIN_CLASS_NAME" value="algos.array.UnionOfSortedArrays" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -807,14 +811,14 @@
       <module name="angular-ex (1)" />
       <envs />
     </configuration>
-    <configuration name="RemoveDuplicatesFromUnsortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="UnionOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="algos.array.duplicates.*" />
+          <option name="PATTERN" value="algos.array.intersectionandunion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.array.duplicates.RemoveDuplicatesFromUnsortedArray" />
+      <option name="MAIN_CLASS_NAME" value="algos.array.intersectionandunion.UnionOfTwoSortedArrays" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -985,19 +989,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromUnsortedArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FindTopTwoNumbers" />
-      <item index="3" class="java.lang.String" itemvalue="Application.IntersectionOfTwoSortedArrays" />
-      <item index="4" class="java.lang.String" itemvalue="Application.IntersectionOfThreeSortedArrays" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FindTopTwoNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="Application.IntersectionOfTwoSortedArrays" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IntersectionOfThreeSortedArrays" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UnionOfTwoSortedArrays" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UnionOfSortedArrays" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.IntersectionOfThreeSortedArrays" />
-        <item index="1" class="java.lang.String" itemvalue="Application.IntersectionOfTwoSortedArrays" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FindTopTwoNumbers" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromUnsortedArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UnionOfTwoSortedArrays" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UnionOfSortedArrays" />
+        <item index="2" class="java.lang.String" itemvalue="Application.IntersectionOfThreeSortedArrays" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IntersectionOfTwoSortedArrays" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FindTopTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -1014,13 +1018,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Mods">
-      <created>1542229247055</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1542229247055</updated>
     </task>
     <task id="LOCAL-00035" summary="Mods">
       <created>1542235570506</created>
@@ -1358,7 +1355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579995409358</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Mods">
+      <created>1579997457712</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1579997457712</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1373,7 +1377,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.84093565" sideWeight="0.5106496" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12779553" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24795322" sideWeight="0.48722044" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2474074" sideWeight="0.48722044" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3837037" sideWeight="0.48935038" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66783625" sideWeight="0.49213162" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1718,7 +1722,7 @@
           <option name="timeStamp" value="126" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="127" />
+      <option name="time" value="129" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1776,28 +1780,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/javagotchas/OverloadTrickyQuestion2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/StringUniqueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/bitoperations/NumberOf1sInBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/bitoperations/XorStriking.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -2053,14 +2035,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/MoveZerosToEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/threesum/ThreeSumLeadingToZero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -2149,28 +2123,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindMissingDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/RemoveDuplicatesFromSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="45" column="1" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="45" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/RemoveDuplicatesFromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -2225,16 +2181,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="41" column="92" lean-forward="true" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/IntersectionOfThreeSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2243,10 +2189,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfThreeSortedArrays.java">
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/IntersectionOfThreeSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="78" column="32" lean-forward="true" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/RemoveDuplicatesFromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindMissingDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/MoveZerosToEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/IntersectionOfTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="63" column="34" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/UnionOfSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionOfTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,4 +1,4 @@
-package algos.array.intersection;
+package algos.array.intersectionandunion;
 
 import java.util.ArrayList;
 import java.util.Arrays;
