@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionOfTwoSortedArrays.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/UnionOfSortedArrays.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfThreeSortedArrays.java" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/IntersectionOfThreeSortedArrays.java" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfTwoSortedArrays.java" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/IntersectionOfTwoSortedArrays.java" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionOfTwoSortedArrays.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/MergeTwoSortedArraysIntoOneWithAdditionalSpace.java" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithAdditionalSpace.java" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/MergeTwoSortedArraysIntoOneWithoutExtraMemory.java" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory.java" />
       <change beforePath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" afterPath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" />
     </list>
     <ignored path="parent.iws" />
@@ -86,14 +85,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UnionOfTwoSortedArrays.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionOfTwoSortedArrays.java">
+      <file leaf-file-name="UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnionORMergeTwoSortedArraysIntoOneWithAdditionalSpace.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithAdditionalSpace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="86" lean-forward="false" selection-start-line="37" selection-start-column="86" selection-end-line="37" selection-end-column="86" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,18 +124,6 @@
             <state relative-caret-position="60">
               <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveDuplicatesFromUnsortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/RemoveDuplicatesFromUnsortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -499,10 +494,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/trickyprogramming/JavaAllowedIdentifiers.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/trickyprogramming/IntegerCachingInJava.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/MissingNumber.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/missingnumbers/MissingNumber.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/bitoperations/Binary.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/bitoperations/ConvertAnyDecimaltoOtherBaseSystem.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/bitoperations/ConvertFromDecimalToBinary.java" />
@@ -523,7 +514,6 @@
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/Test.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/MergeTwoSortedArraysIntoOne.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/MergeTwoSortedArraysIntoOneWithAdditionalSpace.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/MergeTwoSortedArraysIntoOneWithoutExtraMemory.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/definition/BinarySearchTree.java" />
@@ -550,6 +540,11 @@
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfTwoSortedArrays.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersection/IntersectionOfThreeSortedArrays.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionOfTwoSortedArrays.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/MergeTwoSortedArraysIntoOneWithAdditionalSpace.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/MergeTwoSortedArraysIntoOneWithoutExtraMemory.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithAdditionalSpace.java" />
       </list>
     </option>
   </component>
@@ -1019,13 +1014,6 @@
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
     </task>
-    <task id="LOCAL-00035" summary="Mods">
-      <created>1542235570506</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1542235570506</updated>
-    </task>
     <task id="LOCAL-00036" summary="Mods">
       <created>1542313657771</created>
       <option name="number" value="00036" />
@@ -1362,12 +1350,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579997457712</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Mods">
+      <created>1580070104260</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1580070104260</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="23" width="1920" height="793" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1377,12 +1371,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.84093565" sideWeight="0.5106496" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12779553" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2474074" sideWeight="0.48722044" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2474074" sideWeight="0.48722044" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3837037" sideWeight="0.48935038" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66783625" sideWeight="0.49213162" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22470714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2768903" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1437,11 +1431,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24795322" sideWeight="0.48722044" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3837037" sideWeight="0.48935038" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2474074" sideWeight="0.48722044" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3837037" sideWeight="0.48935038" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66783625" sideWeight="0.49213162" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22470714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2768903" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32748538" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1656,7 +1650,7 @@
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/MergeTwoSortedArraysIntoOneWithoutExtraMemory.java</url>
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="80" />
@@ -1861,25 +1855,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/Test.java" />
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/MergeTwoSortedArraysIntoOneWithAdditionalSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/missingnumbers/TwoMissingNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/mergearrays/MergeTwoSortedArraysIntoOneWithoutExtraMemory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -2254,13 +2233,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionOfTwoSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="175">
+          <caret line="32" column="86" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="32" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithAdditionalSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="86" lean-forward="false" selection-start-line="37" selection-start-column="86" selection-end-line="37" selection-end-column="86" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,8 +1,8 @@
-package algos.array.mergearrays;
+package algos.array.intersectionandunion;
 
 import java.util.Arrays;
 
-public class MergeTwoSortedArraysIntoOneWithoutExtraMemory {
+public class UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory {
   /**
      * int[] a = {1,3,5,0,0,0};
      *                 ^     ^
