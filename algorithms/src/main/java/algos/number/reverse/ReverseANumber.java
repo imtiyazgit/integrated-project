@@ -2,11 +2,12 @@ package algos.number.reverse;
 
 public class ReverseANumber {
 
-    // 1234
+    // time complexity - O(n) where n is the number of digits
     private static int reverse(int n) {
         int result=0;
 
-        while(n>0) {
+        while (n != 0) {
+            // If n is negative, n%10 is the negative of least signficant digit. For eample, -256%10 == -6
             int remainder = n %10;
 
             result = (result * 10) + remainder;
@@ -19,8 +20,9 @@ public class ReverseANumber {
 
 
     public static void main(String[] args) {
-        int test = 1234;
 
-        System.out.println("Reverse==="+reverse(test));
+        System.out.println("Reverse==="+reverse(1234));
+
+        System.out.println("Reverse==="+reverse(-341));
     }
 }
