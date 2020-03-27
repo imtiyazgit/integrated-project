@@ -1,4 +1,4 @@
-package algos.bitoperations;
+package algos.bitoperations.logicaland;
 
 public class BitwiseAnd {
 
@@ -13,5 +13,11 @@ public class BitwiseAnd {
         } else {
             System.out.println("Its Odd");
         }
+
+
+        System.out.println(1&1); // 0001 returns 1 as its right most bit is 1
+        System.out.println(2&1); // 0010 returns 0 as its right most bit is 0
+        System.out.println(3&1); // 0011 returns 1 as its right most bit is 1
+        System.out.println(4&1); // 0100 returns 0 as its right most bit is 0
     }
 }
