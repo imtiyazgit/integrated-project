@@ -2,6 +2,26 @@ package algos.number.palindrome;
 
 public class CheckIfNumberIsPalindrome {
 
+    private static boolean isPalindromeString(String str) {
+
+        char[] chars = str.toCharArray();
+        int end=chars.length-1;
+        int start=0;
+
+        while (start<end) {
+
+            if (chars[start] != chars[end]) {
+                return false;
+            }
+
+            start++;
+            end--;
+        }
+
+        return true;
+
+    }
+
     // 456
     private static boolean isPalindrome(int n) {
         int temp = n;
@@ -25,8 +45,9 @@ public class CheckIfNumberIsPalindrome {
     }
 
     public static void main(String[] args) {
-        int test = 12321;
 
-        System.out.println("Is palindrome=="+isPalindrome(test));
+        System.out.println("Is palindrome=="+isPalindrome(12321));
+
+        System.out.println("Is palindrome=="+isPalindromeString("1312"));
     }
 }
