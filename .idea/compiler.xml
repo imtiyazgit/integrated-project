@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="allexamples" />
+        <module name="allpatterns" />
         <module name="angular-ex" />
         <module name="angular-ex (1)" />
         <module name="angularpractice" />
@@ -28,6 +29,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="allexamples" target="1.7" />
+      <module name="allpatterns" target="1.7" />
       <module name="angular-ex" target="1.8" />
       <module name="angular-ex (1)" target="1.8" />
       <module name="angularpractice" target="1.7" />
@@ -37,7 +39,7 @@
       <module name="Customer-backend" target="1.8" />
       <module name="earthquakes-catalog" target="1.8" />
       <module name="java-crypto" target="1.8" />
-      <module name="java9examples" target="1.8" />
+      <module name="java9examples" target="1.7" />
       <module name="jmx-basic" target="1.8" />
       <module name="kubernetes-practice_main" target="1.8" />
       <module name="kubernetes-practice_test" target="1.8" />
