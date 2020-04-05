@@ -1,4 +1,4 @@
-package algos.array.incrementinteger;
+package algos.array.arrayintegerplusone;
 
 import java.util.ArrayList;
 import java.util.List;

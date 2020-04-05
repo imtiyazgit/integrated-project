@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/incrementinteger/IncrementInteger.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/allpatterns/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/allpatterns/src/main/java/com/imtiyaz/design/patterns/App.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/allpatterns/src/test/java/com/imtiyaz/design/patterns/AppTest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegermultiplication/ArrayIntegerMultiplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/bitoperations/xor/XorExamples.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/incrementinteger/IncrementInteger.java" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegerplusone/IncrementInteger.java" />
       <change beforePath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" afterPath="$PROJECT_DIR$/kubernetes-practice/gradlew.bat" />
     </list>
     <ignored path="parent.iws" />
@@ -79,46 +74,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReverseANumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/number/reverse/ReverseANumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckIfNumberIsPalindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/number/palindrome/CheckIfNumberIsPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindOverlappingRectanglesArea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/geometric/overlappingrectangles/FindOverlappingRectanglesArea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="90" column="44" lean-forward="false" selection-start-line="90" selection-start-column="44" selection-end-line="90" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MoveOddAtEnd.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/segregateevenandodd/MoveOddAtEnd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MoveZerosToLeftTwosToRightOnesInMiddle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/segregateusingpivot/dutchflag/MoveZerosToLeftTwosToRightOnesInMiddle.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -149,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IncrementInteger.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/incrementinteger/IncrementInteger.java">
+      <file leaf-file-name="IncrementInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegerplusone/IncrementInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,11 +116,53 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ArrayIntegerMultiplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegermultiplication/ArrayIntegerMultiplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="31" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XorExamples.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/bitoperations/xor/XorExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="176" column="11" lean-forward="false" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="4981" column="30" lean-forward="false" selection-start-line="4981" selection-start-column="30" selection-end-line="4981" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="169" column="13" lean-forward="false" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
+            <state relative-caret-position="175">
+              <caret line="640" column="20" lean-forward="false" selection-start-line="640" selection-start-column="17" selection-end-line="640" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -204,6 +201,7 @@
       <find>INTERVAL</find>
       <find>char[]</find>
       <find>tostring</find>
+      <find>of(</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/javacrypto/src/main/java/ch1</dir>
@@ -505,11 +503,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/definition/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/findminnode/FindAMinNode.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/number/noofdigitsinainteger/NoOfDigitsInAInteger.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindFirstDuplicateOccurrence.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/number/noofdigitsinainteger/NoOfEvenAndOddDigitsInANumber.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/number/calculator/Calculator.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/findanode/BSTFindaNode.java" />
@@ -556,6 +549,11 @@
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/segregateusingpivot/dutchflag/MoveRsToLeftGInMiddleBToRight.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/segregateusingpivot/dutchflag/MoveZerosToLeftTwosToRightOnesInMiddle.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/incrementinteger/IncrementInteger.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayplusone/IncrementInteger.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegerplusone/IncrementInteger.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegermultiplication/Test.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegermultiplication/ArrayIntegerMultiplication.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/bitoperations/xor/XorExamples.java" />
       </list>
     </option>
   </component>
@@ -641,17 +639,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algos" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algos" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="incrementinteger" type="462c0819:PsiDirectoryNode" />
+              <item name="bitoperations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -714,12 +702,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IncrementInteger">
+  <component name="RunManager" selected="Application.ArrayIntegerMultiplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="ArrayIntegerMultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algos.array.arrayintegermultiplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algos.array.arrayintegermultiplication.ArrayIntegerMultiplication" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="angular-ex (1)" />
+      <envs />
     </configuration>
     <configuration name="ClientSignatureVerifying" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -740,71 +747,14 @@
       <module name="java-crypto" />
       <envs />
     </configuration>
-    <configuration name="FindOverlappingRectanglesArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algos.geometric.overlappingrectangles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.geometric.overlappingrectangles.FindOverlappingRectanglesArea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="angular-ex (1)" />
-      <envs />
-    </configuration>
     <configuration name="IncrementInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="algos.array.incrementinteger.*" />
+          <option name="PATTERN" value="algos.array.arrayintegerplusone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.array.incrementinteger.IncrementInteger" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="angular-ex (1)" />
-      <envs />
-    </configuration>
-    <configuration name="MoveOddAtEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algos.array.segregateevenandodd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.array.segregateevenandodd.MoveOddAtEnd" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="angular-ex (1)" />
-      <envs />
-    </configuration>
-    <configuration name="MoveRsToLeftGInMiddleBToRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algos.array.segregateusingpivot.dutchflag.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.array.segregateusingpivot.dutchflag.MoveRsToLeftGInMiddleBToRight" />
+      <option name="MAIN_CLASS_NAME" value="algos.array.arrayintegerplusone.IncrementInteger" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -824,6 +774,44 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="algos.array.segregateusingpivot.dutchflag.MoveZerosToLeftTwosToRightOnesInMiddle" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="angular-ex (1)" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algos.array.arrayintegermultiplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algos.array.arrayintegermultiplication.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="angular-ex (1)" />
+      <envs />
+    </configuration>
+    <configuration name="XorExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algos.bitoperations.xor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algos.bitoperations.xor.XorExamples" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -994,19 +982,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FindOverlappingRectanglesArea" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MoveOddAtEnd" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MoveZerosToLeftTwosToRightOnesInMiddle" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MoveRsToLeftGInMiddleBToRight" />
-      <item index="4" class="java.lang.String" itemvalue="Application.IncrementInteger" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MoveZerosToLeftTwosToRightOnesInMiddle" />
+      <item index="1" class="java.lang.String" itemvalue="Application.IncrementInteger" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ArrayIntegerMultiplication" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.XorExamples" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.IncrementInteger" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MoveZerosToLeftTwosToRightOnesInMiddle" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MoveRsToLeftGInMiddleBToRight" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MoveOddAtEnd" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FindOverlappingRectanglesArea" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ArrayIntegerMultiplication" />
+        <item index="1" class="java.lang.String" itemvalue="Application.XorExamples" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IncrementInteger" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MoveZerosToLeftTwosToRightOnesInMiddle" />
       </list>
     </recent_temporary>
   </component>
@@ -1023,13 +1011,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Mods">
-      <created>1576878203913</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1576878203913</updated>
     </task>
     <task id="LOCAL-00046" summary="Mods">
       <created>1576878228768</created>
@@ -1367,7 +1348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585951549450</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Mods">
+      <created>1586103435675</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1586103435675</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1445,7 +1433,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.61708397" sideWeight="0.48935038" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66783625" sideWeight="0.49213162" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39127326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39127326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32748538" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1768,13 +1756,31 @@
           <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/incrementinteger/IncrementInteger.java</url>
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegerplusone/IncrementInteger.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="157" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegermultiplication/ArrayIntegerMultiplication.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegermultiplication/ArrayIntegerMultiplication.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegermultiplication/ArrayIntegerMultiplication.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="158" />
+      <option name="time" value="167" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1788,6 +1794,21 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>result.get(i + j + 1) + num2.get(j) * num1.get(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>num1.get(i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>num1.get(i) * num2.get(j)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>(n &lt;&lt; k) | (n &gt;&gt; (Integer.SIZE - k))</expression-string>
         <language-id>JAVA</language-id>
@@ -1818,47 +1839,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>System.out.println(letters[c]);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>System.out.println(c);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>letters[c]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="218" column="19" lean-forward="false" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/duplicates/FindDuplicatesInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="73" column="1" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="73" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/pairsum/PairSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="101" column="33" lean-forward="true" selection-start-line="101" selection-start-column="33" selection-end-line="101" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/MissingDuplicate.java" />
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/RemoveDuplicatesFromSortedArray.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -2177,16 +2160,58 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="169" column="13" lean-forward="false" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
+        <state relative-caret-position="175">
+          <caret line="640" column="20" lean-forward="false" selection-start-line="640" selection-start-column="17" selection-end-line="640" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/incrementinteger/IncrementInteger.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="97">
+          <caret line="4981" column="30" lean-forward="false" selection-start-line="4981" selection-start-column="30" selection-end-line="4981" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="176" column="11" lean-forward="false" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegermultiplication/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegerplusone/IncrementInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/bitoperations/xor/XorExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/arrayintegermultiplication/ArrayIntegerMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="31" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
