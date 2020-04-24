@@ -1,4 +1,4 @@
-package algos.array;
+package algos.array.permutations;
 
 import java.util.ArrayList;
 import java.util.Arrays;
