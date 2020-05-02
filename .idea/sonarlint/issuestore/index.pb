@@ -115,8 +115,6 @@ c
 3algorithms/src/main/java/algos/number/FizzBizz.java,8/d/8deb6e8b39bbac01be88bb16e7d919c5da83f4af
 f
 6algorithms/src/main/java/algos/number/NaNExamples.java,9/b/9be2d8077731c04e99bc93ec5568c4c6449ed957
-k
-;algorithms/src/main/java/algos/string/PalindromeString.java,0/8/08883074e1a2d7d205087efef9c7cb021cc23947
 u
 Ealgorithms/src/main/java/algos/number/prime/CheckIfNumberIsPrime.java,7/9/79245c814a7e48b730c32345249a0f50242989f3
 ‚

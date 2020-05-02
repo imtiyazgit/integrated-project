@@ -1,5 +1,8 @@
 package algos.array2d.print.sprial;
 
+/** TC: O(n2)
+ * SC: O(1)
+ */
 public class PrintMatrixInSpiralForm {
 
     // Idea: Use 4 for loops
@@ -64,7 +67,18 @@ public class PrintMatrixInSpiralForm {
                 {16, 17, 18, 19, 20}
         };
 
+        int[][] matrix2 = new int[][] {
+                {1, 2, 3, 4},
+                {6, 7, 8, 9},
+                {11, 12, 13, 14},
+                {16, 17, 18, 19}
+        };
+
         printMatrixSpiral(matrix);
+
+        System.out.println("-----------");
+
+        printMatrixSpiral(matrix2);
 
     }
 }
