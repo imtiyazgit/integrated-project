@@ -14,5 +14,18 @@ public class InterestingChar {
         int c2Numeric = Character.getNumericValue(c2);
         System.out.println(c2ascii);
         System.out.println(c2Numeric);
+
+        // how to convert number to a character
+        // 65 is input --> output A
+        System.out.println((char) 65); // A
+
+        char test = Character.forDigit(0, 10); // Ascii value of 0 in base 10
+        System.out.println(0 + test); //48
+
+        // 0- A
+        // 1 - B
+        // Ascii table, 48-0 & 65-A & 97-a
+        // To make 1 to A, add up diff. Diff here is 65-48=17
+        System.out.println((char) (17 + Character.forDigit(0, 10)));
     }
 }

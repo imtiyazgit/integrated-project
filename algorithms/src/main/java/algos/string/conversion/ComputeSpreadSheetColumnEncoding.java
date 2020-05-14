@@ -45,6 +45,31 @@ package algos.string.conversion;
  */
 public class ComputeSpreadSheetColumnEncoding {
 
+    // 1 - A
+    // 26 -- Z
+    // 27 -- AA
+    private static String getColumnEncodingFromInteger(int x) {
+        StringBuilder result = new StringBuilder();
+
+        while(x!=0) {
+            int remainder = x %26 ;// if remainder is zero, then its Z.
+            if(remainder == 0) {
+                // Its edge at Z. Directly add this..
+                result.append("Z");
+                x = x/26;
+                // Since 1 will be left out as x value, it will go for one more round. Stop this by subtracting with 1 at edge
+                x--;
+            } else {
+                int ascii = 'A' + remainder -1;
+                result.append((char) ascii);
+                x = x/26;
+            }
+
+        }
+
+        return result.reverse().toString();
+    }
+
 
     private static int getColumnEncodingInteger(String column) {
         if(column == null || column.trim().length() == 0) {
@@ -63,10 +88,22 @@ public class ComputeSpreadSheetColumnEncoding {
 
     public static void main(String[] args) {
 
+
+
         System.out.println(getColumnEncodingInteger("A")); // 1
         System.out.println(getColumnEncodingInteger("Z")); // 26
         System.out.println(getColumnEncodingInteger("AA")); //27
         System.out.println(getColumnEncodingInteger("AZ")); //52
         System.out.println(getColumnEncodingInteger("ZZ")); // left digit 26 times 26 or 26 ^ 26 + 26 --> 702
+
+
+
+        System.out.println(getColumnEncodingFromInteger(1));//A
+        System.out.println(getColumnEncodingFromInteger(2));//B
+        System.out.println(getColumnEncodingFromInteger(25));//Y
+        System.out.println(getColumnEncodingFromInteger(26)); //Z
+        System.out.println(getColumnEncodingFromInteger(27)); //AA
+        System.out.println(getColumnEncodingFromInteger(51)); //AY
+
     }
 }
