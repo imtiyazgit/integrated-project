@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/Customer-backend/Customer-backend.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/Customer-backend/Customer-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/Order-backend/Order-backend.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/Order-backend/Order-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" filepath="$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allpatterns/all-patterns.iml" filepath="$PROJECT_DIR$/allpatterns/all-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/allexamples/allexamples.iml" filepath="$PROJECT_DIR$/allexamples/allexamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/allpatterns/allpatterns.iml" filepath="$PROJECT_DIR$/allpatterns/allpatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/angular-ex/angular-ex.iml" filepath="$PROJECT_DIR$/angular-ex/angular-ex.iml" />
@@ -15,6 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/core-java/core-java.iml" filepath="$PROJECT_DIR$/core-java/core-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/earthquakes-catalog/earthquakes-catalog.iml" filepath="$PROJECT_DIR$/earthquakes-catalog/earthquakes-catalog.iml" />
       <module fileurl="file://$PROJECT_DIR$/javacrypto/java-crypto.iml" filepath="$PROJECT_DIR$/javacrypto/java-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacrypto/java-crypto.iml" filepath="$PROJECT_DIR$/javacrypto/java-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java9examples/java9examples.iml" filepath="$PROJECT_DIR$/java9examples/java9examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/java9examples/java9examples.iml" filepath="$PROJECT_DIR$/java9examples/java9examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/jmx-basic/jmx-basic.iml" filepath="$PROJECT_DIR$/jmx-basic/jmx-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kubernetes-practice.iml" filepath="$PROJECT_DIR$/.idea/modules/kubernetes-practice.iml" />
