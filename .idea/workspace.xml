@@ -2,72 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-jdbctemplate/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/replaceAndRemove/ReplaceAndRemove.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/replaceAndRemove/ReplaceAndRemovePracticeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allexamples/src/main/java/com/imtiyaz/angularjs/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allexamples/src/test/java/com/imtiyaz/angularjs/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/e2e/tsconfig.e2e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/tsconfig.app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/tsconfig.spec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/src/typings.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular-ex/src/main/my-first-app/tslint.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angularpractice/src/main/java/com/imtiyaz/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angularpractice/src/test/java/com/imtiyaz/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rxjavaexamples/src/main/java/com/imtiyaz/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rxjavaexamples/src/test/java/com/imtiyaz/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-jdbctemplate/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-jdbctemplate/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-jdbctemplate/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-jdbctemplate/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-jdbctemplate/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/kubernetes-practice_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/kubernetes-practice_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/reverse/ReverseWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/reverse/ReverseWordsTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allexamples/allexamples.iml" afterPath="$PROJECT_DIR$/allexamples/allexamples.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-ex/angular-ex.iml" afterPath="$PROJECT_DIR$/angular-ex/angular-ex.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angularpractice/angularpractice.iml" afterPath="$PROJECT_DIR$/angularpractice/angularpractice.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camel-tests/camel-tests.iml" afterPath="$PROJECT_DIR$/camel-tests/camel-tests.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/camel-typical-project/camel-typical-project.iml" afterPath="$PROJECT_DIR$/camel-typical-project/camel-typical-project.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core-java/core-java.iml" afterPath="$PROJECT_DIR$/core-java/core-java.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/earthquakes-catalog/earthquakes-catalog.iml" afterPath="$PROJECT_DIR$/earthquakes-catalog/earthquakes-catalog.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmx-basic/jmx-basic.iml" afterPath="$PROJECT_DIR$/jmx-basic/jmx-basic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mockito-basic/mockito-basic.iml" afterPath="$PROJECT_DIR$/mockito-basic/mockito-basic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moxy-ex/moxy-ex.iml" afterPath="$PROJECT_DIR$/moxy-ex/moxy-ex.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node-ex/node-ex.iml" afterPath="$PROJECT_DIR$/node-ex/node-ex.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rxjavaexamples/rxjavaexamples.iml" afterPath="$PROJECT_DIR$/rxjavaexamples/rxjavaexamples.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-basic/spring-basic.iml" afterPath="$PROJECT_DIR$/spring-basic/spring-basic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-microservices/Customer-backend/Customer-backend.iml" afterPath="$PROJECT_DIR$/spring-boot-microservices/Customer-backend/Customer-backend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-microservices/Order-backend/Order-backend.iml" afterPath="$PROJECT_DIR$/spring-boot-microservices/Order-backend/Order-backend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" afterPath="$PROJECT_DIR$/spring-boot-microservices/Product-backend/Product-backend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-microservices/spring-boot-microservices.iml" afterPath="$PROJECT_DIR$/spring-boot-microservices/spring-boot-microservices.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-example/spring-example.iml" afterPath="$PROJECT_DIR$/spring-example/spring-example.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-web/spring-web.iml" afterPath="$PROJECT_DIR$/spring-web/spring-web.iml" />
     </list>
     <ignored path="parent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -135,41 +73,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CheckIfNumberIsPalindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/number/palindrome/CheckIfNumberIsPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IntToString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/conversion/IntToString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringToInt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/conversion/StringToInt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MapVsFlatMap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/lambda/MapVsFlatMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -197,11 +105,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PalindromeString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PalindromeString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/PalindromeString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="164">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseWords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/reverse/ReverseWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseWordsTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/reverse/ReverseWordsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -552,11 +490,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithAdditionalSpace.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/segregatezerosandones/ZerosToLeftAndOnesToRight.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/smallestandlargest/FindKthSmallestElement.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/array/reverse/ReverseWithoutAffectingSpecialCharacters.java" />
-        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/matrix/spiral/PrintMatrixInSpiralForm.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/number/numToRoman/ConvertNumToRoman.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/number/angleinaclock/AngleBetweenHandsOfAClock.java" />
         <option value="$PROJECT_DIR$/core-java/src/main/java/com/basic1/DropFrameDemo.java" />
@@ -603,6 +536,11 @@
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/string/replaceAndRemove/ReplaceAndRemovePracticeTest.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/string/replaceAndRemove/ReplaceAndRemove.java" />
         <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/PalindromeString.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/StringPalindrome.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/StringPalindromeIgnoreOtherCharsWhileComparison.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/string/reverse/ReverseWords.java" />
+        <option value="$PROJECT_DIR$/algorithms/src/main/java/algos/string/reverse/ReverseWordsTest.java" />
       </list>
     </option>
   </component>
@@ -700,7 +638,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algos" type="462c0819:PsiDirectoryNode" />
               <item name="string" type="462c0819:PsiDirectoryNode" />
-              <item name="palindrome" type="462c0819:PsiDirectoryNode" />
+              <item name="reverse" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -763,45 +701,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromeString">
-    <configuration name="ComputeSpreadSheetColumnEncoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algos.string.conversion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.string.conversion.ComputeSpreadSheetColumnEncoding" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="angular-ex (1)" />
-      <envs />
-    </configuration>
-    <configuration name="InterestingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algos.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.string.InterestingChar" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="angular-ex (1)" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseWordsTest">
     <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -840,14 +740,52 @@
       <module name="angular-ex (1)" />
       <envs />
     </configuration>
-    <configuration name="ReplaceAndRemovePracticeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="algos.string.replaceAndRemove.*" />
+          <option name="PATTERN" value="algos.string.reverse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="algos.string.replaceAndRemove.ReplaceAndRemovePracticeTest" />
+      <option name="MAIN_CLASS_NAME" value="algos.string.reverse.ReverseWords" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="angular-ex (1)" />
+      <envs />
+    </configuration>
+    <configuration name="ReverseWordsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algos.string.reverse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algos.string.reverse.ReverseWordsTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="angular-ex (1)" />
+      <envs />
+    </configuration>
+    <configuration name="StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algos.string.palindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algos.string.palindrome.StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1024,19 +962,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ComputeSpreadSheetColumnEncoding" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InterestingChar" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ReplaceAndRemove" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ReplaceAndRemovePracticeTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PalindromeString" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ReplaceAndRemove" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PalindromeString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ReverseWords" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ReverseWordsTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PalindromeString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReplaceAndRemove" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ReplaceAndRemovePracticeTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ComputeSpreadSheetColumnEncoding" />
-        <item index="4" class="java.lang.String" itemvalue="Application.InterestingChar" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ReverseWordsTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReverseWords" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PalindromeString" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReplaceAndRemove" />
       </list>
     </recent_temporary>
   </component>
@@ -1053,13 +991,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Mods">
-      <created>1577047687454</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1577047687454</updated>
     </task>
     <task id="LOCAL-00055" summary="Mods">
       <created>1577059840400</created>
@@ -1397,7 +1328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589455254048</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Mods">
+      <created>1589542521553</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1589542521553</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1426,7 +1364,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2363213" sideWeight="0.48426324" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66783625" sideWeight="0.49213162" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18157615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18157615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32748538" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1473,7 +1411,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.61350405" sideWeight="0.48935038" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23696145" sideWeight="0.48426324" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2363213" sideWeight="0.48426324" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66783625" sideWeight="0.49213162" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1878,13 +1816,9 @@
           <option name="timeStamp" value="201" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="202" />
+      <option name="time" value="206" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="state" language="JAVA" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1940,30 +1874,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/conversion/IntToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/conversion/StringToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/com/lambda/MapVsFlatMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/conversion/ComputeSpreadSheetColumnEncoding.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2274,8 +2184,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/PalindromeString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="164">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/reverse/ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/reverse/ReverseWordsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
