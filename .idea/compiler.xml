@@ -6,26 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="all-patterns" />
-        <module name="allexamples" />
-        <module name="allpatterns" />
-        <module name="angular-ex" />
-        <module name="angular-ex (1)" />
         <module name="angularpractice" />
-        <module name="camel-tests" />
+        <module name="allexamples" />
+        <module name="angular-ex (1)" />
+        <module name="java-crypto" />
+        <module name="rxjavaexamples" />
         <module name="camel-typical-project" />
+        <module name="spring-example" />
+        <module name="all-patterns" />
+        <module name="angular-ex" />
         <module name="core-java" />
         <module name="Customer-backend" />
-        <module name="earthquakes-catalog" />
-        <module name="java-crypto" />
-        <module name="java9examples" />
+        <module name="Order-backend" />
+        <module name="node-ex" />
         <module name="jmx-basic" />
         <module name="moxy-ex" />
-        <module name="node-ex" />
-        <module name="Order-backend" />
         <module name="Product-backend" />
-        <module name="rxjavaexamples" />
-        <module name="spring-example" />
+        <module name="java9examples" />
+        <module name="earthquakes-catalog" />
+        <module name="camel-tests" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -33,7 +32,7 @@
       <module name="allexamples" target="1.7" />
       <module name="allpatterns" target="1.7" />
       <module name="angular-ex" target="1.8" />
-      <module name="angular-ex (1)" target="1.8" />
+      <module name="angular-ex (1)" target="9" />
       <module name="angularpractice" target="1.7" />
       <module name="camel-tests" target="1.8" />
       <module name="camel-typical-project" target="1.7" />
@@ -43,8 +42,6 @@
       <module name="java-crypto" target="1.8" />
       <module name="java9examples" target="1.7" />
       <module name="jmx-basic" target="1.8" />
-      <module name="kubernetes-practice_main" target="1.8" />
-      <module name="kubernetes-practice_test" target="1.8" />
       <module name="mockito-basic" target="1.6" />
       <module name="moxy-ex" target="1.7" />
       <module name="node-ex" target="1.8" />

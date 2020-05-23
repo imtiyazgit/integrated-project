@@ -1,11 +1,14 @@
 package algos.number.numToRoman;
 
 /**
+ * Problem: Convert integer to roman. Note in roman, there is no IIII, instead use IV/
+ * Similarly ther is no MMMM. thats why max range is 1 to 3999 as integer which needs to be converted to roman
+ *
  * integerToRoman(1) == "I"
  * integerToRoman(4) == "IV"
  * integerToRoman(49) == "XLIX"
  */
-public class ConvertNumToRoman {
+public class IntegerToRoman {
 
     private static final String[] numerals = new String[] {
             "M", "DM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"
@@ -55,5 +58,6 @@ public class ConvertNumToRoman {
         System.out.println(integerToRoman(99)); // XCIX --> X10 C100 -> 90 + IX
         System.out.println(integerToRoman(4));
         System.out.println(integerToRoman(49));
+        System.out.println(integerToRoman(2999));
     }
 }

@@ -1,29 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/algorithms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/algorithms/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/allexamples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/allexamples/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/allpatterns" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/allpatterns/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/angular-ex" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-ex/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/angularpractice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angularpractice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/camel-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-tests/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/camel-typical-project" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-typical-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camel-typical-project/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/core-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-java/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/earthquakes-catalog" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/earthquakes-catalog/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java9examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java9examples/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/javacrypto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javacrypto/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jmx-basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jmx-basic/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mockito-basic" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/moxy-ex" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moxy-ex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moxy-ex/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/node-ex" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/node-ex/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rxjavaexamples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rxjavaexamples/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-basic/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-microservices" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-microservices/Customer-backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/Customer-backend/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-microservices/Order-backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/Order-backend/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-microservices/Product-backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservices/Product-backend/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-web/src/main/java" charset="UTF-8" />
   </component>
 </project>

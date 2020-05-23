@@ -27,5 +27,8 @@ public class InterestingChar {
         // Ascii table, 48-0 & 65-A & 97-a
         // To make 1 to A, add up diff. Diff here is 65-48=17
         System.out.println((char) (17 + Character.forDigit(0, 10)));
+
+       //  char c2 = 'IV'; // compile error. too many characters for char literal
+
     }
 }
