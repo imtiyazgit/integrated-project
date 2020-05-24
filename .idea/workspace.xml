@@ -147,7 +147,7 @@
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RestoreIPAddressTest">
+  <component name="RunManager" selected="Application.SinuSoidalWaveEquation">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -195,27 +195,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="IntegerToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.number.numToRoman.IntegerToRoman" />
+    <configuration name="PrintSinusoidal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.string.sinusoidal.PrintSinusoidal" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.number.numToRoman.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntegerToRomanPT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.number.numToRoman.IntegerToRomanPT" />
-      <module name="angular-ex (1)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algos.number.numToRoman.*" />
+          <option name="PATTERN" value="algos.string.sinusoidal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,6 +251,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SinuSoidalWaveEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.string.sinusoidal.SinuSoidalWaveEquation" />
+      <module name="angular-ex (1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algos.string.sinusoidal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -297,19 +297,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IntegerToRoman" />
-      <item itemvalue="Application.IntegerToRomanPT" />
       <item itemvalue="Application.RestoreIpAddresses" />
       <item itemvalue="Application.RunLengthCompression" />
       <item itemvalue="Application.RestoreIPAddressTest" />
+      <item itemvalue="Application.PrintSinusoidal" />
+      <item itemvalue="Application.SinuSoidalWaveEquation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SinuSoidalWaveEquation" />
+        <item itemvalue="Application.PrintSinusoidal" />
         <item itemvalue="Application.RestoreIPAddressTest" />
         <item itemvalue="Application.RunLengthCompression" />
         <item itemvalue="Application.RestoreIpAddresses" />
-        <item itemvalue="Application.IntegerToRomanPT" />
-        <item itemvalue="Application.IntegerToRoman" />
       </list>
     </recent_temporary>
   </component>
@@ -679,7 +679,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -735,26 +747,26 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="671" height="508" key="Git.Branch.Popup/0.23.1920.977@0.23.1920.977" timestamp="1590272511005" />
-    <state width="1878" height="369" key="GridCell.Tab.0.bottom" timestamp="1590349977689">
+    <state width="1878" height="369" key="GridCell.Tab.0.bottom" timestamp="1590354588338">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="501" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1590248670257" />
-    <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1590349977689" />
-    <state width="1878" height="369" key="GridCell.Tab.0.center" timestamp="1590349977688">
+    <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1590354588338" />
+    <state width="1878" height="369" key="GridCell.Tab.0.center" timestamp="1590354588337">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="501" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1590248670257" />
-    <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1590349977688" />
-    <state width="1878" height="369" key="GridCell.Tab.0.left" timestamp="1590349977688">
+    <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1590354588337" />
+    <state width="1878" height="369" key="GridCell.Tab.0.left" timestamp="1590354588336">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="501" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1590248670256" />
-    <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1590349977688" />
-    <state width="1878" height="369" key="GridCell.Tab.0.right" timestamp="1590349977689">
+    <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1590354588336" />
+    <state width="1878" height="369" key="GridCell.Tab.0.right" timestamp="1590354588337">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="501" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1590248670257" />
-    <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1590349977689" />
+    <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1590354588337" />
     <state width="1878" height="399" key="GridCell.Tab.1.bottom" timestamp="1590348583174">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -779,10 +791,10 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1590086476833" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590272621555">
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590351259496">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1590272621555" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1590351259496" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590262834694">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
