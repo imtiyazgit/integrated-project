@@ -27,7 +27,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/reverse/sublistreverse/LinkedListSublistReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/reverse/LinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/reverse/LinkedListReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/reverse/LinkedListReversePT.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/reverse/LinkedListReversePT.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,24 +73,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>comparing</find>
-      <find>comparing(</find>
-      <find>db-pod-immu-persistent-disk</find>
-      <find>INTERVAL</find>
-      <find>char[]</find>
-      <find>tostring</find>
-      <find>of(</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/javacrypto/src/main/java/ch1</dir>
-      <dir>$PROJECT_DIR$/algorithms/src/main/java/algos/string/replaceAndRemove</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -123,8 +108,12 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.imtiyaz.examples.ex1" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ssl" />
+      <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ex1" />
+      <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch4/ex2" />
+      <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch2/ex1" />
+      <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch9/ex3" />
@@ -134,20 +123,17 @@
       <recent name="$PROJECT_DIR$/earthquakes-catalog/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algos.linkedlist.reverse.sublistreverse" />
       <recent name="algos.array2d.rotate.rotateby90" />
       <recent name="algos.javagotchas" />
       <recent name="com.imtiyaz.examples" />
       <recent name="com.microservices.rest" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ssl" />
-      <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch5/ex1" />
-      <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch4/ex2" />
-      <recent name="$PROJECT_DIR$/kubernetes-practice/src/main/java/ch2/ex1" />
-      <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.imtiyaz.examples.ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SinuSoidalWaveEquation">
+  <component name="RunManager" selected="Application.LinkedListSublistReverse">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -195,13 +181,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="PrintSinusoidal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.string.sinusoidal.PrintSinusoidal" />
+    <configuration name="LinkedListReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.linkedlist.reverse.LinkedListReverse" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.string.sinusoidal.*" />
+          <option name="PATTERN" value="algos.linkedlist.reverse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,13 +195,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestoreIPAddressTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.string.restoreipaddresses.RestoreIPAddressTest" />
+    <configuration name="LinkedListReversePT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.linkedlist.reverse.LinkedListReversePT" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.string.restoreipaddresses.*" />
+          <option name="PATTERN" value="algos.linkedlist.reverse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,13 +209,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestoreIpAddresses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.string.restoreipaddresses.RestoreIpAddresses" />
+    <configuration name="LinkedListSublistReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.linkedlist.reverse.sublistreverse.LinkedListSublistReverse" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.string.restoreipaddresses.*" />
+          <option name="PATTERN" value="algos.linkedlist.reverse.sublistreverse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,13 +223,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunLengthCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.string.runlengthcompression.RunLengthCompression" />
+    <configuration name="MergeTwoSortedLinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.linkedlist.mergetwosortedlists.MergeTwoSortedLinkedLists" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.string.runlengthcompression.*" />
+          <option name="PATTERN" value="algos.linkedlist.mergetwosortedlists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,13 +237,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinuSoidalWaveEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.string.sinusoidal.SinuSoidalWaveEquation" />
+    <configuration name="SearchElem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.linkedlist.cycle.SearchElem" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.string.sinusoidal.*" />
+          <option name="PATTERN" value="algos.linkedlist.cycle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,19 +283,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RestoreIpAddresses" />
-      <item itemvalue="Application.RunLengthCompression" />
-      <item itemvalue="Application.RestoreIPAddressTest" />
-      <item itemvalue="Application.PrintSinusoidal" />
-      <item itemvalue="Application.SinuSoidalWaveEquation" />
+      <item itemvalue="Application.SearchElem" />
+      <item itemvalue="Application.MergeTwoSortedLinkedLists" />
+      <item itemvalue="Application.LinkedListReversePT" />
+      <item itemvalue="Application.LinkedListReverse" />
+      <item itemvalue="Application.LinkedListSublistReverse" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SinuSoidalWaveEquation" />
-        <item itemvalue="Application.PrintSinusoidal" />
-        <item itemvalue="Application.RestoreIPAddressTest" />
-        <item itemvalue="Application.RunLengthCompression" />
-        <item itemvalue="Application.RestoreIpAddresses" />
+        <item itemvalue="Application.LinkedListSublistReverse" />
+        <item itemvalue="Application.LinkedListReverse" />
+        <item itemvalue="Application.LinkedListReversePT" />
+        <item itemvalue="Application.MergeTwoSortedLinkedLists" />
+        <item itemvalue="Application.SearchElem" />
       </list>
     </recent_temporary>
   </component>
@@ -323,55 +309,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Mods">
-      <created>1577304900544</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1577304900544</updated>
-    </task>
-    <task id="LOCAL-00063" summary="Mods">
-      <created>1577307257796</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1577307257796</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Mods">
-      <created>1577308550380</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1577308550380</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Mods">
-      <created>1577386513960</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1577386513960</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Mods">
-      <created>1577480929759</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1577480929759</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Mods">
-      <created>1577498353014</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1577498353015</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Mods">
-      <created>1577559824523</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1577559824523</updated>
     </task>
     <task id="LOCAL-00069" summary="Mods">
       <created>1577577672581</created>
@@ -667,7 +604,56 @@
       <option name="project" value="LOCAL" />
       <updated>1590273711557</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Mods">
+      <created>1590354830122</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1590354830122</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Mods">
+      <created>1590442126819</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1590442126819</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Mods">
+      <created>1590443559581</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1590443559581</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Mods">
+      <created>1590507882303</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1590507882303</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Mods">
+      <created>1590509136737</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1590509136737</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Mods">
+      <created>1590509156830</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1590509156830</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Mods">
+      <created>1590509176047</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1590509176047</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -735,66 +721,70 @@
     <option name="LAST_COMMIT_MESSAGE" value="Mods" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="723" y="222" key="#xdebugger.evaluate" timestamp="1590332434224">
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1590518974188">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1590332434224" />
-    <state x="547" y="87" key="CommitChangelistDialog2" timestamp="1590272619393">
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1590518974188" />
+    <state x="723" y="222" key="#xdebugger.evaluate" timestamp="1590525170382">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="547" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1590272619393" />
+    <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1590525170382" />
+    <state x="547" y="87" key="CommitChangelistDialog2" timestamp="1590509175896">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="547" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1590509175896" />
     <state width="671" height="508" key="Git.Branch.Popup" timestamp="1590272511005">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="671" height="508" key="Git.Branch.Popup/0.23.1920.977@0.23.1920.977" timestamp="1590272511005" />
-    <state width="1878" height="369" key="GridCell.Tab.0.bottom" timestamp="1590354588338">
+    <state width="1878" height="399" key="GridCell.Tab.0.bottom" timestamp="1590543070498">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="501" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1590248670257" />
-    <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1590354588338" />
-    <state width="1878" height="369" key="GridCell.Tab.0.center" timestamp="1590354588337">
+    <state width="1878" height="399" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1590543070498" />
+    <state width="1878" height="399" key="GridCell.Tab.0.center" timestamp="1590543070497">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="501" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1590248670257" />
-    <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1590354588337" />
-    <state width="1878" height="369" key="GridCell.Tab.0.left" timestamp="1590354588336">
+    <state width="1878" height="399" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1590543070497" />
+    <state width="1878" height="399" key="GridCell.Tab.0.left" timestamp="1590543070497">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="501" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1590248670256" />
-    <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1590354588336" />
-    <state width="1878" height="369" key="GridCell.Tab.0.right" timestamp="1590354588337">
+    <state width="1878" height="399" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1590543070497" />
+    <state width="1878" height="399" key="GridCell.Tab.0.right" timestamp="1590543070498">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="501" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1590248670257" />
-    <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1590354588337" />
-    <state width="1878" height="399" key="GridCell.Tab.1.bottom" timestamp="1590348583174">
+    <state width="1878" height="399" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1590543070498" />
+    <state width="1878" height="399" key="GridCell.Tab.1.bottom" timestamp="1590543070586">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="310" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1590245701430" />
-    <state width="1878" height="399" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1590348583174" />
-    <state width="1878" height="399" key="GridCell.Tab.1.center" timestamp="1590348583173">
+    <state width="1878" height="399" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1590543070586" />
+    <state width="1878" height="399" key="GridCell.Tab.1.center" timestamp="1590543070585">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="310" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1590245701429" />
-    <state width="1878" height="399" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1590348583173" />
-    <state width="1878" height="399" key="GridCell.Tab.1.left" timestamp="1590348583173">
+    <state width="1878" height="399" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1590543070585" />
+    <state width="1878" height="399" key="GridCell.Tab.1.left" timestamp="1590543070585">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="310" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1590245701429" />
-    <state width="1878" height="399" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1590348583173" />
-    <state width="1878" height="399" key="GridCell.Tab.1.right" timestamp="1590348583174">
+    <state width="1878" height="399" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1590543070585" />
+    <state width="1878" height="399" key="GridCell.Tab.1.right" timestamp="1590543070585">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="310" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1590245701430" />
-    <state width="1878" height="399" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1590348583174" />
+    <state width="1878" height="399" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1590543070585" />
     <state x="448" y="93" key="SettingsEditor" timestamp="1590086476833">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1590086476833" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590351259496">
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1590509177026">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1590351259496" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1590509177026" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590262834694">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -1101,8 +1091,69 @@
           <line>15</line>
           <option name="timeStamp" value="209" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/hashing/RabinKarpSearch.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/hashing/PrintThreeCharactersInString.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="s.substring(i, i+m).equals(&quot;Baig&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/hashing/StringSubstringSearch.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/hashing/StringSubstringSearch.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/cycle/SearchElem.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/mergetwosortedlists/MergeTwoSortedLinkedLists.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/reverse/LinkedListReverse.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/reverse/LinkedListReversePT.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/reverse/LinkedListReversePT.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/reverse/LinkedListReversePT.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/reverse/sublistreverse/LinkedListSublistReverse.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="head.next.next.next.next" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
