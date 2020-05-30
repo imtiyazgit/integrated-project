@@ -1,6 +1,6 @@
-package algos.linkedlist.cycle;
+package algos.linkedlist.basics;
 
-public class SearchElem {
+public class BasicLinkedListOps {
 
     static class ListNode {
         int data;
