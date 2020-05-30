@@ -14,7 +14,7 @@ import java.util.Set;
  *  Second type of question could be 1->2->3->2->5->null.. So here 3 node points to a different node of 2. This is not cycle we are referrring here
  */
 
-public class LinkedListHasCycle {
+public class LinkedListHasCycleOld {
 
     static class Node {
         int data;
