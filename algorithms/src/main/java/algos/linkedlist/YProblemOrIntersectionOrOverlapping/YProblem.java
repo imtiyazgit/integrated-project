@@ -1,4 +1,4 @@
-package algos.linkedlist.YProblem;
+package algos.linkedlist.YProblemOrIntersectionOrOverlapping;
 
 class Node {
     public int item;
