@@ -1,4 +1,4 @@
-package algos.linkedlist.ex1;
+package algos.linkedlist.basics.ex1;
 
 public class LinkedList {
 

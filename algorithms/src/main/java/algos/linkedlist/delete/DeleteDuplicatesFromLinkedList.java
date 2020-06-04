@@ -1,4 +1,4 @@
-package algos.linkedlist.deleteduplicates;
+package algos.linkedlist.delete;
 
 import java.util.HashSet;
 import java.util.Set;
