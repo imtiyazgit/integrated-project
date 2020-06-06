@@ -1,4 +1,4 @@
-package algos.linkedlist.delete.basic;
+package algos.linkedlist.delete.practice.basic;
 
 public class DeleteNodeFromLinkedList {
 
