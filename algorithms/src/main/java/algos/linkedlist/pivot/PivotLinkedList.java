@@ -25,13 +25,13 @@ public class PivotLinkedList {
         while(currentNode != null) {
             if (currentNode.data > x) {
                 greaterIter.next = currentNode;
-                greaterIter = currentNode;
+                greaterIter = greaterIter.next ;
             } else if (currentNode.data == x) {
                 equalIter.next = currentNode;
-                equalIter = currentNode;
+                equalIter = equalIter.next;
             } else {
                 lessIter.next = currentNode;
-                lessIter = currentNode;
+                lessIter = lessIter.next;
             }
 
             currentNode = currentNode.next;
