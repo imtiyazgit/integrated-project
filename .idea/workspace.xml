@@ -27,6 +27,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/stack/maxApi/ElementMaxPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/stack/maxApi/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/stack/maxApi/StackMaxAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/stack/maxApi/practice/ElementMaxPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/stack/maxApi/practice/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/stack/maxApi/practice/StackMaxApi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +136,7 @@
       <recent name="com.imtiyaz.examples.ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddTwoNumbersLinkedListSol">
+  <component name="RunManager" selected="Application.StackMaxAPITest">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -192,34 +198,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOddLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.linkedlist.oddeven.EvenOddLinkedList" />
-      <module name="angular-ex (1)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algos.linkedlist.oddeven.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OddEvenLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.linkedlist.oddeven.OddEvenLinkedList" />
-      <module name="angular-ex (1)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algos.linkedlist.oddeven.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algos.linkedlist.linkedlistpalindrome.Palindrome" />
       <module name="angular-ex (1)" />
@@ -241,6 +219,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algos.linkedlist.pivot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackMaxAPITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.stack.maxApi.StackMaxAPITest" />
+      <module name="angular-ex (1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algos.stack.maxApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackMaxApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.stack.maxApi.practice.StackMaxApi" />
+      <module name="angular-ex (1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algos.stack.maxApi.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +286,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OddEvenLinkedList" />
-      <item itemvalue="Application.EvenOddLinkedList" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.PivotLinkedList" />
       <item itemvalue="Application.AddTwoNumbersLinkedListSol" />
+      <item itemvalue="Application.StackMaxApi" />
+      <item itemvalue="Application.StackMaxAPITest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackMaxAPITest" />
+        <item itemvalue="Application.StackMaxApi" />
         <item itemvalue="Application.AddTwoNumbersLinkedListSol" />
         <item itemvalue="Application.PivotLinkedList" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.EvenOddLinkedList" />
-        <item itemvalue="Application.OddEvenLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -306,13 +312,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Mods">
-      <created>1579803986742</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1579803986743</updated>
     </task>
     <task id="LOCAL-00082" summary="Mods">
       <created>1579995409358</created>
@@ -650,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592085924150</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Mods">
+      <created>1592160152013</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1592160152013</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -718,79 +724,79 @@
     <option name="LAST_COMMIT_MESSAGE" value="Mods" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1592154335404">
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1592414742388">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="580" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1591237064038" />
-    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1592154335404" />
-    <state x="505" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591284135987">
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1592414742388" />
+    <state x="505" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592503610379">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="505" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1920.977@0.23.1920.977" timestamp="1591284135987" />
-    <state x="577" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592080315681">
+    <state x="505" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1920.977@0.23.1920.977" timestamp="1592503610379" />
+    <state x="577" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592253719878">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="577" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.977@0.23.1920.977" timestamp="1592080315681" />
+    <state x="577" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.977@0.23.1920.977" timestamp="1592253719878" />
     <state x="723" y="222" key="#xdebugger.evaluate" timestamp="1590525170382">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1590525170382" />
-    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1592085924014">
+    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1592160151880">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1592085924014" />
+    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1592160151880" />
     <state width="671" height="508" key="Git.Branch.Popup" timestamp="1590595980441">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="671" height="508" key="Git.Branch.Popup/0.23.1920.977@0.23.1920.977" timestamp="1590595980441" />
-    <state width="1878" height="438" key="GridCell.Tab.0.bottom" timestamp="1592159496833">
+    <state width="1878" height="369" key="GridCell.Tab.0.bottom" timestamp="1592415295500">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="390" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1591802157941" />
-    <state width="1878" height="438" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1592159496833" />
-    <state width="1878" height="438" key="GridCell.Tab.0.center" timestamp="1592159496832">
+    <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1592415295500" />
+    <state width="1878" height="369" key="GridCell.Tab.0.center" timestamp="1592415295499">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="390" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1591802157941" />
-    <state width="1878" height="438" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1592159496832" />
-    <state width="1878" height="438" key="GridCell.Tab.0.left" timestamp="1592159496832">
+    <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1592415295499" />
+    <state width="1878" height="369" key="GridCell.Tab.0.left" timestamp="1592415295499">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="390" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1591802157940" />
-    <state width="1878" height="438" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1592159496832" />
-    <state width="1878" height="438" key="GridCell.Tab.0.right" timestamp="1592159496833">
+    <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1592415295499" />
+    <state width="1878" height="369" key="GridCell.Tab.0.right" timestamp="1592415295499">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="390" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1591802157941" />
-    <state width="1878" height="438" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1592159496833" />
-    <state width="1878" height="438" key="GridCell.Tab.1.bottom" timestamp="1592159496834">
+    <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1592415295499" />
+    <state width="1878" height="436" key="GridCell.Tab.1.bottom" timestamp="1592415192120">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="390" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1591802158619" />
-    <state width="1878" height="438" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1592159496834" />
-    <state width="1878" height="438" key="GridCell.Tab.1.center" timestamp="1592159496834">
+    <state width="1878" height="436" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1592415192120" />
+    <state width="1878" height="436" key="GridCell.Tab.1.center" timestamp="1592415192120">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="390" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1591802158618" />
-    <state width="1878" height="438" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1592159496834" />
-    <state width="1878" height="438" key="GridCell.Tab.1.left" timestamp="1592159496833">
+    <state width="1878" height="436" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1592415192120" />
+    <state width="1878" height="436" key="GridCell.Tab.1.left" timestamp="1592415192119">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="390" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1591802158617" />
-    <state width="1878" height="438" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1592159496833" />
-    <state width="1878" height="438" key="GridCell.Tab.1.right" timestamp="1592159496834">
+    <state width="1878" height="436" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1592415192119" />
+    <state width="1878" height="436" key="GridCell.Tab.1.right" timestamp="1592415192120">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="390" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1591802158618" />
-    <state width="1878" height="438" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1592159496834" />
+    <state width="1878" height="436" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1592415192120" />
     <state x="448" y="93" key="SettingsEditor" timestamp="1591283453338">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1591283453338" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1592085925394">
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1592160153176">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1592085925394" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1592160153176" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590262834694">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -1267,6 +1273,26 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/addtwonumbers/AddTwoNumbersLinkedListSol.java</url>
           <line>42</line>
           <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/stack/maxApi/practice/StackMaxApi.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/stack/maxApi/practice/StackMaxApi.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/stack/maxApi/practice/StackMaxApi.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/stack/maxApi/StackMaxAPITest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="288" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
