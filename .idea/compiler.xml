@@ -8,17 +8,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="angularpractice" />
         <module name="allexamples" />
-        <module name="angular-ex (1)" />
+        <module name="node-ex" />
         <module name="java-crypto" />
         <module name="rxjavaexamples" />
         <module name="camel-typical-project" />
         <module name="spring-example" />
         <module name="all-patterns" />
-        <module name="angular-ex" />
         <module name="core-java" />
         <module name="Customer-backend" />
         <module name="Order-backend" />
-        <module name="node-ex" />
+        <module name="angular-ex" />
+        <module name="algorithms" />
         <module name="jmx-basic" />
         <module name="moxy-ex" />
         <module name="Product-backend" />
@@ -27,31 +27,30 @@
         <module name="camel-tests" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="all-patterns" target="1.7" />
-      <module name="allexamples" target="1.7" />
-      <module name="allpatterns" target="1.7" />
-      <module name="angular-ex" target="1.8" />
-      <module name="angular-ex (1)" target="9" />
-      <module name="angularpractice" target="1.7" />
-      <module name="camel-tests" target="1.8" />
-      <module name="camel-typical-project" target="1.7" />
-      <module name="core-java" target="1.8" />
-      <module name="Customer-backend" target="1.8" />
-      <module name="earthquakes-catalog" target="1.8" />
-      <module name="java-crypto" target="1.8" />
-      <module name="java9examples" target="1.7" />
-      <module name="jmx-basic" target="1.8" />
-      <module name="mockito-basic" target="1.6" />
-      <module name="moxy-ex" target="1.7" />
-      <module name="node-ex" target="1.8" />
-      <module name="Order-backend" target="1.8" />
-      <module name="Product-backend" target="1.8" />
-      <module name="rxjavaexamples" target="1.7" />
-      <module name="spring-basic" target="1.6" />
-      <module name="spring-boot-microservices" target="1.6" />
-      <module name="spring-example" target="1.8" />
-      <module name="spring-web" target="1.6" />
+    <bytecodeTargetLevel target="11">
+      <module name="all-patterns" target="11" />
+      <module name="allexamples" target="11" />
+      <module name="allpatterns" target="11" />
+      <module name="angular-ex" target="11" />
+      <module name="angularpractice" target="11" />
+      <module name="camel-tests" target="11" />
+      <module name="camel-typical-project" target="11" />
+      <module name="core-java" target="11" />
+      <module name="Customer-backend" target="11" />
+      <module name="earthquakes-catalog" target="11" />
+      <module name="java-crypto" target="11" />
+      <module name="java9examples" target="11" />
+      <module name="jmx-basic" target="11" />
+      <module name="mockito-basic" target="11" />
+      <module name="moxy-ex" target="11" />
+      <module name="node-ex" target="11" />
+      <module name="Order-backend" target="11" />
+      <module name="Product-backend" target="11" />
+      <module name="rxjavaexamples" target="11" />
+      <module name="spring-basic" target="11" />
+      <module name="spring-boot-microservices" target="11" />
+      <module name="spring-example" target="11" />
+      <module name="spring-web" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

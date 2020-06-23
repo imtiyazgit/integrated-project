@@ -3,7 +3,7 @@ package com.examples.java9;
 import java.beans.ConstructorProperties;
 import java.lang.annotation.Annotation;
 import java.util.Arrays;
-import java.util.stream.Collectors;
+//import java.util.stream.Collectors;
 
 @CustomAnnotation(description = "This class gets annotations and prints")
 public class Ex1 {

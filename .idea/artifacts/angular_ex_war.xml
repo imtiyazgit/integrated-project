@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="angular-ex:war">
-    <output-path>$PROJECT_DIR$/angular-ex/target</output-path>
-    <root id="archive" name="angular-ex-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="angular-ex:war exploded" />
-    </root>
-  </artifact>
-</component>
