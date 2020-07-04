@@ -27,8 +27,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
-      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/queue/AvgLevelOrderTree/PT/AvgAtEachLevelInABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/queue/AvgLevelOrderTree/PT/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/queue/implementation/usingarray/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/queue/implementation/usingarray/PT/QueueImplementationUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/queue/implementation/usingarray/TestArrayQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +136,7 @@
       <recent name="com.imtiyaz.examples.ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AvgAtEachLevelInABinaryTree">
+  <component name="RunManager" selected="Application.QueueImplementationUsingArray">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -211,34 +212,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicJavaQueueExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.queue.BasicJavaQueueExamples" />
-      <module name="angular-ex (1)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algos.queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LevelOrderInReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.queue.LevelOrderInReverse.LevelOrderInReverse" />
-      <module name="angular-ex (1)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algos.queue.LevelOrderInReverse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PrintTreeInReverOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algos.queue.LevelOrderInReverse.PT.PrintTreeInReverOrder" />
       <module name="angular-ex (1)" />
@@ -246,6 +219,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algos.queue.LevelOrderInReverse.PT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueImplementationUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.queue.implementation.usingarray.PT.QueueImplementationUsingArray" />
+      <module name="angular-ex (1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algos.queue.implementation.usingarray.PT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.queue.implementation.usingarray.TestArrayQueue" />
+      <module name="angular-ex (1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algos.queue.implementation.usingarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,19 +286,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasicJavaQueueExamples" />
-      <item itemvalue="Application.LevelOrderInReverse" />
       <item itemvalue="Application.PrintTreeInReverOrder" />
       <item itemvalue="Application.AvgLevelOrderTree" />
       <item itemvalue="Application.AvgAtEachLevelInABinaryTree" />
+      <item itemvalue="Application.TestArrayQueue" />
+      <item itemvalue="Application.QueueImplementationUsingArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueImplementationUsingArray" />
+        <item itemvalue="Application.TestArrayQueue" />
         <item itemvalue="Application.AvgAtEachLevelInABinaryTree" />
         <item itemvalue="Application.AvgLevelOrderTree" />
         <item itemvalue="Application.PrintTreeInReverOrder" />
-        <item itemvalue="Application.LevelOrderInReverse" />
-        <item itemvalue="Application.BasicJavaQueueExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -311,13 +312,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00090" summary="Mods">
-      <created>1585442850246</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1585442850246</updated>
     </task>
     <task id="LOCAL-00091" summary="Mods">
       <created>1585502497677</created>
@@ -655,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593454534696</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="Mods">
+      <created>1593455315332</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1593455315332</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -731,11 +732,11 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="792" y="499" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow/0.23.1920.977@0.23.1920.977" timestamp="1593275279184" />
-    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1593454562822">
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1593896918098">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="580" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1591237064038" />
-    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1593454562822" />
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1593896918098" />
     <state x="505" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592856158786">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -752,62 +753,62 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1592506922130" />
-    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1593454534537">
+    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1593455315190">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1593454534537" />
+    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1593455315190" />
     <state width="671" height="508" key="Git.Branch.Popup" timestamp="1590595980441">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="671" height="508" key="Git.Branch.Popup/0.23.1920.977@0.23.1920.977" timestamp="1590595980441" />
-    <state width="1878" height="369" key="GridCell.Tab.0.bottom" timestamp="1593455004456">
+    <state width="1878" height="436" key="GridCell.Tab.0.bottom" timestamp="1593898285117">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1398" height="390" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1591802157941" />
-    <state width="1878" height="369" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1593455004456" />
-    <state width="1878" height="369" key="GridCell.Tab.0.center" timestamp="1593455004456">
+    <state width="1878" height="436" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1593797795592" />
+    <state width="1878" height="436" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1593898285117" />
+    <state width="1878" height="436" key="GridCell.Tab.0.center" timestamp="1593898285116">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1398" height="390" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1591802157941" />
-    <state width="1878" height="369" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1593455004456" />
-    <state width="1878" height="369" key="GridCell.Tab.0.left" timestamp="1593455004455">
+    <state width="1878" height="436" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1593797795592" />
+    <state width="1878" height="436" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1593898285116" />
+    <state width="1878" height="436" key="GridCell.Tab.0.left" timestamp="1593898285116">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1398" height="390" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1591802157940" />
-    <state width="1878" height="369" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1593455004455" />
-    <state width="1878" height="369" key="GridCell.Tab.0.right" timestamp="1593455004456">
+    <state width="1878" height="436" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1593797795591" />
+    <state width="1878" height="436" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1593898285116" />
+    <state width="1878" height="436" key="GridCell.Tab.0.right" timestamp="1593898285116">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1398" height="390" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1591802157941" />
-    <state width="1878" height="369" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1593455004456" />
-    <state width="1878" height="436" key="GridCell.Tab.1.bottom" timestamp="1593454511032">
+    <state width="1878" height="436" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1593797795592" />
+    <state width="1878" height="436" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1593898285116" />
+    <state width="1878" height="436" key="GridCell.Tab.1.bottom" timestamp="1593898285118">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1398" height="390" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1591802158619" />
-    <state width="1878" height="436" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1593454511032" />
-    <state width="1878" height="436" key="GridCell.Tab.1.center" timestamp="1593454511032">
+    <state width="1878" height="436" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1593797795593" />
+    <state width="1878" height="436" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1593898285118" />
+    <state width="1878" height="436" key="GridCell.Tab.1.center" timestamp="1593898285117">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1398" height="390" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1591802158618" />
-    <state width="1878" height="436" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1593454511032" />
-    <state width="1878" height="436" key="GridCell.Tab.1.left" timestamp="1593454511031">
+    <state width="1878" height="436" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1593797795593" />
+    <state width="1878" height="436" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1593898285117" />
+    <state width="1878" height="436" key="GridCell.Tab.1.left" timestamp="1593898285117">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1398" height="390" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1591802158617" />
-    <state width="1878" height="436" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1593454511031" />
-    <state width="1878" height="436" key="GridCell.Tab.1.right" timestamp="1593454511032">
+    <state width="1878" height="436" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1593797795593" />
+    <state width="1878" height="436" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1593898285117" />
+    <state width="1878" height="436" key="GridCell.Tab.1.right" timestamp="1593898285118">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1398" height="390" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1591802158618" />
-    <state width="1878" height="436" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1593454511032" />
+    <state width="1878" height="436" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1593797795593" />
+    <state width="1878" height="436" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1593898285118" />
     <state x="448" y="93" key="SettingsEditor" timestamp="1592856492924">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1592856492924" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1593454539185">
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1593455316473">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1593454539185" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1593455316473" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590262834694">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -1337,6 +1338,26 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/queue/implementation/usingarray/ArrayQueue.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/queue/implementation/usingarray/ArrayQueue.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/queue/implementation/usingarray/PT/QueueImplementationUsingArray.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/queue/implementation/usingarray/PT/QueueImplementationUsingArray.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="321" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
