@@ -27,11 +27,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
-      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/asymetric/CheckIfTreeIsSymmetric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/heightbalanced/CheckIfBinaryTreeIsHeightBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/heightbalanced/practice/CheckIfBinaryTreeIsHeightBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/lca/FindLCA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/lca/practice/FindLowestCommonAncestorOfABinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/traversal/treetraversalpractice/TreeTraversals.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/traversal/treetraversalpractice/TreeTraversals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +132,7 @@
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckIfTreeIsSymmetric">
+  <component name="RunManager" selected="Application.FindLowestCommonAncestorOfABinaryTree">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -224,13 +222,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PreOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.tree.traversal.practice.PreOrderTraversal" />
+    <configuration name="FindLCA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.tree.lca.FindLCA" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.tree.traversal.practice.*" />
+          <option name="PATTERN" value="algos.tree.lca.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,13 +236,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeTraversals (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.tree.traversal.treetraversalpractice.TreeTraversals" />
+    <configuration name="FindLowestCommonAncestorOfABinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.tree.lca.practice.FindLowestCommonAncestorOfABinaryTree" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.tree.traversal.treetraversalpractice.*" />
+          <option name="PATTERN" value="algos.tree.lca.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,19 +282,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PreOrderTraversal" />
-      <item itemvalue="Application.TreeTraversals (1)" />
       <item itemvalue="Application.CheckIfBinaryTreeIsHeightBalanced" />
       <item itemvalue="Application.CheckIfBinaryTreeIsHeightBalanced (1)" />
       <item itemvalue="Application.CheckIfTreeIsSymmetric" />
+      <item itemvalue="Application.FindLCA" />
+      <item itemvalue="Application.FindLowestCommonAncestorOfABinaryTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindLowestCommonAncestorOfABinaryTree" />
+        <item itemvalue="Application.FindLCA" />
         <item itemvalue="Application.CheckIfTreeIsSymmetric" />
         <item itemvalue="Application.CheckIfBinaryTreeIsHeightBalanced (1)" />
         <item itemvalue="Application.CheckIfBinaryTreeIsHeightBalanced" />
-        <item itemvalue="Application.TreeTraversals (1)" />
-        <item itemvalue="Application.PreOrderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -310,13 +308,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00099" summary="Mods">
-      <created>1587921123485</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1587921123485</updated>
     </task>
     <task id="LOCAL-00100" summary="Mods">
       <created>1587944288087</created>
@@ -654,7 +645,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598995115575</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="Mods">
+      <created>1599332062425</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1599332062426</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -730,11 +728,11 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="792" y="499" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow/0.23.1920.977@0.23.1920.977" timestamp="1593275279184" />
-    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1599272954693">
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1599333415883">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="580" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1591237064038" />
-    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1599272954693" />
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1599333415883" />
     <state x="505" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593985615495">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -751,62 +749,62 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1592506922130" />
-    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1598995115436">
+    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1599332062221">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1598995115436" />
+    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1599332062221" />
     <state width="671" height="508" key="Git.Branch.Popup" timestamp="1590595980441">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="671" height="508" key="Git.Branch.Popup/0.23.1920.977@0.23.1920.977" timestamp="1590595980441" />
-    <state width="1878" height="354" key="GridCell.Tab.0.bottom" timestamp="1599273771274">
+    <state width="1878" height="473" key="GridCell.Tab.0.bottom" timestamp="1599334177784">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="354" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599138745563" />
-    <state width="1878" height="354" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599273771274" />
-    <state width="1878" height="354" key="GridCell.Tab.0.center" timestamp="1599273771274">
+    <state width="1878" height="473" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599334177784" />
+    <state width="1878" height="473" key="GridCell.Tab.0.center" timestamp="1599334177783">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="354" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599138745562" />
-    <state width="1878" height="354" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1599273771274" />
-    <state width="1878" height="354" key="GridCell.Tab.0.left" timestamp="1599273771273">
+    <state width="1878" height="473" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1599334177783" />
+    <state width="1878" height="473" key="GridCell.Tab.0.left" timestamp="1599334177783">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="354" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599138745562" />
-    <state width="1878" height="354" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1599273771273" />
-    <state width="1878" height="354" key="GridCell.Tab.0.right" timestamp="1599273771274">
+    <state width="1878" height="473" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1599334177783" />
+    <state width="1878" height="473" key="GridCell.Tab.0.right" timestamp="1599334177784">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="354" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599138745563" />
-    <state width="1878" height="354" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1599273771274" />
-    <state width="1878" height="354" key="GridCell.Tab.1.bottom" timestamp="1599273771275">
+    <state width="1878" height="473" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1599334177784" />
+    <state width="1878" height="311" key="GridCell.Tab.1.bottom" timestamp="1599333164795">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="354" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599138745564" />
-    <state width="1878" height="354" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599273771275" />
-    <state width="1878" height="354" key="GridCell.Tab.1.center" timestamp="1599273771275">
+    <state width="1878" height="311" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599333164795" />
+    <state width="1878" height="311" key="GridCell.Tab.1.center" timestamp="1599333164794">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="354" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599138745564" />
-    <state width="1878" height="354" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1599273771275" />
-    <state width="1878" height="354" key="GridCell.Tab.1.left" timestamp="1599273771274">
+    <state width="1878" height="311" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1599333164794" />
+    <state width="1878" height="311" key="GridCell.Tab.1.left" timestamp="1599333164793">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="354" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599138745564" />
-    <state width="1878" height="354" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1599273771274" />
-    <state width="1878" height="354" key="GridCell.Tab.1.right" timestamp="1599273771275">
+    <state width="1878" height="311" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1599333164793" />
+    <state width="1878" height="311" key="GridCell.Tab.1.right" timestamp="1599333164795">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1878" height="354" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599138745564" />
-    <state width="1878" height="354" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1599273771275" />
+    <state width="1878" height="311" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1599333164795" />
     <state x="448" y="93" key="SettingsEditor" timestamp="1592856492924">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1592856492924" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1598995116758">
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1599332063698">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1598995116758" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1599332063698" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597537065986">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -1391,6 +1389,11 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/asymetric/CheckIfTreeIsSymmetric.java</url>
           <line>32</line>
           <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/lca/FindLCA.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="334" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
