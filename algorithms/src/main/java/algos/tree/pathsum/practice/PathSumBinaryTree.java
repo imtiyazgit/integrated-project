@@ -3,10 +3,11 @@ package algos.tree.pathsum.practice;
 import java.util.ArrayList;
 
 /**
- *       5
- *     6    7
- *   1   2     3
- * 4   5      1   8
+ *  *      7
+ *  *    8   9
+ *  *  10  1
+ *
+ *  If sum is 16, it should return true
  *
  * given sum: 16
  * Return true if there is a path matching sum : paths: [[5,6,1,4], [5,7,3,1]]

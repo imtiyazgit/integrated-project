@@ -28,6 +28,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/pathsum/practice/PathSumBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/tree/pathsum/practice/PathSumBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +131,7 @@
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PathSumBinaryTree">
+  <component name="RunManager" selected="Application.FindAllPathsInABinaryTreeMatchingGivenSum">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -178,13 +179,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="FindLCA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.tree.lca.FindLCA" />
+    <configuration name="FindAllPathsInABinaryTreeMatchingGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.tree.pathsumii.practice.FindAllPathsInABinaryTreeMatchingGivenSum" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.tree.lca.*" />
+          <option name="PATTERN" value="algos.tree.pathsumii.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +281,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindLCA" />
       <item itemvalue="Application.FindLowestCommonAncestorOfABinaryTree" />
       <item itemvalue="Application.PathSum" />
       <item itemvalue="Application.PathSumII" />
       <item itemvalue="Application.PathSumBinaryTree" />
+      <item itemvalue="Application.FindAllPathsInABinaryTreeMatchingGivenSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAllPathsInABinaryTreeMatchingGivenSum" />
         <item itemvalue="Application.PathSumBinaryTree" />
         <item itemvalue="Application.PathSumII" />
         <item itemvalue="Application.PathSum" />
         <item itemvalue="Application.FindLowestCommonAncestorOfABinaryTree" />
-        <item itemvalue="Application.FindLCA" />
       </list>
     </recent_temporary>
   </component>
@@ -306,13 +307,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00101" summary="Mods">
-      <created>1588447359928</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1588447359929</updated>
     </task>
     <task id="LOCAL-00102" summary="Mods">
       <created>1589455254046</created>
@@ -650,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599349852092</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="Mods">
+      <created>1599407889527</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1599407889527</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -747,35 +748,35 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1592506922130" />
-    <state x="277" y="23" key="CommitChangelistDialog2" timestamp="1599349851925">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1599407889386">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1599349851925" />
-    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1599332062221" />
+    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1599407889386" />
     <state width="671" height="508" key="Git.Branch.Popup" timestamp="1590595980441">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="671" height="508" key="Git.Branch.Popup/0.23.1920.977@0.23.1920.977" timestamp="1590595980441" />
-    <state width="1878" height="472" key="GridCell.Tab.0.bottom" timestamp="1599407591212">
+    <state width="1878" height="472" key="GridCell.Tab.0.bottom" timestamp="1599408881334">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="368" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599352205955" />
-    <state width="1878" height="472" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599407591212" />
-    <state width="1878" height="472" key="GridCell.Tab.0.center" timestamp="1599407591212">
+    <state width="1878" height="472" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599408881334" />
+    <state width="1878" height="472" key="GridCell.Tab.0.center" timestamp="1599408881333">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="368" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599352205954" />
-    <state width="1878" height="472" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1599407591212" />
-    <state width="1878" height="472" key="GridCell.Tab.0.left" timestamp="1599407591211">
+    <state width="1878" height="472" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1599408881333" />
+    <state width="1878" height="472" key="GridCell.Tab.0.left" timestamp="1599408881333">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="368" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599352205954" />
-    <state width="1878" height="472" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1599407591211" />
-    <state width="1878" height="472" key="GridCell.Tab.0.right" timestamp="1599407591212">
+    <state width="1878" height="472" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1599408881333" />
+    <state width="1878" height="472" key="GridCell.Tab.0.right" timestamp="1599408881334">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="368" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599352205955" />
-    <state width="1878" height="472" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1599407591212" />
+    <state width="1878" height="472" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1599408881334" />
     <state width="1878" height="310" key="GridCell.Tab.1.bottom" timestamp="1599405961222">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -800,11 +801,11 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1592856492924" />
-    <state x="420" y="209" key="Vcs.Push.Dialog.v2" timestamp="1599349853542">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1599407890904">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="420" y="209" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1599349853542" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1599332063698" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1599407890904" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597537065986">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -1409,6 +1410,11 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/pathsumii/PathSumII.java</url>
           <line>36</line>
           <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/pathsumii/practice/FindAllPathsInABinaryTreeMatchingGivenSum.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="341" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
