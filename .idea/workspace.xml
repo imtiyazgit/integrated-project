@@ -27,6 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
+      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array2d/mergeintervals/MergeIntervals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +131,7 @@
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinNoOfMeetingRoomsNeededToScheduleMeetings">
+  <component name="RunManager" selected="Application.MergeIntervals">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -192,6 +193,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array2d.mergeintervals.MergeIntervals" />
+      <module name="angular-ex (1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algos.array2d.mergeintervals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MinNoOfMeetingRoomsNeededToScheduleMeetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algos.array.meetingroom.MinNoOfMeetingRoomsNeededToScheduleMeetings" />
       <module name="angular-ex (1)" />
@@ -213,20 +228,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algos.array.productofarrayexceptself.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveMinParanthesisToMakeStringValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.string.removeminparanthesistomakeitvalid.RemoveMinParanthesisToMakeStringValid" />
-      <module name="angular-ex (1)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algos.string.removeminparanthesistomakeitvalid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +281,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveMinParanthesisToMakeStringValid" />
       <item itemvalue="Application.TaskScheduler" />
       <item itemvalue="Application.ProductOfArrayExceptSelf" />
       <item itemvalue="Application.AddStrings" />
       <item itemvalue="Application.MinNoOfMeetingRoomsNeededToScheduleMeetings" />
+      <item itemvalue="Application.MergeIntervals" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeIntervals" />
         <item itemvalue="Application.MinNoOfMeetingRoomsNeededToScheduleMeetings" />
         <item itemvalue="Application.AddStrings" />
         <item itemvalue="Application.ProductOfArrayExceptSelf" />
         <item itemvalue="Application.TaskScheduler" />
-        <item itemvalue="Application.RemoveMinParanthesisToMakeStringValid" />
       </list>
     </recent_temporary>
   </component>
@@ -306,13 +307,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00108" summary="changelog added">
-      <created>1590273508017</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1590273508017</updated>
     </task>
     <task id="LOCAL-00109" summary="Test psvm added">
       <created>1590273528962</created>
@@ -650,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599607344414</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="Mods">
+      <created>1599671520132</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1599671520133</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -748,63 +749,63 @@
     </state>
     <state x="542" y="185" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1599605154931" />
     <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1599616875541" />
-    <state x="277" y="23" key="CommitChangelistDialog2" timestamp="1599607344262">
+    <state x="277" y="23" key="CommitChangelistDialog2" timestamp="1599671519955">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1599607344262" />
+    <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1599671519955" />
     <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1599493910709" />
     <state width="671" height="508" key="Git.Branch.Popup" timestamp="1590595980441">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="671" height="508" key="Git.Branch.Popup/0.23.1920.977@0.23.1920.977" timestamp="1590595980441" />
-    <state width="1398" height="100" key="GridCell.Tab.0.bottom" timestamp="1599670601062">
+    <state width="1398" height="329" key="GridCell.Tab.0.bottom" timestamp="1599682732934">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="100" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599670601062" />
+    <state width="1398" height="329" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599682732934" />
     <state width="1878" height="329" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599617123739" />
-    <state width="1398" height="100" key="GridCell.Tab.0.center" timestamp="1599670601059">
+    <state width="1398" height="329" key="GridCell.Tab.0.center" timestamp="1599682732933">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="100" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599670601059" />
+    <state width="1398" height="329" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599682732933" />
     <state width="1878" height="329" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1599617123738" />
-    <state width="1398" height="100" key="GridCell.Tab.0.left" timestamp="1599670601058">
+    <state width="1398" height="329" key="GridCell.Tab.0.left" timestamp="1599682732932">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="100" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599670601058" />
+    <state width="1398" height="329" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599682732932" />
     <state width="1878" height="329" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1599617123738" />
-    <state width="1398" height="100" key="GridCell.Tab.0.right" timestamp="1599670601060">
+    <state width="1398" height="329" key="GridCell.Tab.0.right" timestamp="1599682732933">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="100" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599670601060" />
+    <state width="1398" height="329" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599682732933" />
     <state width="1878" height="329" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1599617123738" />
-    <state width="1398" height="329" key="GridCell.Tab.1.bottom" timestamp="1599669683826">
+    <state width="1398" height="329" key="GridCell.Tab.1.bottom" timestamp="1599682732935">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="329" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599669683826" />
+    <state width="1398" height="329" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599682732935" />
     <state width="1878" height="329" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599617123970" />
-    <state width="1398" height="329" key="GridCell.Tab.1.center" timestamp="1599669683826">
+    <state width="1398" height="329" key="GridCell.Tab.1.center" timestamp="1599682732934">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="329" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599669683826" />
+    <state width="1398" height="329" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599682732934" />
     <state width="1878" height="329" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1599617123969" />
-    <state width="1398" height="329" key="GridCell.Tab.1.left" timestamp="1599669683825">
+    <state width="1398" height="329" key="GridCell.Tab.1.left" timestamp="1599682732934">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="329" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599669683825" />
+    <state width="1398" height="329" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599682732934" />
     <state width="1878" height="329" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1599617123969" />
-    <state width="1398" height="329" key="GridCell.Tab.1.right" timestamp="1599669683826">
+    <state width="1398" height="329" key="GridCell.Tab.1.right" timestamp="1599682732935">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="329" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599669683826" />
+    <state width="1398" height="329" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599682732935" />
     <state width="1878" height="329" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1599617123970" />
     <state x="448" y="93" key="SettingsEditor" timestamp="1592856492924">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1592856492924" />
-    <state x="420" y="209" key="Vcs.Push.Dialog.v2" timestamp="1599607345478">
+    <state x="420" y="209" key="Vcs.Push.Dialog.v2" timestamp="1599671521498">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="420" y="209" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1599607345478" />
+    <state x="420" y="209" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1599671521498" />
     <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1599493912037" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597537065986">
       <screen x="0" y="23" width="1920" height="977" />
@@ -814,10 +815,10 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="661" y="266" width="738" height="490" key="find.popup/0.23.1920.977@0.23.1920.977" timestamp="1599615700410" />
-    <state x="469" y="198" width="670" height="552" key="search.everywhere.popup" timestamp="1599671416551">
+    <state x="469" y="198" width="670" height="552" key="search.everywhere.popup" timestamp="1599671490866">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="469" y="198" width="670" height="552" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1599671416551" />
+    <state x="469" y="198" width="670" height="552" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1599671490866" />
     <state x="625" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1920.977@0.23.1920.977" timestamp="1599428552509" />
   </component>
   <component name="XDebuggerManager">
@@ -1440,6 +1441,21 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/conversion/AddStrings.java</url>
           <line>16</line>
           <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array2d/mergeintervals/MergeIntervals.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array2d/mergeintervals/MergeIntervals.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array2d/mergeintervals/MergeIntervals.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="364" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
