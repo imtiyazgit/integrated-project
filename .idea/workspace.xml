@@ -130,7 +130,7 @@
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -220,13 +220,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.array.productofarrayexceptself.ProductOfArrayExceptSelf" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array2d.kclosettoorigin.Solution" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.array.productofarrayexceptself.*" />
+          <option name="PATTERN" value="algos.array2d.kclosettoorigin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +280,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ProductOfArrayExceptSelf" />
       <item itemvalue="Application.AddStrings" />
       <item itemvalue="Application.MinNoOfMeetingRoomsNeededToScheduleMeetings" />
       <item itemvalue="Application.MergeIntervals" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MergeIntervals" />
         <item itemvalue="Application.MinNoOfMeetingRoomsNeededToScheduleMeetings" />
         <item itemvalue="Application.AddStrings" />
-        <item itemvalue="Application.ProductOfArrayExceptSelf" />
       </list>
     </recent_temporary>
   </component>
@@ -748,55 +748,51 @@
     </state>
     <state x="542" y="185" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1599605154931" />
     <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1599616875541" />
-    <state x="277" y="23" key="CommitChangelistDialog2" timestamp="1599684664688">
-      <screen x="0" y="23" width="1440" height="797" />
-    </state>
-    <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1599684664688" />
-    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1599493910709" />
-    <state width="671" height="508" key="Git.Branch.Popup" timestamp="1590595980441">
+    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1599773824139">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="671" height="508" key="Git.Branch.Popup/0.23.1920.977@0.23.1920.977" timestamp="1590595980441" />
-    <state width="1398" height="329" key="GridCell.Tab.0.bottom" timestamp="1599745955952">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1599684664688" />
+    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1599773824139" />
+    <state width="1878" height="133" key="GridCell.Tab.0.bottom" timestamp="1599771105590">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="329" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599617123739" />
-    <state width="1398" height="329" key="GridCell.Tab.0.center" timestamp="1599745955952">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1878" height="133" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599771105590" />
+    <state width="1878" height="133" key="GridCell.Tab.0.center" timestamp="1599771105589">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="329" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1599617123738" />
-    <state width="1398" height="329" key="GridCell.Tab.0.left" timestamp="1599745955951">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1878" height="133" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1599771105589" />
+    <state width="1878" height="133" key="GridCell.Tab.0.left" timestamp="1599771105589">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599745955951" />
-    <state width="1878" height="329" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1599617123738" />
-    <state width="1398" height="329" key="GridCell.Tab.0.right" timestamp="1599745955952">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1878" height="133" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1599771105589" />
+    <state width="1878" height="133" key="GridCell.Tab.0.right" timestamp="1599771105589">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="329" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1599617123738" />
-    <state width="1398" height="329" key="GridCell.Tab.1.bottom" timestamp="1599745955953">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1878" height="133" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1599771105589" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom" timestamp="1599771056575">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="329" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599617123970" />
-    <state width="1398" height="329" key="GridCell.Tab.1.center" timestamp="1599745955953">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599771056575" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center" timestamp="1599771056575">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="329" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1599617123969" />
-    <state width="1398" height="329" key="GridCell.Tab.1.left" timestamp="1599745955952">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1599771056575" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left" timestamp="1599771056574">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="329" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1599617123969" />
-    <state width="1398" height="329" key="GridCell.Tab.1.right" timestamp="1599745955953">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1599771056574" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right" timestamp="1599771056575">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="329" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1599617123970" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1599771056575" />
     <state x="448" y="93" key="SettingsEditor" timestamp="1592856492924">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -810,9 +806,10 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.977@0.23.1920.977" timestamp="1597537065986" />
-    <state x="661" y="266" width="738" height="490" key="find.popup" timestamp="1599615700410">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state x="496" y="221" width="568" height="490" key="find.popup" timestamp="1599770517313">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state x="496" y="221" width="568" height="490" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1599770517313" />
     <state x="661" y="266" width="738" height="490" key="find.popup/0.23.1920.977@0.23.1920.977" timestamp="1599615700410" />
     <state x="469" y="198" width="670" height="552" key="search.everywhere.popup" timestamp="1599671490866">
       <screen x="0" y="23" width="1440" height="797" />
@@ -1465,6 +1462,16 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/addstrings/Solution.java</url>
           <line>8</line>
           <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array2d/kclosettoorigin/Solution.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array2d/kclosettoorigin/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="368" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
