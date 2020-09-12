@@ -10,40 +10,40 @@ public class UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory {
      *                 ^
      * You are merging b elements onto a and therefore, nothing is returned. There is no new array you are calcuating here.
      */
-    private static void merge(int[] a, int[] b, int aLength, int bLength) {
-        // a1Length is at 5. Take that as input and calculate aIndex
-        // a2Length also take as input.
-        // Find mergeIndex which should be last element i.e. 0 in this case. which is a1Length + a2Length -1
-        // Also calculate bIndex
-
-        int aIndex = aLength-1;
-        int bIndex = bLength -1;
-        int mergeIndex= aLength + bLength -1;
+    public static void merge(int[] nums1, int m, int[] nums2, int n) {
+        int p1 = m-1;
+        int p2 = n-1;
+        int p= m + n -1;
 
         // Since we are working from backwords, use aIndex >0 and bIndex>0 on while breaking condition
-        while(aIndex >0 && bIndex>0) {
-
-            // Compare aIndex element with bIndex element. If b is greater, then copy that onto mergeIndex and decrement both mergeIndex and bIndex.
-            if (a[aIndex] < b[bIndex]) {
-                a[mergeIndex] = b[bIndex];
-                bIndex--;
+        while(p1>=0 && p2>=0) {
+            if (nums1[p1] < nums2[p2]) {
+                nums1[p--] = nums2[p2--];
             } else {
-                a[mergeIndex] = a[aIndex];
-                aIndex--;
+                nums1[p--] = nums1[p1--];
             }
-
-            mergeIndex--;
         }
 
-        System.out.println(Arrays.toString(a));
+        // copy missing elements
+        while(p1>=0) {
+            nums1[p--] = nums1[p1--];
+        }
 
+        while(p2>=0) {
+            nums1[p--] = nums2[p2--];
+        }
     }
 
     public static void main(String[] args) {
-        int[] a = {1, 3, 5, 0, 0, 0,0,0,0,0};
-        int[] b = {2, 4, 6, 7,8, 9, 10};
+//        int[] a = {3,5,6,0,0,0};
+//        int[] b = {1};
+//merge(a, 3, b, 1);
+        int[] a = {1,2,3,0,0,0  };
+        int[] b = {2,5,6};
 
-        merge(a, b, 3, 7);
+        merge(a, 3, b, 3);
+
+        System.out.println(Arrays.toString(a));
     }
 
 }

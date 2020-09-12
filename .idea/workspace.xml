@@ -28,6 +28,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +131,7 @@
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -178,13 +179,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.string.conversion.AddStrings" />
+    <configuration name="BasicJavaQueueExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.queue.BasicJavaQueueExamples" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.string.conversion.*" />
+          <option name="PATTERN" value="algos.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,13 +193,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.array2d.mergeintervals.MergeIntervals" />
+    <configuration name="Calculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.number.calculator2.Calculator2" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.array2d.mergeintervals.*" />
+          <option name="PATTERN" value="algos.number.calculator2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,13 +207,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinNoOfMeetingRoomsNeededToScheduleMeetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.array.meetingroom.MinNoOfMeetingRoomsNeededToScheduleMeetings" />
+    <configuration name="FindKthLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array.kthlargestelement.FindKthLargestElement" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.array.meetingroom.*" />
+          <option name="PATTERN" value="algos.array.kthlargestelement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,13 +221,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.array2d.kclosettoorigin.Solution" />
+    <configuration name="PrintRightsideViw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.tree.rightsideview.PrintRightsideViw" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.array2d.kclosettoorigin.*" />
+          <option name="PATTERN" value="algos.tree.rightsideview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,13 +235,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.string.addstrings.Solution" />
+    <configuration name="UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array.intersectionandunion.UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.string.addstrings.*" />
+          <option name="PATTERN" value="algos.array.intersectionandunion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +281,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AddStrings" />
-      <item itemvalue="Application.MinNoOfMeetingRoomsNeededToScheduleMeetings" />
-      <item itemvalue="Application.MergeIntervals" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.FindKthLargestElement" />
+      <item itemvalue="Application.BasicJavaQueueExamples" />
+      <item itemvalue="Application.PrintRightsideViw" />
+      <item itemvalue="Application.Calculator2" />
+      <item itemvalue="Application.UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MergeIntervals" />
-        <item itemvalue="Application.MinNoOfMeetingRoomsNeededToScheduleMeetings" />
-        <item itemvalue="Application.AddStrings" />
+        <item itemvalue="Application.UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory" />
+        <item itemvalue="Application.Calculator2" />
+        <item itemvalue="Application.PrintRightsideViw" />
+        <item itemvalue="Application.BasicJavaQueueExamples" />
+        <item itemvalue="Application.FindKthLargestElement" />
       </list>
     </recent_temporary>
   </component>
@@ -306,13 +307,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00110" summary="Revert &quot;changelog added&quot;&#10;&#10;This reverts commit 5121f47c">
-      <created>1590273711556</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1590273711557</updated>
     </task>
     <task id="LOCAL-00111" summary="Mods">
       <created>1590354830122</created>
@@ -650,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599684664856</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="Mods">
+      <created>1599848047660</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1599848047661</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -748,60 +749,60 @@
     </state>
     <state x="542" y="185" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1599605154931" />
     <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1599616875541" />
-    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1599773824139">
+    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1599848047411">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1599684664688" />
-    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1599773824139" />
-    <state width="1878" height="133" key="GridCell.Tab.0.bottom" timestamp="1599771105590">
+    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1599848047411" />
+    <state width="1878" height="423" key="GridCell.Tab.0.bottom" timestamp="1599872052587">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="133" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599771105590" />
-    <state width="1878" height="133" key="GridCell.Tab.0.center" timestamp="1599771105589">
+    <state width="1878" height="423" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599872052587" />
+    <state width="1878" height="423" key="GridCell.Tab.0.center" timestamp="1599872052586">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="133" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1599771105589" />
-    <state width="1878" height="133" key="GridCell.Tab.0.left" timestamp="1599771105589">
+    <state width="1878" height="423" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1599872052586" />
+    <state width="1878" height="423" key="GridCell.Tab.0.left" timestamp="1599872052586">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599745955951" />
-    <state width="1878" height="133" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1599771105589" />
-    <state width="1878" height="133" key="GridCell.Tab.0.right" timestamp="1599771105589">
+    <state width="1878" height="423" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1599872052586" />
+    <state width="1878" height="423" key="GridCell.Tab.0.right" timestamp="1599872052587">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="133" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1599771105589" />
-    <state width="1878" height="423" key="GridCell.Tab.1.bottom" timestamp="1599771056575">
+    <state width="1878" height="423" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1599872052587" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom" timestamp="1599872052792">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599771056575" />
-    <state width="1878" height="423" key="GridCell.Tab.1.center" timestamp="1599771056575">
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1599872052792" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center" timestamp="1599872052792">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="423" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1599771056575" />
-    <state width="1878" height="423" key="GridCell.Tab.1.left" timestamp="1599771056574">
+    <state width="1878" height="423" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1599872052792" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left" timestamp="1599872052791">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="423" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1599771056574" />
-    <state width="1878" height="423" key="GridCell.Tab.1.right" timestamp="1599771056575">
+    <state width="1878" height="423" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1599872052791" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right" timestamp="1599872052792">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="423" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1599771056575" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1599872052792" />
     <state x="448" y="93" key="SettingsEditor" timestamp="1592856492924">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1592856492924" />
-    <state x="420" y="209" key="Vcs.Push.Dialog.v2" timestamp="1599684666375">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1599848048996">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="420" y="209" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1599684666375" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1599493912037" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1599848048996" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597537065986">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -943,11 +944,6 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/linkedlist/yproblemmergenode/YProblem.java</url>
           <line>83</line>
           <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/UnionORMergeTwoSortedArraysIntoOneWithoutExtraMemory.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/definition/BinarySearchTree.java</url>
@@ -1472,6 +1468,26 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array2d/kclosettoorigin/Solution.java</url>
           <line>9</line>
           <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/kthlargestelement/FindKthLargestElement.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/rightsideview/PrintRightsideViw.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/number/calculator2/Calculator2.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/number/calculator2/Calculator2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="372" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
