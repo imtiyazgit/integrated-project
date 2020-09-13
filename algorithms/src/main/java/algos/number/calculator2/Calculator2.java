@@ -45,6 +45,6 @@ public class Calculator2 {
     }
 
     public static void main(String[] args) {
-        System.out.println(calculate("3+22*2+3-1"));
+        System.out.println(calculate("3-22*2+3-1"));
     }
 }

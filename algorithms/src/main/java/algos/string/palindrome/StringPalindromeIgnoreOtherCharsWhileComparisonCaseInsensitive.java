@@ -31,8 +31,38 @@ public class StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive {
         return true;
     }
 
+    public static boolean isPalindrome(String s) {
+
+        int i=0;
+        int j=s.length()-1;
+
+        while(i<j) {
+            while(!Character.isLetterOrDigit(s.charAt(i)) && i<j) {
+                i++;
+                continue;
+            }
+
+            while(!Character.isLetterOrDigit(s.charAt(j)) && i<j) {
+                j--;
+                continue;
+            }
+
+            if(Character.toLowerCase(s.charAt(i)) != Character.toLowerCase(s.charAt(j))) {
+                return false;
+            }
+
+            i++;
+            j--;
+        }
+        return true;
+
+    }
+
     public static void main(String[] args) {
-        String str = "A123Ba";
-        System.out.println(isStringPalindrome(str)); // true
+        //String str = "A123Ba";
+        //System.out.println(isStringPalindrome(str)); // true
+
+        String str = "A man, a plan, a canal: Panama";
+        System.out.println(isPalindrome(str));
     }
 }
