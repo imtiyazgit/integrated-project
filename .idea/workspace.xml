@@ -28,8 +28,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/number/calculator2/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/number/calculator2/Calculator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/palindrome/StringPalindromeIgnoreOtherCharsWhileComparisonCaseInsensitive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/IsStringsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/anagram/IsStringsAnagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +131,7 @@
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Trie">
+  <component name="RunManager" selected="Application.NumberOfIslands">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -180,13 +179,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.string.addbinary.AddBinary" />
+    <configuration name="FindAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.string.anagram.FindAnagrams" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.string.addbinary.*" />
+          <option name="PATTERN" value="algos.string.anagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,13 +193,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.number.calculator2.Calculator2" />
+    <configuration name="FindFirstLastPositionOfTargetInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array.firstlastpositionsortedarray.FindFirstLastPositionOfTargetInSortedArray" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.number.calculator2.*" />
+          <option name="PATTERN" value="algos.array.firstlastpositionsortedarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,13 +207,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDiameterOfABinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.tree.diameter.FindDiameterOfABinaryTree" />
+    <configuration name="NumberOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array2d.numberofislands.NumberOfIslands" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.tree.diameter.*" />
+          <option name="PATTERN" value="algos.array2d.numberofislands.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,13 +221,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.tree.trie.Trie" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array.firstlastpositionsortedarray.Test" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.tree.trie.*" />
+          <option name="PATTERN" value="algos.array.firstlastpositionsortedarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,13 +235,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordBreakII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.string.wordbreak.WordBreakII" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array.twosum.TwoSum" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.string.wordbreak.*" />
+          <option name="PATTERN" value="algos.array.twosum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,19 +281,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AddBinary" />
-      <item itemvalue="Application.FindDiameterOfABinaryTree" />
-      <item itemvalue="Application.Calculator2" />
-      <item itemvalue="Application.WordBreakII" />
-      <item itemvalue="Application.Trie" />
+      <item itemvalue="Application.FindFirstLastPositionOfTargetInSortedArray" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.FindAnagrams" />
+      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.NumberOfIslands" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Trie" />
-        <item itemvalue="Application.WordBreakII" />
-        <item itemvalue="Application.Calculator2" />
-        <item itemvalue="Application.FindDiameterOfABinaryTree" />
-        <item itemvalue="Application.AddBinary" />
+        <item itemvalue="Application.NumberOfIslands" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.FindAnagrams" />
+        <item itemvalue="Application.FindFirstLastPositionOfTargetInSortedArray" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -308,13 +307,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00113" summary="Mods">
-      <created>1590443559581</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1590443559581</updated>
     </task>
     <task id="LOCAL-00114" summary="Mods">
       <created>1590507882303</created>
@@ -652,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599920374654</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="Mods">
+      <created>1600009160805</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1600009160805</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -745,65 +744,65 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="577" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.977@0.23.1920.977" timestamp="1592253719878" />
-    <state x="723" y="222" key="#xdebugger.evaluate" timestamp="1599922931110">
+    <state x="723" y="222" key="#xdebugger.evaluate" timestamp="1600024426714">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="542" y="185" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1599605154931" />
-    <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1599922931110" />
-    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1599920374494">
+    <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1600024426714" />
+    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1600009160642">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1599684664688" />
-    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1599920374494" />
-    <state width="1878" height="423" key="GridCell.Tab.0.bottom" timestamp="1600008375919">
+    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1600009160642" />
+    <state width="1878" height="133" key="GridCell.Tab.0.bottom" timestamp="1600041443407">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="423" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1600008375919" />
-    <state width="1878" height="423" key="GridCell.Tab.0.center" timestamp="1600008375918">
+    <state width="1878" height="133" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1600041443407" />
+    <state width="1878" height="133" key="GridCell.Tab.0.center" timestamp="1600041443406">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="423" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1600008375918" />
-    <state width="1878" height="423" key="GridCell.Tab.0.left" timestamp="1600008375917">
+    <state width="1878" height="133" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1600041443406" />
+    <state width="1878" height="133" key="GridCell.Tab.0.left" timestamp="1600041443406">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599745955951" />
-    <state width="1878" height="423" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1600008375917" />
-    <state width="1878" height="423" key="GridCell.Tab.0.right" timestamp="1600008375919">
+    <state width="1878" height="133" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1600041443406" />
+    <state width="1878" height="133" key="GridCell.Tab.0.right" timestamp="1600041443407">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="423" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1600008375919" />
-    <state width="1878" height="423" key="GridCell.Tab.1.bottom" timestamp="1600008234758">
+    <state width="1878" height="133" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1600041443407" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom" timestamp="1600040395690">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1600008234758" />
-    <state width="1878" height="423" key="GridCell.Tab.1.center" timestamp="1600008234758">
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1600040395690" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center" timestamp="1600040395690">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="423" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1600008234758" />
-    <state width="1878" height="423" key="GridCell.Tab.1.left" timestamp="1600008234758">
+    <state width="1878" height="423" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1600040395690" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left" timestamp="1600040395689">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="423" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1600008234758" />
-    <state width="1878" height="423" key="GridCell.Tab.1.right" timestamp="1600008234758">
+    <state width="1878" height="423" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1600040395689" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right" timestamp="1600040395690">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="423" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1600008234758" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1600040395690" />
     <state x="448" y="93" key="SettingsEditor" timestamp="1592856492924">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1592856492924" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1599920375630">
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1600009162239">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="420" y="209" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1599684666375" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1599920375630" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1600009162239" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597537065986">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -1519,6 +1518,31 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/trie/Trie.java</url>
           <line>39</line>
           <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/firstlastpositionsortedarray/FindFirstLastPositionOfTargetInSortedArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/firstlastpositionsortedarray/FindFirstLastPositionOfTargetInSortedArray.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/firstlastpositionsortedarray/FindFirstLastPositionOfTargetInSortedArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/anagram/FindAnagrams.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array2d/numberofislands/NumberOfIslands.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="390" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

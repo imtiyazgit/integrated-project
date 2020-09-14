@@ -1,4 +1,4 @@
-package algos.string;
+package algos.string.anagram;
 
 public class IsStringsAnagram {
 
