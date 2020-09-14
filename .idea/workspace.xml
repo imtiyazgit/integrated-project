@@ -28,7 +28,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/IsStringsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/anagram/IsStringsAnagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +130,7 @@
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberOfIslands">
+  <component name="RunManager" selected="Application.MaximumPath">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -207,13 +206,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.array2d.numberofislands.NumberOfIslands" />
+    <configuration name="MaximumPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.tree.maximumpath.MaximumPath" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.array2d.numberofislands.*" />
+          <option name="PATTERN" value="algos.tree.maximumpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,13 +220,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.array.firstlastpositionsortedarray.Test" />
+    <configuration name="NumberOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array2d.numberofislands.NumberOfIslands" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.array.firstlastpositionsortedarray.*" />
+          <option name="PATTERN" value="algos.array2d.numberofislands.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,18 +281,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.FindFirstLastPositionOfTargetInSortedArray" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.FindAnagrams" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.NumberOfIslands" />
+      <item itemvalue="Application.MaximumPath" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumPath" />
         <item itemvalue="Application.NumberOfIslands" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.FindAnagrams" />
         <item itemvalue="Application.FindFirstLastPositionOfTargetInSortedArray" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -307,13 +306,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00114" summary="Mods">
-      <created>1590507882303</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1590507882303</updated>
     </task>
     <task id="LOCAL-00115" summary="Mods">
       <created>1590509136737</created>
@@ -651,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600009160805</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="Mods">
+      <created>1600041789309</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1600041789310</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -727,11 +726,11 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="792" y="499" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow/0.23.1920.977@0.23.1920.977" timestamp="1593275279184" />
-    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1599929873028">
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1600044335379">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="580" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1599669814503" />
-    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1599929873028" />
+    <state x="773" y="202" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977@0.23.1920.977" timestamp="1600044335379" />
     <state x="505" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593985615495">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -749,60 +748,68 @@
     </state>
     <state x="542" y="185" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1599605154931" />
     <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1600024426714" />
-    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1600009160642">
+    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1600041789036">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1599684664688" />
-    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1600009160642" />
-    <state width="1878" height="133" key="GridCell.Tab.0.bottom" timestamp="1600041443407">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1600041789036" />
+    <state width="1878" height="133" key="GridCell.Tab.0.bottom" timestamp="1600088082633">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="133" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1600041443407" />
-    <state width="1878" height="133" key="GridCell.Tab.0.center" timestamp="1600041443406">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1878" height="133" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1600088082633" />
+    <state width="1878" height="423" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1600044583710" />
+    <state width="1878" height="133" key="GridCell.Tab.0.center" timestamp="1600088082633">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="133" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1600041443406" />
-    <state width="1878" height="133" key="GridCell.Tab.0.left" timestamp="1600041443406">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1878" height="133" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1600088082633" />
+    <state width="1878" height="423" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1600044583709" />
+    <state width="1878" height="133" key="GridCell.Tab.0.left" timestamp="1600088082632">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1599745955951" />
-    <state width="1878" height="133" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1600041443406" />
-    <state width="1878" height="133" key="GridCell.Tab.0.right" timestamp="1600041443407">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1878" height="133" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1600088082632" />
+    <state width="1878" height="423" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1600044583707" />
+    <state width="1878" height="133" key="GridCell.Tab.0.right" timestamp="1600088082633">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="133" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1600041443407" />
-    <state width="1878" height="423" key="GridCell.Tab.1.bottom" timestamp="1600040395690">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1878" height="133" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1600088082633" />
+    <state width="1878" height="423" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1600044583710" />
+    <state width="1398" height="423" key="GridCell.Tab.1.bottom" timestamp="1600088082629">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1600040395690" />
-    <state width="1878" height="423" key="GridCell.Tab.1.center" timestamp="1600040395690">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1398" height="423" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1600088082629" />
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1600044583977" />
+    <state width="1398" height="423" key="GridCell.Tab.1.center" timestamp="1600088082628">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="423" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1600040395690" />
-    <state width="1878" height="423" key="GridCell.Tab.1.left" timestamp="1600040395689">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1398" height="423" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1600088082628" />
+    <state width="1878" height="423" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1600044583977" />
+    <state width="1398" height="423" key="GridCell.Tab.1.left" timestamp="1600088082628">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1599745955952" />
-    <state width="1878" height="423" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1600040395689" />
-    <state width="1878" height="423" key="GridCell.Tab.1.right" timestamp="1600040395690">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1398" height="423" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1600088082628" />
+    <state width="1878" height="423" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1600044583976" />
+    <state width="1398" height="423" key="GridCell.Tab.1.right" timestamp="1600088082629">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="329" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1599745955953" />
-    <state width="1878" height="423" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1600040395690" />
+    <state width="1398" height="423" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1600088082629" />
+    <state width="1878" height="423" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1600044583977" />
     <state x="448" y="93" key="SettingsEditor" timestamp="1592856492924">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1592856492924" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1600009162239">
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1600041790762">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="420" y="209" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1599684666375" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1600009162239" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1600041790761" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597537065986">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -1543,6 +1550,11 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array2d/numberofislands/NumberOfIslands.java</url>
           <line>25</line>
           <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/maximumpath/MaximumPath.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="392" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
