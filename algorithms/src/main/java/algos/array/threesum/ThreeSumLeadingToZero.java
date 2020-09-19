@@ -80,8 +80,56 @@ public class ThreeSumLeadingToZero {
         return results;
     }
 
+    public static List<List<Integer>> threeSumPractice(int[] nums) {
+
+        Arrays.sort(nums);
+        List<List<Integer>> results = new ArrayList<>();
+
+        for(int i=0;i<nums.length;i++) {
+            if(i >0 && nums[i] == nums[i-1]) {
+                continue;
+            }
+
+            int low = i+1;
+            int high = nums.length-1;
+
+            while(low<high) {
+                int sumToLookInSubset = 0-nums[i];
+                if(sumToLookInSubset == nums[low] + nums[high]) {
+                    results.add(Arrays.asList(nums[i], nums[low], nums[high]));
+                    while(low<high && nums[low] == nums[low+1]) {
+                        low++;
+                    }
+                    while(low<high && nums[high] == nums[high-1]) {
+                        high--;
+                    }
+                    low++;
+                    high--;
+                }
+                if(nums[low] + nums[high] > sumToLookInSubset) {
+                    high--;
+                }
+                if(nums[low] + nums[high] < sumToLookInSubset) {
+                    low++;
+                }
+
+            }
+        }
+
+
+        return results;
+
+    }
 
     public static void main(String[] args) {
+                int[] arr = {-4, -1, -1, -1, -1, 0, 1, 2};
+        List<List<Integer>> results = threeSumPractice(arr);
+        for(List<Integer> res:results) {
+            System.out.println(res);
+        }
+    }
+
+    public static void main2(String[] args) {
         int[] arr = {-4, -1, -1, 0, 1, 2};
         List<int[]> results = threeSum(arr);
         for(int[] array:results) {
