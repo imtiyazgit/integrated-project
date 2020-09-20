@@ -38,11 +38,41 @@ public class FindAnagrams {
         return result;
     }
 
+    public static List<Integer> findAnagrams2(String s, String p) {
+        int[] char_counts = new int[26];
+        for(char c:p.toCharArray()) {
+            char_counts[c-'a']++;
+        }
+
+        int left=0;
+        int right=0;
+        int count=p.length();
+        List<Integer> results = new ArrayList<>();
+
+        while(right < s.length()) {
+
+            if(char_counts[s.charAt(right++) - 'a']-- >= 1) {
+                count--;
+            }
+
+            if(count==0) {
+                results.add(left);
+            }
+
+            if(right-left == p.length() && char_counts[s.charAt(left++) - 'a']++ >=0) {
+                count++;
+            }
+
+        }
+
+        return results;
+    }
+
     public static void main(String[] args) {
-        String s = "dafg";
+        String s = "cbaebabacd";
         String p = "abc";
 
-        List<Integer> results = findAnagrams(s, p);
+        List<Integer> results = findAnagrams2(s, p);
         System.out.println(results);
     }
 }
