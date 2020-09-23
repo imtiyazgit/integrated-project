@@ -49,20 +49,41 @@ public class NumWaysDecode {
         return sum;
     }
 
+    public static int numDecodings(String s) {
+        int[] dp = new int[s.length() + 1];
+        dp[0] = 1;
+        dp[1] = s.charAt(0) == '0' ? 0 : 1;
+
+        for (int i = 2; i < dp.length ; i++) {
+            int oneDigit = Integer.valueOf(s.substring(i-1, i));
+            int twoDigits = Integer.valueOf(s.substring(i-2, i));
+            if(oneDigit >= 1) {
+                dp[i] += dp[i-1];
+            }
+
+            if(twoDigits >= 10 && twoDigits <=26) {
+                dp[i] += dp[i-2];
+            }
+            
+        }
+
+        return dp[s.length()];
+    }
+
     public static void main(String[] args) {
 
         // Go in order
         String str = "";
-        System.out.println(decode(str)); // Prints 1
+        //System.out.println(decode(str)); // Prints 1
 
         str = "0";
-        System.out.println(decode(str)); // Prints 1
+        //System.out.println(decode(str)); // Prints 1
 
         str = "27";
-        System.out.println(decode(str)); // Prints 1
+        System.out.println(numDecodings(str)); // Prints 1
 
         str = "12";
-        System.out.println(decode(str)); // Prints 2
+        //System.out.println(decode(str)); // Prints 2
 
     }
 
