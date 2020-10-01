@@ -1,8 +1,6 @@
 package algos.array.intersectionandunion;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 /**
  * Find common elements or intersection of two arrays

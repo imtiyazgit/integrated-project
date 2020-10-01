@@ -28,6 +28,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/IntersectionOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/array/intersectionandunion/IntersectionOfTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/StringPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/string/StringPermutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +132,7 @@
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.PermutationTest">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -192,13 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.stack.exclusivetimeoffunctions.Solution" />
+    <configuration name="BuySellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array.buysellstocks.BuySellStocks" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.stack.exclusivetimeoffunctions.*" />
+          <option name="PATTERN" value="algos.array.buysellstocks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,13 +208,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.number.maxswap.Solution" />
+    <configuration name="PermutationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.string.permutations.PermutationTest" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.number.maxswap.*" />
+          <option name="PATTERN" value="algos.string.permutations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,13 +222,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.tree.closestbstvalue.Solution2" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.string.nextpermutation.Solution" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.tree.closestbstvalue.*" />
+          <option name="PATTERN" value="algos.string.nextpermutation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,13 +236,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.tree.maxDiff.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.string.multiplystrings.Solution" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.tree.maxDiff.*" />
+          <option name="PATTERN" value="algos.string.multiplystrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,19 +282,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution2 (1)" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.BinaryTree" />
+      <item itemvalue="Application.BuySellStocks" />
+      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.PermutationTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PermutationTest" />
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.BinaryTree" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution2 (1)" />
+        <item itemvalue="Application.BuySellStocks" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -306,13 +308,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00126" summary="Mods">
-      <created>1591578882544</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1591578882544</updated>
     </task>
     <task id="LOCAL-00127" summary="Mods">
       <created>1592079361696</created>
@@ -650,7 +645,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600964848246</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="Mods">
+      <created>1600996199099</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1600996199099</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -718,10 +720,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Mods" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="129" key="#LineByLineAlternatingLeftToRight" timestamp="1592856244083">
-      <screen x="0" y="23" width="1920" height="977" />
-    </state>
-    <state x="583" y="129" key="#LineByLineAlternatingLeftToRight/0.23.1920.977@0.23.1920.977" timestamp="1592856244083" />
     <state x="792" y="499" key="#com.intellij.debugger.streams.ui.EvaluationAwareTraceWindow" timestamp="1593275279184">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -735,90 +733,78 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="505" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1920.977@0.23.1920.977" timestamp="1593985615495" />
-    <state x="639" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1592856163200">
-      <screen x="0" y="23" width="1920" height="977" />
-    </state>
-    <state x="639" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1920.977@0.23.1920.977" timestamp="1592856163200" />
-    <state x="577" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592253719878">
-      <screen x="0" y="23" width="1920" height="977" />
-    </state>
-    <state x="577" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.977@0.23.1920.977" timestamp="1592253719878" />
     <state x="723" y="222" key="#xdebugger.evaluate" timestamp="1600874167877">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="542" y="185" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1599605154931" />
     <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1600874167877" />
-    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1600964847855">
+    <state x="369" y="87" key="CommitChangelistDialog2" timestamp="1600996198943">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1599684664688" />
-    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1600964847855" />
-    <state width="1878" height="345" key="GridCell.Tab.0.bottom" timestamp="1600996191779">
+    <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1600996198943" />
+    <state width="1878" height="345" key="GridCell.Tab.0.bottom" timestamp="1601507761975">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="392" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600812463251" />
     <state width="1878" height="133" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1600088082633" />
-    <state width="1878" height="345" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1600996191779" />
-    <state width="1878" height="345" key="GridCell.Tab.0.center" timestamp="1600996191778">
+    <state width="1878" height="345" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1601507761975" />
+    <state width="1878" height="345" key="GridCell.Tab.0.center" timestamp="1601507761974">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="392" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1600812463250" />
     <state width="1878" height="133" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1600088082633" />
-    <state width="1878" height="345" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1600996191778" />
-    <state width="1878" height="345" key="GridCell.Tab.0.left" timestamp="1600996191777">
+    <state width="1878" height="345" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1601507761974" />
+    <state width="1878" height="345" key="GridCell.Tab.0.left" timestamp="1601507761973">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="392" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1600812463249" />
     <state width="1878" height="133" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1600088082632" />
-    <state width="1878" height="345" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1600996191777" />
-    <state width="1878" height="345" key="GridCell.Tab.0.right" timestamp="1600996191778">
+    <state width="1878" height="345" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1601507761973" />
+    <state width="1878" height="345" key="GridCell.Tab.0.right" timestamp="1601507761974">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="392" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1600812463250" />
     <state width="1878" height="133" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1600088082633" />
-    <state width="1878" height="345" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1600996191778" />
-    <state width="1878" height="345" key="GridCell.Tab.1.bottom" timestamp="1600996191780">
+    <state width="1878" height="345" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1601507761974" />
+    <state width="1878" height="345" key="GridCell.Tab.1.bottom" timestamp="1601507761976">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="392" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600812463253" />
     <state width="1398" height="423" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1600088082629" />
-    <state width="1878" height="345" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1600996191780" />
-    <state width="1878" height="345" key="GridCell.Tab.1.center" timestamp="1600996191780">
+    <state width="1878" height="345" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1601507761976" />
+    <state width="1878" height="345" key="GridCell.Tab.1.center" timestamp="1601507761975">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="392" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1600812463252" />
     <state width="1398" height="423" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1600088082628" />
-    <state width="1878" height="345" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1600996191780" />
-    <state width="1878" height="345" key="GridCell.Tab.1.left" timestamp="1600996191779">
+    <state width="1878" height="345" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1601507761975" />
+    <state width="1878" height="345" key="GridCell.Tab.1.left" timestamp="1601507761975">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="392" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1600812463252" />
     <state width="1398" height="423" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1600088082628" />
-    <state width="1878" height="345" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1600996191779" />
-    <state width="1878" height="345" key="GridCell.Tab.1.right" timestamp="1600996191780">
+    <state width="1878" height="345" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1601507761975" />
+    <state width="1878" height="345" key="GridCell.Tab.1.right" timestamp="1601507761976">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1398" height="392" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1600812463253" />
     <state width="1398" height="423" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1600088082629" />
-    <state width="1878" height="345" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1600996191780" />
-    <state x="448" y="93" key="SettingsEditor" timestamp="1592856492924">
-      <screen x="0" y="23" width="1920" height="977" />
-    </state>
-    <state x="448" y="93" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1592856492924" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1600964849370">
+    <state width="1878" height="345" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1601507761976" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2" timestamp="1600996200053">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="420" y="209" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1599684666375" />
-    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1600964849370" />
+    <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1600996200053" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597537065986">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.977@0.23.1920.977" timestamp="1597537065986" />
-    <state x="661" y="266" width="738" height="490" key="find.popup" timestamp="1600645629002">
+    <state x="661" y="266" width="761" height="490" key="find.popup" timestamp="1601229745078">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="496" y="221" width="568" height="490" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1599770517313" />
-    <state x="661" y="266" width="738" height="490" key="find.popup/0.23.1920.977@0.23.1920.977" timestamp="1600645629002" />
+    <state x="661" y="266" width="761" height="490" key="find.popup/0.23.1920.977@0.23.1920.977" timestamp="1601229745078" />
     <state x="625" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1600002221474">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -1725,6 +1711,21 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/maxDiff/Solution.java</url>
           <line>28</line>
           <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/buysellstocks/BuySellStocks.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/nextpermutation/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/string/multiplystrings/Solution.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="458" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

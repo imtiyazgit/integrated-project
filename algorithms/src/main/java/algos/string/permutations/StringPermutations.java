@@ -1,4 +1,4 @@
-package algos.string;
+package algos.string.permutations;
 
 import java.util.ArrayList;
 import java.util.HashSet;
