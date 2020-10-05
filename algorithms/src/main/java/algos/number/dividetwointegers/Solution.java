@@ -197,6 +197,6 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        System.out.println(divide2(10, 3));
+        System.out.println(divide2(17, 3));
     }
 }

@@ -92,9 +92,10 @@ public class ThreeSumLeadingToZero {
 
             int low = i+1;
             int high = nums.length-1;
+            int sumToLookInSubset = 0-nums[i];
 
             while(low<high) {
-                int sumToLookInSubset = 0-nums[i];
+
                 if(sumToLookInSubset == nums[low] + nums[high]) {
                     results.add(Arrays.asList(nums[i], nums[low], nums[high]));
                     while(low<high && nums[low] == nums[low+1]) {
@@ -106,10 +107,10 @@ public class ThreeSumLeadingToZero {
                     low++;
                     high--;
                 }
-                if(nums[low] + nums[high] > sumToLookInSubset) {
+                else if(nums[low] + nums[high] > sumToLookInSubset) {
                     high--;
                 }
-                if(nums[low] + nums[high] < sumToLookInSubset) {
+                else {
                     low++;
                 }
 
