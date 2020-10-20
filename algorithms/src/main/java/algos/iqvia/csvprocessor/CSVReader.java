@@ -79,6 +79,7 @@ public class CSVReader {
     public static void main(String[] args) {
 
         String csvFile = "/Users/imtiyaz/personal_projects/integrated-project/algorithms/src/main/java/algos/iqvia/csvprocessor/input_data_set.csv";
+
         String line = "";
         String cvsSplitBy = ",";
 
