@@ -30,7 +30,7 @@ class AssetGroupInfo {
         this.count = count;
     }
 
-    public int getTxAmount() {
+    public int  getTxAmount() {
         return txAmount;
     }
 
