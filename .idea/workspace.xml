@@ -28,7 +28,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7adcb0a5-486a-4df5-bb6d-884f9c5b6b42" name="Default" comment="Mods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/iqvia/csvprocessor/CSVReader2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/iqvia/csvprocessor/CSVReader2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithms/src/main/java/algos/number/calculator2/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithms/src/main/java/algos/number/calculator2/Calculator2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,7 @@
       <recent name="$PROJECT_DIR$/moxy-ex/src/main/resources/com.imtiyaz.examples/imtiyaz/examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.WebForum">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -179,13 +179,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="CSVReader2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.iqvia.csvprocessor.CSVReader2" />
+    <configuration name="Calculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.number.calculator2.Calculator2" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.iqvia.csvprocessor.*" />
+          <option name="PATTERN" value="algos.number.calculator2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,13 +193,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.iqvia.csvprocessor.GFG" />
+    <configuration name="Sol2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array.facebook.encoding.Sol2" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.iqvia.csvprocessor.*" />
+          <option name="PATTERN" value="algos.array.facebook.encoding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,13 +207,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerToEnglishWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.number.IntegerToEnglishWords" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array.facebook.encoding.Solution" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.number.*" />
+          <option name="PATTERN" value="algos.array.facebook.encoding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,13 +221,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerDeserTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.tree.serializedeserialize.SerDeserTree" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array.facebook.probability.Solution" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.tree.serializedeserialize.*" />
+          <option name="PATTERN" value="algos.array.facebook.probability.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,13 +235,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algos.number.Test" />
+    <configuration name="WebForum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algos.array.facebook.webforum.WebForum" />
       <module name="angular-ex (1)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algos.number.*" />
+          <option name="PATTERN" value="algos.array.facebook.webforum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +281,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CSVReader2" />
-      <item itemvalue="Application.GFG" />
-      <item itemvalue="Application.SerDeserTree" />
-      <item itemvalue="Application.IntegerToEnglishWords" />
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Calculator2" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Sol2" />
+      <item itemvalue="Application.WebForum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.IntegerToEnglishWords" />
-        <item itemvalue="Application.CSVReader2" />
-        <item itemvalue="Application.SerDeserTree" />
-        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.WebForum" />
+        <item itemvalue="Application.Sol2" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Calculator2" />
       </list>
     </recent_temporary>
   </component>
@@ -307,13 +307,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499192526279</updated>
-    </task>
-    <task id="LOCAL-00134" summary="Mods">
-      <created>1592851434903</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1592851434903</updated>
     </task>
     <task id="LOCAL-00135" summary="Mods">
       <created>1592922352651</created>
@@ -651,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603215780860</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="Mods">
+      <created>1603480259727</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1603480259727</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -736,74 +736,74 @@
     <state x="542" y="185" key="#xdebugger.evaluate/0.23.1440.797@0.23.1440.797" timestamp="1599605154931" />
     <state x="723" y="238" key="#xdebugger.evaluate/0.23.1920.1057@0.23.1920.1057" timestamp="1603214515558" />
     <state x="723" y="222" key="#xdebugger.evaluate/0.23.1920.977@0.23.1920.977" timestamp="1601669906432" />
-    <state x="369" y="92" key="CommitChangelistDialog2" timestamp="1603215780676">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="277" y="23" key="CommitChangelistDialog2" timestamp="1603480259297">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="1809" y="92" key="CommitChangelistDialog2/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603200381214" />
-    <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1601916283993" />
+    <state x="277" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1603480259297" />
     <state x="369" y="92" key="CommitChangelistDialog2/0.23.1920.1057@0.23.1920.1057" timestamp="1603215780676" />
     <state x="369" y="87" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1602895596621" />
-    <state width="1398" height="379" key="GridCell.Tab.0.bottom" timestamp="1603399779214">
+    <state width="1398" height="379" key="GridCell.Tab.0.bottom" timestamp="1603835299028">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.0.bottom/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603200687133" />
-    <state width="1398" height="379" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1603399779214" />
+    <state width="1398" height="379" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1603835299028" />
     <state width="1878" height="133" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1600088082633" />
     <state width="1878" height="379" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1603215888323" />
     <state width="1878" height="379" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1602895750260" />
-    <state width="1398" height="379" key="GridCell.Tab.0.center" timestamp="1603399779214">
+    <state width="1398" height="379" key="GridCell.Tab.0.center" timestamp="1603835299027">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.0.center/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603200687132" />
-    <state width="1398" height="379" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1603399779214" />
+    <state width="1398" height="379" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1603835299027" />
     <state width="1878" height="133" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1600088082633" />
     <state width="1878" height="379" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1603215888322" />
     <state width="1878" height="379" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1602895750260" />
-    <state width="1398" height="379" key="GridCell.Tab.0.left" timestamp="1603399779213">
+    <state width="1398" height="379" key="GridCell.Tab.0.left" timestamp="1603835299027">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.0.left/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603200687132" />
-    <state width="1398" height="379" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1603399779213" />
+    <state width="1398" height="379" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1603835299027" />
     <state width="1878" height="133" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1600088082632" />
     <state width="1878" height="379" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1603215888322" />
     <state width="1878" height="379" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1602895750259" />
-    <state width="1398" height="379" key="GridCell.Tab.0.right" timestamp="1603399779214">
+    <state width="1398" height="379" key="GridCell.Tab.0.right" timestamp="1603835299027">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.0.right/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603200687133" />
-    <state width="1398" height="379" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1603399779214" />
+    <state width="1398" height="379" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1603835299027" />
     <state width="1878" height="133" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1600088082633" />
     <state width="1878" height="379" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1603215888323" />
     <state width="1878" height="379" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1602895750260" />
-    <state width="1398" height="379" key="GridCell.Tab.1.bottom" timestamp="1603399779216">
+    <state width="1398" height="379" key="GridCell.Tab.1.bottom" timestamp="1603835299029">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.1.bottom/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603200687561" />
-    <state width="1398" height="379" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1603399779216" />
+    <state width="1398" height="379" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1603835299029" />
     <state width="1398" height="423" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1600088082629" />
     <state width="1878" height="379" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1603215888672" />
     <state width="1878" height="379" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1602895750865" />
-    <state width="1398" height="379" key="GridCell.Tab.1.center" timestamp="1603399779215">
+    <state width="1398" height="379" key="GridCell.Tab.1.center" timestamp="1603835299028">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.1.center/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603200687560" />
-    <state width="1398" height="379" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1603399779215" />
+    <state width="1398" height="379" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1603835299028" />
     <state width="1398" height="423" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1600088082628" />
     <state width="1878" height="379" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1603215888672" />
     <state width="1878" height="379" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1602895750864" />
-    <state width="1398" height="379" key="GridCell.Tab.1.left" timestamp="1603399779215">
+    <state width="1398" height="379" key="GridCell.Tab.1.left" timestamp="1603835299028">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.1.left/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603200687560" />
-    <state width="1398" height="379" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1603399779215" />
+    <state width="1398" height="379" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1603835299028" />
     <state width="1398" height="423" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1600088082628" />
     <state width="1878" height="379" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1603215888671" />
     <state width="1878" height="379" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1602895750864" />
-    <state width="1398" height="379" key="GridCell.Tab.1.right" timestamp="1603399779216">
+    <state width="1398" height="379" key="GridCell.Tab.1.right" timestamp="1603835299029">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.1.right/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603200687561" />
-    <state width="1398" height="379" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1603399779216" />
+    <state width="1398" height="379" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1603835299029" />
     <state width="1398" height="423" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1600088082629" />
     <state width="1878" height="379" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1603215888672" />
     <state width="1878" height="379" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1602895750865" />
@@ -811,11 +811,15 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="436" y="131" key="RollbackChangesDialog/0.23.1440.797@0.23.1440.797" timestamp="1603388014662" />
-    <state x="560" y="270" key="Vcs.Push.Dialog.v2" timestamp="1603215781894">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="208" y="23" width="959" height="797" key="SettingsEditor" timestamp="1603829983021">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="208" y="23" width="959" height="797" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1603829983021" />
+    <state x="420" y="209" key="Vcs.Push.Dialog.v2" timestamp="1603480261497">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="2000" y="270" key="Vcs.Push.Dialog.v2/0.23.1440.797/1440.23.1920.1057@1440.23.1920.1057" timestamp="1603200382394" />
-    <state x="420" y="209" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1601916285977" />
+    <state x="420" y="209" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1603480261497" />
     <state x="560" y="270" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1603215781894" />
     <state x="560" y="251" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1602895598637" />
     <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597537065986">
@@ -827,10 +831,10 @@
     </state>
     <state x="496" y="221" width="692" height="490" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1601932314608" />
     <state x="661" y="266" width="761" height="490" key="find.popup/0.23.1920.977@0.23.1920.977" timestamp="1601578012444" />
-    <state x="469" y="198" width="670" height="552" key="search.everywhere.popup" timestamp="1603386217778">
+    <state x="469" y="198" width="670" height="552" key="search.everywhere.popup" timestamp="1603669665573">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="469" y="198" width="670" height="552" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1603386217778" />
+    <state x="469" y="198" width="670" height="552" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1603669665573" />
     <state x="625" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1920.977@0.23.1920.977" timestamp="1602000095976" />
   </component>
   <component name="XDebuggerManager">
@@ -1868,6 +1872,16 @@
           <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/tree/serializedeserialize/SerDeserTree.java</url>
           <line>66</line>
           <option name="timeStamp" value="508" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/facebook/encoding/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="510" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithms/src/main/java/algos/array/facebook/encoding/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="511" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
